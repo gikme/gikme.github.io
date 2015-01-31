@@ -5,7 +5,7 @@ Category: podcast
 Tags: world of tanks, overmatch, blizzard, omsk, migration, ebay, russianpost, internet, ios, apple, svyaznoy, zalman, sergey babkin, kino, tim cook  
 Slug: 2014-11-19-tim-cook-thinking-about-migrate-to-iingushetia  
 Image: http://3.bp.blogspot.com/-IaCHGthpy1M/VGukc4g6pkI/AAAAAAAAYGs/4_U7QyJuaTM/s1600/gikme-pic-s02e66.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00066-tim-cook-thinking-about-migrate-to-iIngushetia.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00066-tim-cook-thinking-about-migrate-to-iIngushetia.mp3  
 Mime: audio/mpeg
 
 #### МУЗЫКА

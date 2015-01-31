@@ -5,7 +5,7 @@ Category: podcast
 Tags: android, apple, design, ios, smell phone, startup, xbox one  
 Slug: 2013-05-28-an-objective-comparison-of-the-android-and-iphone  
 Image: http://1.bp.blogspot.com/-H2Ia0Qol_4U/UaSvQBz1oGI/AAAAAAAALNc/SQQqHjlHHas/s1600/gikme-pic-s01e19.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00019-an-objective-comparison-of-the-android-and-iphone.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00019-an-objective-comparison-of-the-android-and-iphone.mp3  
 Mime: audio/mpeg
 
 #### ГОСТЬ ВЫПУСКА

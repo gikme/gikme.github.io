@@ -5,7 +5,7 @@ Category: podcast
 Tags: pornhub, lenta, igor belkin, роскомнадзор, yandex, google, drive, amazon, asus, huawei, charge, tumblr  
 Slug: 2014-03-17-44-pornhub-lenta-ru  
 Image: http://3.bp.blogspot.com/-fihb88-S-Dg/UyciaIpi5oI/AAAAAAAAM-M/qbgMDb_1RDQ/s1600/gikme-pic-s02e44.png  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00044-pornhub-and-journalists-of-lenta-ru-launch-new-media.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00044-pornhub-and-journalists-of-lenta-ru-launch-new-media.mp3  
 Mime: audio/mpeg
 
 #### ВСЁ ВСЁ

@@ -5,7 +5,7 @@ Category: podcast
 Tags: 4k, ces, edison, intel, lg, nelson mandela, pebble, rtk, softline, sony, tango, ассистент, дом.ру, мегафон, моё дело, мтс  
 Slug: 2014-01-15-mandela-presented-sign-language-system-on-ces-2014  
 Image: http://1.bp.blogspot.com/-Z0MfgqqFs8k/UtYop-gXcHI/AAAAAAAAMwY/EgVn2JN6oME/s1600/gikme-pic-s02e35.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00035-mandela-presented-sign-language-system-on-ces-2014.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00035-mandela-presented-sign-language-system-on-ces-2014.mp3  
 Mime: audio/mpeg
 
 #### ПОДКАСТ

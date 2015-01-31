@@ -5,7 +5,7 @@ Category: podcast
 Tags: ie, solar page, nvidia, asus, uhd alliance, android, samsung, linux, playstation, valve, xbox, pornhub, selfie  
 Slug: 2015-01-12-selfie-pod-from-microsoft-on-ces-2015  
 Image: http://2.bp.blogspot.com/-80YnAzMnDms/VLLJVDmcoOI/AAAAAAAAZD0/_zv_BFVm3z0/s1600/gikme-pic-s03e70.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s03/00070-selfie-pod-from-microsoft-on-ces-2015.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s03/00070-selfie-pod-from-microsoft-on-ces-2015.mp3  
 Mime: audio/mpeg
 
 #### ПОДКАСТ

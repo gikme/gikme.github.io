@@ -5,7 +5,7 @@ Category: podcast
 Tags: art, bill gates, dota, hackers, hangout, ibm, nvidia, poser, russianpost, steam, submarine, ti3, valve, vkontakte  
 Slug: 2013-08-14-tinkoff-burn-voronezhian-in-submarine  
 Image: http://3.bp.blogspot.com/-9kGqeoSPoxE/UgumVC6LI0I/AAAAAAAAL-g/j7BtHxOnTFE/s1600/gikme-pic-s01e30.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00030-tinkoff-burn-voronezhian-in-submarine.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00030-tinkoff-burn-voronezhian-in-submarine.mp3  
 Mime: audio/mpeg
 
 #### ГОСТЬ ВЫПУСКА

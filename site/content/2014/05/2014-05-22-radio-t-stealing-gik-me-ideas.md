@@ -5,7 +5,7 @@ Category: podcast
 Tags: vk, facebook, zukerberg, pintask, trello, youtube, twitch, design, apple, ios, masturbation, titanfall, radio-t, public speech, omsk  
 Slug: 2014-05-22-radio-t-stealing-gik-me-ideas  
 Image: http://3.bp.blogspot.com/-W-HVXyf67Iw/U3zmwe1VXUI/AAAAAAAANJI/dPjB5PY3dKs/s1600/gikme-pic-s02e52.jpg  
-Attachment: https://psv4.vk.me/c536212/u4395920/audios/76887706d1a7.mp3  
+Enclosure: https://psv4.vk.me/c536212/u4395920/audios/76887706d1a7.mp3  
 Mime: audio/mpeg
 
 **ВНИМАНИЕ:**  линк на файл покдаста указывает на сервера VK, т.к. на  

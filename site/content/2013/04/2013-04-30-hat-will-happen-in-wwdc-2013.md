@@ -5,7 +5,7 @@ Category: podcast
 Tags: apple, bing, microsoft, mtt, office, old48, skype, ubuntu, windows, woodenshark, wwdc  
 Slug: 2013-04-30-hat-will-happen-in-wwdc-2013  
 Image: http://4.bp.blogspot.com/-VAR4bcPbf50/UX-XKnt-5TI/AAAAAAAAKbY/gWul3wpmkwQ/s1600/gikme-pic-s01e15.png  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00015-wwdc-2013-program.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00015-wwdc-2013-program.mp3  
 Mime: audio/mpeg
 
 #### Подкаст

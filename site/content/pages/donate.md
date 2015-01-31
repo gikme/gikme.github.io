@@ -1,7 +1,7 @@
-Title: Донат
-Author: gikme
-Tags: donate, podcast, support
-Slug: donate
+Title: Донат  
+Author: gikme  
+Tags: donate, podcast, support  
+Slug: donate  
 Order: 99
 
 Вы можете поддержать подкаст, пожертвовав любую, комфортную для Вас сумму, на техническое оснащение студии. Не забудьте оставить ифномацию о себе в комментарии, чтобы мы могли укзать её в списке наших спонсоров!
@@ -14,9 +14,9 @@ Order: 99
 
 #### PayPal
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input name="cmd" type="hidden" value="_s-xclick" />
-<input name="hosted_button_id" type="hidden" value="BMF83KQSRA29Q" />
-<input alt="PayPal — более безопасный и легкий способ оплаты через Интернет!" border="0" name="submit" src="https://www.paypalobjects.com/ru_RU/RU/i/btn/btn_donateCC_LG.gif" type="image" />
-<img alt="donate" border="0" height="1" src="https://www.paypalobjects.com/ru_RU/i/scr/pixel.gif" width="1" />
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">  
+<input name="cmd" type="hidden" value="_s-xclick" />  
+<input name="hosted_button_id" type="hidden" value="BMF83KQSRA29Q" />  
+<input alt="PayPal — более безопасный и легкий способ оплаты через Интернет!" border="0" name="submit" src="https://www.paypalobjects.com/ru_RU/RU/i/btn/btn_donateCC_LG.gif" type="image" />  
+<img alt="donate" border="0" height="1" src="https://www.paypalobjects.com/ru_RU/i/scr/pixel.gif" width="1" />  
 </form>

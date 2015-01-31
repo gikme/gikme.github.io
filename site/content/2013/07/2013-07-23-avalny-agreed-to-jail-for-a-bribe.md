@@ -5,7 +5,7 @@ Category: podcast
 Tags: apple, castle, d3d9, firefly, hitler, kinect, lebedev, nathan fillion, navalny, proton, skype, startup, ukraine, vk, wine  
 Slug: 2013-07-23-avalny-agreed-to-jail-for-a-bribe  
 Image: http://4.bp.blogspot.com/-vkHduIWL52U/Ue6tCx8ErvI/AAAAAAAAL0k/ROlX_l7EBAE/s1600/whB0UMFbVxo.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00027-navalny-agreed-to-jail-for-a-bribe.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00027-navalny-agreed-to-jail-for-a-bribe.mp3  
 Mime: audio/mpeg
 
 #### РОССИЯ

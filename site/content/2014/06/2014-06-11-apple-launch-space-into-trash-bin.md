@@ -5,7 +5,7 @@ Category: podcast
 Tags: elftorgovec, samsung, google, ibm, freeman, sex factor, game insight, luxoft, it, winnie johns, uhd, computex, apple, wwdc  
 Slug: 2014-06-11-apple-launch-space-into-trash-bin  
 Image: http://1.bp.blogspot.com/-VtzhQnAvr4Y/U5dDkKMHs7I/AAAAAAAAPok/Tb37baVDgFo/s1600/gikme-pic-s02e54.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00054-apple-launch-space-into-trash-bin.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00054-apple-launch-space-into-trash-bin.mp3  
 Mime: audio/mpeg
 
 #### ГАДЖЕТЫ

@@ -5,7 +5,7 @@ Category: podcast
 Tags: amd, apple, facebook, glass, google, intel, iphone, qiwi, robot, trump, vk, youtube, болотная, дуров, роспотребнадзор, усманов  
 Slug: 2013-05-07-prisoners-of-bolotnaya  
 Image: http://2.bp.blogspot.com/-r_3rbZQxsVA/UYkFHZMPdJI/AAAAAAAAK04/Gpqxi7Zex34/s1600/gikme-pic-s01e16.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00016-prisoners-of-bolotnaya.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00016-prisoners-of-bolotnaya.mp3  
 Mime: audio/mpeg
 
 #### Гаджеты

@@ -5,7 +5,7 @@ Category: podcast
 Tags: apple, iphone, motorola, macbook, android, amd, skybridge, arm, selfie, tracksflow, google music, yandex.music, spotify, ibm, nexus, app.net, omsk  
 Slug: 2014-05-13-apple-killing-its-own-users  
 Image: http://1.bp.blogspot.com/-yG8gvn10Ab4/U3GCil5OgGI/AAAAAAAANF8/mFv_5NWVF5Q/s1600/gikme-pic-s02e51-2.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00051-apple-killing-its-own-users.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00051-apple-killing-its-own-users.mp3  
 Mime: audio/mpeg
 
 #### ГАДЖЕТЫ

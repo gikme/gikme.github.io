@@ -5,7 +5,7 @@ Category: podcast
 Tags: google, apple, django, python, fan, podcasting, sputnik, youtube, valve, linux, game, monopoly, springpad, laverna, thinkery, badcode  
 Slug: 2014-05-28-youtube-steals-djangos-childrens  
 Image: http://1.bp.blogspot.com/-hPHn6vr1opo/U4WTHIUVajI/AAAAAAAAPB8/-ltzhhzKpNU/s1600/gikme-pic-s02e52.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00053-youtube-steals-djangos-childrens.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00053-youtube-steals-djangos-childrens.mp3  
 Mime: audio/mpeg
 
 #### ПОДКАСТ

@@ -5,7 +5,7 @@ Category: podcast
 Tags: arnold schwarzenegger, bruce willis, design, facebook, hangout, microsoft, nintendo, nvidia, ouya, paypal, shield, silvester stallone, stepahin, zukerberg  
 Slug: 2013-08-21-pay-for-celebrities-tweets-trough-paypal  
 Image: http://2.bp.blogspot.com/-pVHJVyy74n0/UhTQfaiHhPI/AAAAAAAAL_k/Jw1D0PXZztY/s1600/gikme-pic-s01e31.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00031-pay-for-celebrities-tweets-trough-paypal.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00031-pay-for-celebrities-tweets-trough-paypal.mp3  
 Mime: audio/mpeg
 
 #### МИР

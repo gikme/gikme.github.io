@@ -5,7 +5,7 @@ Category: podcast
 Tags: apple, bing, chrome os, facebook, google, ios, lte, macos, microsoft, nokia, ouya, steam, steamos, valve, windows  
 Slug: 2014-03-11-free-windows-bing-replace-chrome-os  
 Image: http://2.bp.blogspot.com/-d5dLgrKNEOs/Ux8cxi3sWGI/AAAAAAAAM9k/Hr5NxoMicAo/s1600/gikme-pic-s02e43.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00043-free-windows-bing-replace-chrome-os.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00043-free-windows-bing-replace-chrome-os.mp3  
 Mime: audio/mpeg
 
 #### РОССИЯ

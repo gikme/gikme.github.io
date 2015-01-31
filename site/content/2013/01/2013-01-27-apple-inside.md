@@ -5,7 +5,7 @@ Category: podcast
 Tags: amd, android, apple, ati, counter strike, e-ink, firefox, half-live, iphone, linux, nexus, nokia, ouya, pebble, playstation, siri, steam, thq, windows 8, xbox  
 Slug: 2013-01-27-apple-inside  
 Image: http://2.bp.blogspot.com/-ahXRFnRbD2s/UQTdLbRCCEI/AAAAAAAAILM/22MYL4zQYUQ/s1600/gikme-pic-s01e02.png  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00002-apple-inside.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00002-apple-inside.mp3  
 Mime: audio/mpeg
 
 **ОШИБКА:** в подкасте говорится что Nexus 4 стоит \$200 - на самом деле  

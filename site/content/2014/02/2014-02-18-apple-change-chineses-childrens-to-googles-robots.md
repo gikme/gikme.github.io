@@ -5,7 +5,7 @@ Category: podcast
 Tags: adnroid, apple, cesium, clash of clans, google, iphone, power sleep, robot, samsung, tracksflow, yandex, казань, стволовые клетки  
 Slug: 2014-02-18-apple-change-chineses-childrens-to-googles-robots  
 Image: http://1.bp.blogspot.com/-RRgibIZed1s/UwOIhcZkHwI/AAAAAAAAM5c/N4McH320p2k/s1600/gikme-pic-s02e40.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00040-apple-change-chineses-childrens-to-googles-robots.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00040-apple-change-chineses-childrens-to-googles-robots.mp3  
 Mime: audio/mpeg
 
 #### IT

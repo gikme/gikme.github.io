@@ -5,7 +5,7 @@ Category: podcast
 Tags: starwars, vkontakte, fifa, orkut, android, games, fargo, kupi.ru, ozon, golang  
 Slug: 2014-07-10-brazil-had-won-vkontakte-facebook-7-1  
 Image: http://3.bp.blogspot.com/-YJGWim2QApA/U72OW6jDbrI/AAAAAAAARig/zmIBooXaLmI/s1600/gikme-pic-s02e58.jpeg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00058-brazil-had-won-vkontakte-facebook-7-1.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00058-brazil-had-won-vkontakte-facebook-7-1.mp3  
 Mime: audio/mpeg
 
 #### ПОДКАСТ

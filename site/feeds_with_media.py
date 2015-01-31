@@ -11,26 +11,26 @@ from pelican.utils import set_date_tzinfo
 from feedgenerator.django.utils.feedgenerator import Enclosure
 
 
-class PodcastWriter(Writer):
+class MediaWriter(Writer):
     """
     Media file support in feed writer
     """
 
     def _add_item_to_the_feed(self, feed, item):
         title = Markup(item.title).striptags()
-        attachment = getattr(item, 'attachment', '')
+        enclosure = getattr(item, 'enclosure', '')
         mime = getattr(item, 'mime', '')
-        enclosure = attachment and Enclosure(attachment, '', mime) or None
+        enclosure = enclosure and Enclosure(enclosure, '', mime) or None
         image = getattr(item, 'image', '')
 
         if image:
             image = u'<img alt="{0}" src="{1}"/><br/>'.format(
-                title.replace('&', '&amp;'
-                ).replace('<', '&lt;'
-                ).replace('>', '&gt;'
-                ).replace('"', '&quot;'
-                ).replace("'", '&#39;'
-                ), image)
+                                                                title.replace('&', '&amp;'
+                                                                ).replace('<', '&lt;'
+                                                                ).replace('>', '&gt;'
+                                                                ).replace('"', '&quot;'
+                                                                ).replace("'", '&#39;'
+                                                                ), image)
 
         link = '%s/%s' % (self.site_url, item.url)
         feed.add_item(
@@ -50,9 +50,9 @@ class PodcastWriter(Writer):
 
 def get_writer(writers):
     """Module function invoked by the signal 'get_generators'."""
-    return PodcastWriter
+    return MediaWriter
 
 
 def register():
-    """Registers the module function `get_generators`."""
+    """Registers the module function `get_writer`."""
     signals.get_writer.connect(get_writer)

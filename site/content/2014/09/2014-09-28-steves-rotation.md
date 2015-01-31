@@ -5,7 +5,7 @@ Category: podcast
 Tags: ганди, microsoft, mojang, minecraft, wasteland, steven hoking, mars one, ebay, qiwi, alibaba, ello, iphone, apple, watch, android, mail.ru, vkontakte, steve jobs  
 Slug: 2014-09-28-steves-rotation  
 Image: http://4.bp.blogspot.com/-Pxj5h2L_tJA/VCf3AlZ_CeI/AAAAAAAAWTY/GERCgyez4fA/s1600/gikme-pic-s02e63.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00063-steves-rotation.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00063-steves-rotation.mp3  
 Mime: audio/mpeg
 
 #### КНИГИ

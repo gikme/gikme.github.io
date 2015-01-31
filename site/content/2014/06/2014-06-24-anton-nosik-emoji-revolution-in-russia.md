@@ -5,7 +5,7 @@ Category: podcast
 Tags: emoji, unicode, ruble, harley-davidson, nissan, bmw, tesla, honda, iwatch, e-commerce, secret, valve, copyright, wooly cheese, woman, adobe  
 Slug: 2014-06-24-anton-nosik-emoji-revolution-in-russia  
 Image: http://3.bp.blogspot.com/-UwqTJ21YU7k/U6jvLNBC4YI/AAAAAAAAPwM/UAtLCk2Kkwg/s1600/gikme-pic-s02e56.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00056-anton-nosik-emoji-revolution-in-russia.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00056-anton-nosik-emoji-revolution-in-russia.mp3  
 Mime: audio/mpeg
 
 #### МИР

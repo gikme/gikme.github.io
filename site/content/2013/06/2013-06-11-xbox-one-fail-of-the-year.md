@@ -5,7 +5,7 @@ Category: podcast
 Tags: apple, coca-cola, darpa, e-ink, e3, icq, intel, ios, iphone, rosa, samsung, sony, wwdc, xperia  
 Slug: 2013-06-11-xbox-one-fail-of-the-year  
 Image: http://1.bp.blogspot.com/-PHvXx-WZVmo/UbdFO8o9pqI/AAAAAAAALW8/abFVvptP7bk/s1600/gikme-pic-s01e21.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00021-xbox-one-fail-of-the-year.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00021-xbox-one-fail-of-the-year.mp3  
 Mime: audio/mpeg
 
 #### IT

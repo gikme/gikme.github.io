@@ -5,7 +5,7 @@ Category: podcast
 Tags: 5g, amd, android, firefox, iphone, playstation, qualcomm, samsung, sony, tizen, ubuntu, wacom, webos, windows, yandex, yota, вконтакте  
 Slug: 2013-03-03-tizen-in-my-head  
 Image: http://4.bp.blogspot.com/-QiSwmoBJkoE/UTNZFaYPh5I/AAAAAAAAJTY/VJ5QzzRMCn8/s1600/gikme-pic-s01e07.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00007-tizen-in-my-head.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00007-tizen-in-my-head.mp3  
 Mime: audio/mpeg
 
 #### Вне IT 

@@ -5,7 +5,7 @@ Category: podcast
 Tags: alienware, asm.js, cloud, ebay, gecko, google, lego, mail.ru, mantis, mindstorms, mozilla, rust, servo, steam, titan, ubuntu, webkit, yandex  
 Slug: 2013-04-09-cloud-atlas  
 Image: http://2.bp.blogspot.com/-khO1sjpO_A4/UWO_Nkub6mI/AAAAAAAAKQo/eZ7khcbifvw/s1600/gikme-pic-s01e12.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00012-cloud-atlas.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00012-cloud-atlas.mp3  
 Mime: audio/mpeg
 
 Гость выпуска Виталий Шароватов. <http://sharovatov.ru/>

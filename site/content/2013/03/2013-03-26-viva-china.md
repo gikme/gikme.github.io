@@ -5,7 +5,7 @@ Category: podcast
 Tags: blue, google, gosuslugi, lenovo, politics, russia, samsung, tom cruise, vk, warcraft, windows, youtube, часы  
 Slug: 2013-03-26-viva-china  
 Image: http://2.bp.blogspot.com/-xK6d3plwaOM/UVGuQv_ooLI/AAAAAAAAKIA/M-PgMy9vq-4/s1600/gikme-pic-s01e10.png  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00010-viva-china.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00010-viva-china.mp3  
 Mime: audio/mpeg
 
 #### Подкаст

@@ -5,7 +5,7 @@ Category: podcast
 Tags: apple, asm.js, bittorrent bundle, ebay, flickr, javascript, linux, macbook, mozilla, ouya, torrent, unreal, windows 8, yahoo, стартап-сабантуй  
 Slug: 2013-05-14-apples-device-has-mutilated-his-owner  
 Image: http://2.bp.blogspot.com/-7ntmlTnUq9w/UZIxKEW4iBI/AAAAAAAALHQ/R6ncVDv2heY/s1600/gikme-pic-s01e17.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00017-apples-device-has-mutilated-his-owner.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00017-apples-device-has-mutilated-his-owner.mp3  
 Mime: audio/mpeg
 
 #### Сенсация

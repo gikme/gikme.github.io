@@ -4,8 +4,8 @@ Author: gikme
 Category: podcast  
 Tags: controller, ddr4, fujitsu, google, gta, hmc, ikea, machines, micron, microsoft, nexus, space x, steam, steamos, steve ballmer, valve, xi3  
 Slug: 2013-10-02-valve-top-game-console-developer  
-Image: http://1.bp.blogspot.com/-jrtqFGjGcCU/UkuZWde3l_I/AAAAAAAAMC0/psqmsqikz8E/s1600/gikme-pic-s01e34.jpg
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00034-valve-top-game-console-developer.mp3  
+Image: http://1.bp.blogspot.com/-jrtqFGjGcCU/UkuZWde3l_I/AAAAAAAAMC0/psqmsqikz8E/s1600/gikme-pic-s01e34.jpg  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00034-valve-top-game-console-developer.mp3  
 Mime: audio/mpeg
 
 #### ХОФИКСЫ

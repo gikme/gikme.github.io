@@ -5,7 +5,7 @@ Category: podcast
 Tags: facebook, oculus rift, amazon, vkontakte, stickers, apple, emoji, microsoft, android, motorola, lg, lentach, itunes, yandex, pocket, hangout, depeche mode  
 Slug: 2014-03-27-45-android-wear-oculus  
 Image: http://3.bp.blogspot.com/-dSWRoMCJ7Zw/UzRN4bS3YjI/AAAAAAAAM_w/btPXthVT-j8/s1600/gikme-pic-s02e45.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00045-zuckerberg-install-android-wear-on-oculus-rift.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00045-zuckerberg-install-android-wear-on-oculus-rift.mp3  
 Mime: audio/mpeg
 
 #### ПОДКАСТ

@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-import feeds_with_media
+# import feeds_with_media
 from filters import cat_name
 
 AUTHOR = u'gikme'
 SITENAME = u'gik.me'
 SITEURL = 'http://gik.me'
-DISQUS_SITENAME = 'gikmetumb'
+DISQUS_SITENAME = 'gikme'
 
 PATH = 'content'
 # STATIC_PATHS = ['audio', 'podcast', 'overflow', 'text', 'downloads']
@@ -37,6 +37,7 @@ JINJA_FILTERS = {
 }
 
 DEFAULT_PAGINATION = 10
+LOAD_CONTENT_CACHE = False
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -61,7 +62,7 @@ DELETE_OUTPUT_DIRECTORY = True
 SUMMARY_MAX_LENGTH = 30
 PAGE_ORDER_BY = 'order'
 
-PLUGINS = [feeds_with_media, ]
+PLUGINS = ['feeds_with_media', ]
 
 CATEGORY_MAP = {
     'hangout': u'хэнгаут',

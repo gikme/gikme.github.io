@@ -5,7 +5,7 @@ Category: podcast
 Tags: e3, civilization, linux, steam, ubuntu, ea, ubisoft, sony, microsoft, bungie, google, nokia, android, tesla, secret, bugreport  
 Slug: 2014-06-17-tesla-motors-in-e3-games  
 Image: http://1.bp.blogspot.com/-Rn-PK6cW844/U581UYEUZSI/AAAAAAAAPug/tTNI9La46RU/s1600/gikme-pic-s02e55.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00055-tesla-motors-in-e3-games.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00055-tesla-motors-in-e3-games.mp3  
 Mime: audio/mpeg
 
 #### В ГОСТЯХ

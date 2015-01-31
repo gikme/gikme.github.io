@@ -5,7 +5,7 @@ Category: podcast
 Tags: 2ds, amazon, android, apple, hearthstone, megaupload, microsoft, nnm-club, nokia, nvidia, oppo, outlook, ps vita, scrolls, skype, startup, steve ballmer, virt2real, wacom  
 Slug: 2013-09-03-steve-ballmer-will-russian-startups  
 Image: http://1.bp.blogspot.com/-3H0UKYPpepE/UiTLSNK60tI/AAAAAAAAMAA/NwDCVx3fJMc/s1600/gikme-pic-s01e32.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00032-steve-ballmer-will-russian-startups.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00032-steve-ballmer-will-russian-startups.mp3  
 Mime: audio/mpeg
 
 #### ПОДКАСТ

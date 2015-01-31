@@ -5,7 +5,7 @@ Category: podcast
 Tags: freelance, nokia, outsource, python, samsung, startup, stratoplan, symbian, talkbits, tizen, ubuntu  
 Slug: 2013-02-17-debut-at-the-crater  
 Image: http://2.bp.blogspot.com/-vS46ampt5TM/USDCV-Bz9WI/AAAAAAAAI2M/9qIkEZFtuNQ/s1600/QEZoWLYKgBw.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00005-debut-at-the-crater.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00005-debut-at-the-crater.mp3  
 Mime: audio/mpeg
 
 #### Гость 

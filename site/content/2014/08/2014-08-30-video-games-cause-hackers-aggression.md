@@ -5,7 +5,7 @@ Category: podcast
 Tags: отпуск, psn, playstation, xbox, battle.net, linux, design, comments, swing copters, android, ios, iphone, samsung, apple, moto 360, tesla, ipad, nike, russianpost, duck commandor, batman, japan  
 Slug: 2014-08-30-video-games-cause-hackers-aggression  
 Image: http://4.bp.blogspot.com/-P9_N4hdML4g/VAGQMNp5coI/AAAAAAAAVCc/zsd3zTxR1Tw/s1600/gikme-pic-s02e62.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00062-video-games-cause-hackers-aggression.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00062-video-games-cause-hackers-aggression.mp3  
 Mime: audio/mpeg
 
 #### ПОДКАСТ

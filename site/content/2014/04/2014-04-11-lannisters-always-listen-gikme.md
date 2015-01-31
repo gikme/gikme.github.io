@@ -5,7 +5,7 @@ Category: podcast
 Tags: ubuntu, one, ё-мобиль, маруся, yandex.music, facebook, android, amazon, google, game of thrones, avatar  
 Slug: 2014-04-11-lannisters-always-listen-gikme  
 Image: http://1.bp.blogspot.com/-UE-FayUmGho/U0d_Fr3Ur6I/AAAAAAAANBU/8l5qoqcflG4/s1600/gikme-pic-s02e47.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00047-lannisters-always-listen-gikme.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00047-lannisters-always-listen-gikme.mp3  
 Mime: audio/mpeg
 
 #### ВСЁ ВСЁ

@@ -5,7 +5,7 @@ Category: podcast
 Tags: microsoft, windows, hololens, leatherman, dna, 3d, izard squad, telegram, whatsapp, megachat  
 Slug: 2015-01-28-geek-bijouterie-from-kim-dotcom  
 Image: http://2.bp.blogspot.com/-J_mGcjw2mY0/VMkXFXYDzxI/AAAAAAAAZHM/7YUKNYpFfT0/s1600/gikme-pic-s03e72.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s03/00072-geek-bijouterie-from-kim-dotcom.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s03/00072-geek-bijouterie-from-kim-dotcom.mp3  
 Mime: audio/mpeg
 
 #### ГОСТЬ

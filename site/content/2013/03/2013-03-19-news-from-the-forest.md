@@ -5,7 +5,7 @@ Category: podcast
 Tags: amd, apple, avito, blackberry, dropbox, glass, gmail, google, keep, lg, mailbox, might-magic, paypal, playstation, reader, samsung, sgs, tizen, yandex  
 Slug: 2013-03-19-news-from-the-forest  
 Image: http://1.bp.blogspot.com/-Z-Y998izjr4/UUhPxssu2WI/AAAAAAAAJbY/kF7A7JRdLAs/s1600/gikme-pic-s01e09.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00009-news-from-forest.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00009-news-from-forest.mp3  
 Mime: audio/mpeg
 
 #### Подкаст

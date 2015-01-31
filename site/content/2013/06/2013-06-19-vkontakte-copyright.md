@@ -5,7 +5,7 @@ Category: podcast
 Tags: ea, gameloft, gorilla glass, ios, microsoft, nintendo, nvidia, ouya, playstation, russianpost, sony, ubisoft, vkontakte, world of tanks, xbox, гуфовский  
 Slug: 2013-06-19-vkontakte-copyright  
 Image: http://4.bp.blogspot.com/-C0HA0ReFs8w/UcGmO-tXD3I/AAAAAAAALg4/q75VXavmDZg/s1600/gikme-pic-s01e22.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s01/00022-vkontakte-copyright.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00022-vkontakte-copyright.mp3  
 Mime: audio/mpeg
 
 #### ГОСТИ ПОДКАСТА

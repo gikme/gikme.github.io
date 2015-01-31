@@ -5,7 +5,7 @@ Category: podcast
 Tags: tjournal, siliconrus, google, captcha, us airways, sid mayer, civilization, ubuntu, linux, clash of clans, hearthstone, ipad, android, diablo, ps4, numix, tails  
 Slug: 2014-04-21-zuckerberg-buy-tjournal-and-gikme  
 Image: http://4.bp.blogspot.com/-R_z3NB5Lx7s/U1S-JqPf-zI/AAAAAAAANFE/616Co4vHkFw/s1600/gikme-pic-s02e49.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00049-zuckerberg-buy-tjournal-and-gikme.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00049-zuckerberg-buy-tjournal-and-gikme.mp3  
 Mime: audio/mpeg
 
 #### ИНТЕРНЕТ

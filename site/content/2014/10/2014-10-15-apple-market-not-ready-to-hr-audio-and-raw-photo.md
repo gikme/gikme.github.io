@@ -5,7 +5,7 @@ Category: podcast
 Tags: twitter, facebook, google+, russia, windows, photoshop, chrome os, linux, cyanogenmod, valve, sony, hr audio  
 Slug: 2014-10-15-apple-market-not-ready-to-hr-audio-and-raw-photo  
 Image: http://2.bp.blogspot.com/-fJnfQPNJAj0/VD4Bx95qBRI/AAAAAAAAW4s/ON0CZ_kVAoA/s1600/gikme-pic-s02e64.jpg  
-Attachment: http://static.qnub.ru/gik.me/mp3/s02/00064-apple-market-not-ready-to-hr-audio-and-raw-photo.mp3  
+Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00064-apple-market-not-ready-to-hr-audio-and-raw-photo.mp3  
 Mime: audio/mpeg
 
 Сорри за плохой звук. Саша записывался через встроенный микрофон и не  
