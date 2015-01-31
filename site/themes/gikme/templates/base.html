@@ -41,6 +41,7 @@
 </head>
 <body>
     <header>
+        <a href="{{ SITEURL }}" class="site-logo"><img class="site-logo__image" alt="gik.me" src="{{ SITEURL }}/theme/images/logo.png"/></a>
         <nav>
             {# {%- block ephemeral_nav %}{%- endblock %} #}
 
@@ -62,12 +63,12 @@
             {% endfor %}
             {% endif %}
         </nav>
-        <div class="header_box">
+        {# <div class="header_box">
             <h1><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
             {% if SITESUBTITLE %}
             <h2>{{ SITESUBTITLE }}</h2>
             {% endif %}
-        </div>
+        </div> #}
     </header>
     <div id="wrapper">
         <div id="sidebar">

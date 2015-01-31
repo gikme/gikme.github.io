@@ -1,22 +1,23 @@
-Title: #30, Тиньков сжег воронежца в субмарине
-Date: 2013-08-14 03:00:00
-Author: gikme
-Category: podcast
-Tags: art, bill gates, dota, hackers, hangout, ibm, nvidia, poser, russianpost, steam, submarine, ti3, valve, vkontakte
-Slug: 2013-08-14-tinkoff-burn-voronezhian-in-submarine
-
-![gik.me podcast picture](http://3.bp.blogspot.com/-9kGqeoSPoxE/UgumVC6LI0I/AAAAAAAAL-g/j7BtHxOnTFE/s1600/gikme-pic-s01e30.jpg)
+Title: #30, Тиньков сжег воронежца в субмарине  
+Date: 2013-08-14 03:00:00  
+Author: gikme  
+Category: podcast  
+Tags: art, bill gates, dota, hackers, hangout, ibm, nvidia, poser, russianpost, steam, submarine, ti3, valve, vkontakte  
+Slug: 2013-08-14-tinkoff-burn-voronezhian-in-submarine  
+Image: http://3.bp.blogspot.com/-9kGqeoSPoxE/UgumVC6LI0I/AAAAAAAAL-g/j7BtHxOnTFE/s1600/gikme-pic-s01e30.jpg  
+Attachment: http://static.qnub.ru/gik.me/mp3/s01/00030-tinkoff-burn-voronezhian-in-submarine.mp3  
+Mime: audio/mpeg
 
 #### ГОСТЬ ВЫПУСКА
 
-Виталий Зайцев, Ruby-программист, фрилансер.
-    <http://vitaliyzaytsev.com/>
+Виталий Зайцев, Ruby-программист, фрилансер.  
+<http://vitaliyzaytsev.com/>
 
 #### ИГРЫ
 
-Финальчик интернешнла по Dota 2. 01:58 <http://navi-gaming.com/>
-    <http://www.youtube.com/user/dotasltv/>
-    <http://www.dota2.com/international/prelims/results/>
+Финальчик интернешнла по Dota 2. 01:58 <http://navi-gaming.com/>  
+<http://www.youtube.com/user/dotasltv/>  
+<http://www.dota2.com/international/prelims/results/>
 
 #### ПОДКАСТ
 
@@ -24,24 +25,24 @@ Slug: 2013-08-14-tinkoff-burn-voronezhian-in-submarine
 
 #### IT
 
-Х/Ф Хакеры. 14:54 <http://j.mp/1d75yiG>
-Открытая мощь IBM. 39:07 <http://j.mp/1d75D6a>
-Билл гейтс сказал, что гугл — гавно и программа их тоже гавно. 50:06
-    <http://j.mp/1d75HCP>
+Х/Ф Хакеры. 14:54 <http://j.mp/1d75yiG>  
+Открытая мощь IBM. 39:07 <http://j.mp/1d75D6a>  
+Билл гейтс сказал, что гугл — гавно и программа их тоже гавно. 50:06  
+<http://j.mp/1d75HCP>
 
 #### МИР
 
-Необузданный маляр сжог атомную субмарину. 24:31
-    <http://j.mp/1d75M9B>
-Женщина сожгла пол дюжины первоклассных шедевров. 27:41
-    <http://j.mp/1d75O1g>
+Необузданный маляр сжог атомную субмарину. 24:31  
+<http://j.mp/1d75M9B>  
+Женщина сожгла пол дюжины первоклассных шедевров. 27:41  
+<http://j.mp/1d75O1g>
 
 #### РОССИЯ
 
-Тиньков против крутого Воронежца. 17:10 <http://j.mp/1d75Shm>
-    <http://j.mp/1d75U8W>
-Этот пацан подал в суд на Тинькова! <http://j.mp/1d75UWL>
-Презервативы "Вконтакте" 30:36 <http://j.mp/1d75Zth>
+Тиньков против крутого Воронежца. 17:10 <http://j.mp/1d75Shm>  
+<http://j.mp/1d75U8W>  
+Этот пацан подал в суд на Тинькова! <http://j.mp/1d75UWL>  
+Презервативы "Вконтакте" 30:36 <http://j.mp/1d75Zth>  
 Опухоль Почты России распространяется. <http://j.mp/1d762VX>
 
 #### ИНТЕРНЕТ
@@ -52,12 +53,9 @@ Slug: 2013-08-14-tinkoff-burn-voronezhian-in-submarine
 
 Дешевые руки 01:02:44 <http://j.mp/1d76bc8>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)
+**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
 *Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
 
-[Скачать
+[Скачать  
 выпуск](http://static.qnub.ru/gik.me/mp3/s01/00030-tinkoff-burn-voronezhian-in-submarine.mp3)
-
-<embed type="application/x-shockwave-flash" src="http://assets.tumblr.com/swf/audio_player.swf?audio_file=http%3A%2F%2Fstatic.qnub.ru%2Fgik.me%2Fmp3%2Fs01%2F00030-tinkoff-burn-voronezhian-in-submarine.mp3&amp;color=FFFFFF" height="27" width="207" quality="best" wmode="opaque">
-</embed>
 

@@ -1,11 +1,12 @@
-Title: #15, Что будет на WWDC 2013?
-Date: 2013-04-30 03:00:00
-Author: gikme
-Category: podcast
-Tags: apple, bing, microsoft, mtt, office, old48, skype, ubuntu, windows, woodenshark, wwdc
-Slug: 2013-04-30-hat-will-happen-in-wwdc-2013
-
-![gik.me podcast picture](http://4.bp.blogspot.com/-VAR4bcPbf50/UX-XKnt-5TI/AAAAAAAAKbY/gWul3wpmkwQ/s1600/gikme-pic-s01e15.png)
+Title: #15, Что будет на WWDC 2013?  
+Date: 2013-04-30 03:00:00  
+Author: gikme  
+Category: podcast  
+Tags: apple, bing, microsoft, mtt, office, old48, skype, ubuntu, windows, woodenshark, wwdc  
+Slug: 2013-04-30-hat-will-happen-in-wwdc-2013  
+Image: http://4.bp.blogspot.com/-VAR4bcPbf50/UX-XKnt-5TI/AAAAAAAAKbY/gWul3wpmkwQ/s1600/gikme-pic-s01e15.png  
+Attachment: http://static.qnub.ru/gik.me/mp3/s01/00015-wwdc-2013-program.mp3  
+Mime: audio/mpeg
 
 #### Подкаст
 
@@ -13,15 +14,15 @@ Slug: 2013-04-30-hat-will-happen-in-wwdc-2013
 
 #### IT
 
-Омский Лудум Дейр. <http://vk.com/old48>
-Диджитал квартирник WOW Agency. <http://j.mp/YiZcsr>
-Что будет на WWDC 2013? <http://j.mp/11U49VJ>
-Краудсорсинг. <http://j.mp/11U49oC>
-Прибыль вконтакте за первый квартал 2013. <http://j.mp/11U4c3B>
-МТТ пострадал от закона, сочиненного собственными топами.
-    <http://j.mp/YiZkYO>
-Будущее microsoft windows. <http://j.mp/11U4gjZ>
-Продолжительный ребрендинг Майкрософт. <http://j.mp/11U4hnY>
+Омский Лудум Дейр. <http://vk.com/old48>  
+Диджитал квартирник WOW Agency. <http://j.mp/YiZcsr>  
+Что будет на WWDC 2013? <http://j.mp/11U49VJ>  
+Краудсорсинг. <http://j.mp/11U49oC>  
+Прибыль вконтакте за первый квартал 2013. <http://j.mp/11U4c3B>  
+МТТ пострадал от закона, сочиненного собственными топами.  
+<http://j.mp/YiZkYO>  
+Будущее microsoft windows. <http://j.mp/11U4gjZ>  
+Продолжительный ребрендинг Майкрософт. <http://j.mp/11U4hnY>  
 Новая ubuntu уже тут. <http://j.mp/YiZuiQ>
 
 #### Гаджеты
@@ -30,16 +31,12 @@ Slug: 2013-04-30-hat-will-happen-in-wwdc-2013
 
 #### Песни
 
-Оригинал. <http://youtu.be/-ghlaWiQMqs>
+Оригинал. <http://youtu.be/-ghlaWiQMqs>  
 Ответ фаната. <http://youtu.be/uvJDRcoqbxU>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)
+**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
 *Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
 
-
-[Скачать
+[Скачать  
 выпуск](http://static.qnub.ru/gik.me/mp3/s01/00015-wwdc-2013-program.mp3)
-
-<embed type="application/x-shockwave-flash" src="http://assets.tumblr.com/swf/audio_player.swf?audio_file=http%3A%2F%2Fstatic.qnub.ru%2Fgik.me%2Fmp3%2Fs01%2F00015-wwdc-2013-program.mp3&amp;color=FFFFFF" height="27" width="207" quality="best" wmode="opaque">
-</embed>
 

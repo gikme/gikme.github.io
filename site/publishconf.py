@@ -16,6 +16,7 @@ from pelicanconf import *
 # CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = False
+RELATIVE_URLS = False
 
 # Following items are often useful when publishing
 

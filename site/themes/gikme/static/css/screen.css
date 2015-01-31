@@ -72,11 +72,34 @@ header, #wrapper {
     padding: 0 20px;
 }
 header{
-    background: #F1D572;
+    background: #E3D783;
     padding-bottom: 20px;
+    height: 106px;
+    /*box-shadow: 0 1px 0 2px #999999;*/
+}
+header:after,
+#wrapper:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.site-logo{
+    float: left;
+    margin-left: -20px;
+    margin-bottom: -20px;
+    display: block;
+    line-height: 126px;
+    height: 126px;
+}
+.site-logo__image{
+    box-shadow: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
 }
 #wrapper {
     background: #ffffff;
+    box-shadow: inset 0 3px 3px 0 #cccccc;
 }
 a {
     text-decoration: none;
@@ -172,6 +195,10 @@ blockquote {
 }
 .post p {
     text-align: justify;
+}
+
+.audio-player{
+    margin-top: 30px;
 }
 
 .page {

@@ -10,9 +10,12 @@
                     <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permanent Link to &quot;{{ article.title }}&quot;">{{ article.title }}</a>
                 </h2>
                 {% endif %}
-
+                {% if article.image -%}
+                <div class="post__image">
+                    <img src="{{article.image}}" alt="{% if article.title %}{{article.title}}{% else %}gik.me episode image{% endif %}"/>
+                </div>
+                {% endif %}
                 {%- block article_content %}{% endblock -%}
-
 
                 <div class="clear"></div>
                 <div class="info">

@@ -1,9 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+
+import feeds_with_media
 from filters import cat_name
 
-AUTHOR = u'Lopatyuk brothers lab.'
+AUTHOR = u'gikme'
 SITENAME = u'gik.me'
 SITEURL = 'http://gik.me'
 DISQUS_SITENAME = 'gikmetumb'
@@ -25,22 +27,14 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 FEED_ALL_RSS = 'feeds/all.rss.xml'
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_ATOM = None
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+CATEGORY_FEED_ATOM = None
 # TAG_FEED_RSS = 'feeds/%s.tag.rss.xml'
 # TAG_FEED_ATOM = 'feeds/%s.tag.atom.xml'
 JINJA_FILTERS = {
     'cat_name': cat_name,
 }
-
-
-# Blogroll
-LINKS = ((u'gik.me (только подкаст)', 'http://gik.me/'),)
-
-# Social widget
-SOCIAL = (('VK', 'https://vk.com/gikme'),
-          ('tw', 'https://twitter.com/gikme'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -66,6 +60,8 @@ DELETE_OUTPUT_DIRECTORY = True
 
 SUMMARY_MAX_LENGTH = 30
 PAGE_ORDER_BY = 'order'
+
+PLUGINS = [feeds_with_media, ]
 
 CATEGORY_MAP = {
     'hangout': u'хэнгаут',

@@ -1,0 +1,7 @@
+{% if article.attachment and article.mime.startswith('audio') %}
+<div class="audio-player">
+    <audio controls="" tabindex="0">
+    <source src="{{article.attachment}}" type="{{article.mime}}"></source>
+    </audio>
+</div>
+{% endif %}
