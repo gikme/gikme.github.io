@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 GIT_ROOT="/var/www/gik.me/pelican_site"
 VIRTUALENV="/var/www/gik.me/.env/bin"
