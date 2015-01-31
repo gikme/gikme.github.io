@@ -11,5 +11,5 @@ CONFFILE="$GIT_ROOT/site/publishconf.py"
 
 
 cd $GIT_ROOT
-$PIP install -r requirements.txt
-$PELICAN $INPUTDIR -o $OUTPUTDIR -s $CONFFILE
+exec $PIP install -r requirements.txt
+exec $PELICAN $INPUTDIR -o $OUTPUTDIR -s $CONFFILE
