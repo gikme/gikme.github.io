@@ -10,7 +10,8 @@
     <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
     <meta property="og:site_name" content="{{ SITENAME }}" />
     <meta property="og:type" content="radio_station" />
-    <meta property="music:creator" content="gikme" />
+    <meta property="og:music:creator" content="gikme" />
+    <meta property="og:profile:username" content="gikme" />
     <link href='{{ SITEURL }}' rel='canonical'/>
     <link rel="shortcut icon" href="/favicon.ico" />
     <link rel='icon' type='image/x-icon' href='/favicon.ico'/>
@@ -29,10 +30,12 @@
     {# {% if CATEGORY_FEED_ATOM and category %}
     <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed раздела &quot;{{category|cat_name}}&quot;" />
     {% endif %} #}
-    {% if CATEGORY_FEED_RSS and category and category == 'podcast' %}
-    <link href="http://feeds.feedburner.com/gikme" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} полный RSS Feed" />
-    {% else %}
-    <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed раздела &quot;{{category|cat_name}}&quot;" />
+    {% if CATEGORY_FEED_RSS and category %}
+        {% if category == 'podcast' %}
+            <link href="http://feeds.feedburner.com/gikme" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} полный RSS Feed" />
+        {% else %}
+            <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed раздела &quot;{{category|cat_name}}&quot;" />d
+        {% endif %}
     {% endif %}
     {# {% if TAG_FEED_ATOM and tag %}
     <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed тега &quot;{{tag}}&quot;" />

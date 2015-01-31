@@ -59,5 +59,8 @@ SIDEBAR_ITEMS = (
                 'link': 'https://www.facebook.com/pages/gikme/137607762942824'
             }
         )
+    },
+    {
+        'html': u'<a href="https://bill2fast.com/aff.php?aff=3332" target="_blank">Хостинг: FastVPS</a>'
     }
 )
