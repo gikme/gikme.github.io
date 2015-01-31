@@ -8,6 +8,7 @@
 
   {% for description in article.description %}
     <meta name="description" contents="{{description}}" />
+    <meta name="og:description" content="{{description}}" />
   {% endfor %}
 
   {% for tag in article.tags %}
@@ -21,6 +22,12 @@
   {% endif %}
   {% if article.image %}
       <meta property="og:image" content="{{article.image}}" />
+  {% endif %}
+  {% if article.enclosure and article.mime.startswith('audio') %}
+      <meta property="og:audio" content="{{article.enclosure}}" />
+  {% endif %}
+  {% if article.enclosure and article.mime.startswith('video') %}
+      <meta property="og:video" content="{{article.enclosure}}" />
   {% endif %}
   <meta property="og:url" content="{{SITEURL}}{{article.url}}" />
 {% endblock %}
