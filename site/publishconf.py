@@ -17,9 +17,10 @@ from pelicanconf import *
 
 DELETE_OUTPUT_DIRECTORY = False
 RELATIVE_URLS = False
+# LOAD_CONTENT_CACHE = True
 
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-# GOOGLE_ANALYTICS = "UA-17238758-1"
-# YANDEX_METRIKA = 23766163
+GOOGLE_ANALYTICS = "UA-17238758-1"
+YANDEX_METRIKA = 23766163
