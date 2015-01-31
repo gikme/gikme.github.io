@@ -14,4 +14,4 @@ cd $GIT_ROOT
 git pull
 $PIP install -r requirements.txt
 cd $GIT_ROOT/site
-$PELICAN $INPUTDIR -o $OUTPUTDIR -s $CONFFILE
+$PELICAN $INPUTDIR -o $OUTPUTDIR -s $CONFFILE > $GIT_ROOT/../last.log
