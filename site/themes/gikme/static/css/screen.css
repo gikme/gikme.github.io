@@ -157,6 +157,7 @@ blockquote {
     clear: left;
     color: #565B5D;
     text-shadow: 0 0 4px #ffffff;
+    overflow: hidden;
 }
 .info {
     margin-top: 1.3em;
