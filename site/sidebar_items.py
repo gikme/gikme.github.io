@@ -61,6 +61,6 @@ SIDEBAR_ITEMS = (
         )
     },
     {
-        'html': u'Хостинг: <a href="https://bill2fast.com/aff.php?aff=3332" target="_blank">FastVPS</a> <a href="https://www.digitalocean.com/?refcode=00e18fbdd21a" target="_blank">Digital Ocean</a>'
+        'html': u'Хостинг: <a href="https://bill2fast.com/aff.php?aff=3332" target="_blank">FastVPS</a> &amp; <a href="https://www.digitalocean.com/?refcode=00e18fbdd21a" target="_blank">Digital Ocean</a>'
     }
 )

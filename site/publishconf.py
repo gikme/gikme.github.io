@@ -17,7 +17,7 @@ from pelicanconf import *
 
 DELETE_OUTPUT_DIRECTORY = False
 RELATIVE_URLS = False
-# LOAD_CONTENT_CACHE = True
+LOAD_CONTENT_CACHE = True
 
 # Following items are often useful when publishing
 
