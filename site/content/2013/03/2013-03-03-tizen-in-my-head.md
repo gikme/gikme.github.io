@@ -47,6 +47,5 @@ iPhone 4s vs iPhone 5. <http://youtu.be/BM5139D7n4c>
 euphoria](http://promodj.com/amurstar/tracks/3834716/AJEC_Beautiful_euphoria)  
 *Не забывайте — вся движуха у нас вконтакте!*
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s01/00007-tizen-in-my-head.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00007-tizen-in-my-head.mp3)
 

@@ -68,6 +68,5 @@ Springpad всё.
 **Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
 *Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s02/00053-youtube-steals-djangos-childrens.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00053-youtube-steals-djangos-childrens.mp3)
 

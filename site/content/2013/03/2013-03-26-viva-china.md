@@ -43,6 +43,5 @@ Google прислушался к Сашке. <http://j.mp/14st8nu>
 **Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
 *Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s01/00010-viva-china.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00010-viva-china.mp3)
 

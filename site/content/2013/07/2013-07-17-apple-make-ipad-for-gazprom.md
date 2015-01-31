@@ -41,8 +41,7 @@ TracksFlow одумался. 31:31 <http://vk.com/wall-38883912_1774>
 **Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
 *Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s01/00026-apple-make-ipad-for-gazprom.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00026-apple-make-ipad-for-gazprom.mp3)
 
 </div>
 

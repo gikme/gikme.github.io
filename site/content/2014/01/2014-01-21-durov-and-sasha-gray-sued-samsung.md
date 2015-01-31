@@ -41,6 +41,5 @@ NY Times: <http://j.mp/KsjiuB>
 **Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
 *Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s02/00036-durov-and-sasha-gray-sued-samsung.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00036-durov-and-sasha-gray-sued-samsung.mp3)
 

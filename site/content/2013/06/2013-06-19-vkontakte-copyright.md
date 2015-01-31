@@ -62,8 +62,7 @@ Gorilla Glass будет использоваться в автомобилях.
 **Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
 *Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s01/00022-vkontakte-copyright.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00022-vkontakte-copyright.mp3)
 
 </div>
 

@@ -46,6 +46,5 @@ https://twitter.com/ShredGuard
 **Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
 *Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s02/00037-durov-sell-vkontakte-trough-dhl.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00037-durov-sell-vkontakte-trough-dhl.mp3)
 

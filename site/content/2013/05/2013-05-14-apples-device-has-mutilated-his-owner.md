@@ -36,6 +36,5 @@ OUYA откладывается и получает \$15М. <http://j.mp/10L926B
 **Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
 *Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s01/00017-apples-device-has-mutilated-his-owner.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00017-apples-device-has-mutilated-his-owner.mp3)
 

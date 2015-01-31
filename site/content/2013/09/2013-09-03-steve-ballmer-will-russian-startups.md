@@ -55,6 +55,5 @@ NNM-Club.ru закроют. 47:31 <http://j.mp/15yr3la>
 **Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
 *Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s01/00032-steve-ballmer-will-russian-startups.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00032-steve-ballmer-will-russian-startups.mp3)
 

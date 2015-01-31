@@ -105,6 +105,5 @@ LED-подсветка.
 **Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
 *Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s03/00070-selfie-pod-from-microsoft-on-ces-2015.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s03/00070-selfie-pod-from-microsoft-on-ces-2015.mp3)
 

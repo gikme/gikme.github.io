@@ -16,6 +16,5 @@ Mime: audio/mpeg
 
 <iframe frameborder="0" height="315" src="//www.youtube.com/embed/PEMQW7lutzw" width="560"></iframe>
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s01/hangouts/h00000-2013-08-17.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/hangouts/h00000-2013-08-17.mp3)
 

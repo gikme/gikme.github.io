@@ -47,8 +47,7 @@ Titan Quest). (<http://j.mp/STIPPh>)
 **Музыка:** [AJEC - Beautiful  
 euphoria](http://promodj.com/amurstar/tracks/3834716/AJEC_Beautiful_euphoria)
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s01/00002-apple-inside.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00002-apple-inside.mp3)
 
 Комментарии и прочее веселье [в нашей группе в  
 ВК](http://vk.com/gikme).

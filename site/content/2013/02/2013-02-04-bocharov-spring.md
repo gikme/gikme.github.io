@@ -52,8 +52,7 @@ ITU-T H.265 в 2 раза экономичнее но требует лицен�
 **Музыка:** [AJEC - Beautiful  
 euphoria](http://promodj.com/amurstar/tracks/3834716/AJEC_Beautiful_euphoria)
 
-[Скачать  
-выпуск](http://static.qnub.ru/gik.me/mp3/s01/00003-bocharov-spring.mp3)
+[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00003-bocharov-spring.mp3)
 
 Комментарии и прочее веселье [в нашей группе в  
 ВК](http://vk.com/gikme).
