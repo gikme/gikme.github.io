@@ -7,7 +7,7 @@ from filters import cat_name
 
 AUTHOR = u'gikme'
 SITENAME = u'gik.me'
-SITEURL = 'http://test.gik.me'
+SITEURL = 'http://gik.me'
 DISQUS_SITENAME = 'gikme'
 
 PATH = 'content'
