@@ -1,10 +1,10 @@
-#!/bin/sh
+#!/bin/bash
 
 GIT_ROOT="/var/www/gik.me/pelican_site"
 VIRTUALENV="/var/www/gik.me/.env/bin"
-PELICAN="$VIRTUAENV/pelican"
-PY="$VIRTUAENV/python"
-PIP="$VIRTUAENV/pip"
+PELICAN="$VIRTULAENV/pelican"
+PY="$VIRTULAENV/python"
+PIP="$VIRTULAENV/pip"
 INPUTDIR="$GIT_ROOT/site/content"
 OUTPUTDIR="$GIT_ROOT/site/output"
 CONFFILE="$GIT_ROOT/site/publishconf.py"
