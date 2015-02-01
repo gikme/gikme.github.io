@@ -20,10 +20,20 @@ class MediaWriter(Writer):
         title = Markup(item.title).striptags()
         enclosure = getattr(item, 'enclosure', '')
         mime = getattr(item, 'mime', '')
-        enclosure = enclosure and Enclosure(enclosure, '', mime) or None
         image = getattr(item, 'image', '')
 
+        if enclosure:
+            if not enclosure.startswith('http'):
+                enclosure = self.settings['SITEURL'] + enclosure
+
+            enclosure = Enclosure(enclosure, '', mime)
+        else:
+            enclosure = None
+
         if image:
+            if not image.startswith('http'):
+                image = self.settings['SITEURL'] + image
+
             image = u'<img alt="{0}" src="{1}"/><br/>'.format(
                                                                 title.replace('&', '&amp;'
                                                                 ).replace('<', '&lt;'

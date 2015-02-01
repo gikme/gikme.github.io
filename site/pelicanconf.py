@@ -72,11 +72,13 @@ CATEGORY_MAP = {
     'quote': u'цитаты',
     'text': u'текст',
     'blog': u'блог',
+    'news': u'новости',
 }
 
 MENUITEMS = (
     ('podcast', '/category/podcast.html', u'Подкаст'),
     ('overflow', '/category/overflow.html', u'Не вошедшее'),
+    ('news', '/category/news.html', u'Новости'),
 )
 
 from sidebar_items import *
