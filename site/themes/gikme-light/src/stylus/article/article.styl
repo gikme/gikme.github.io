@@ -1,0 +1,82 @@
+.article
+	background bg-content-color
+	margin 40px 0 0 0
+	padding 30px
+	
+	&:first-child 
+		margin 20px 0 0 0
+		
+	&__title
+		margin 0
+		font-size header-fs
+	
+	&__date
+		font-size meta-fs
+		color meta-color
+		margin 0
+	
+	&__content
+		margin-top 20px
+		
+	&__footer 
+		margin-top 30px
+		
+	&__meta
+		color meta-color
+		font-size meta-fs
+		margin 0
+		
+	&__tags
+		margin 10px 0 0 0
+		padding 0
+		list-style none
+		font-size 0
+		
+		&-item
+			display inline-block
+			margin 0 5px 5px 0
+			
+		&-link
+			padding 3px 10px
+			font-size meta-fs
+			border 1px solid border-color
+			display inline-block
+			border-radius 20px
+			
+	&__learn-more
+		margin 10px 0
+		line-height 38px
+		
+		&-link
+			padding 10px 20px
+			border-radius 5px
+			border 1px solid border-color
+			
+	&__comments
+		display inline-block
+		font-weight bold
+		padding-left 27px
+		text-decoration none
+		color font-color
+		position relative
+		margin-left 40px
+		transition opacity 300ms
+		
+		&:before
+			content ''
+			display inline-block
+			position absolute
+			top 9px
+			left 0
+			width 21px
+			height 20px
+			background url('../img/sprite.png')
+			background-position -325px 0
+			
+		&:hover
+			opacity .9
+			transition opacity 0
+			
+		&:active
+			opacity .5
+			transition opacity 0
