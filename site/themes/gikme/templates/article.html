@@ -21,7 +21,7 @@
       <meta property="og:type" content="{{article.mime.replace('/', '.')}}" />
   {% endif %}
   {% if article.image %}
-      <meta property="og:image" content="{{article.image}}" />
+      <meta property="og:image" content="{% if not article.image.startswith('http') %}{{SITEURL}}{% endif %}{{article.image}}" />
   {% endif %}
   {% if article.enclosure and article.mime.startswith('audio') %}
       <meta property="og:audio" content="{{article.enclosure}}" />
