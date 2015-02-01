@@ -15,17 +15,6 @@ SIDEBAR_ITEMS = (
         .ig-b-v-24 { background-image: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24@2x.png); background-size: 160px 178px; } }</style>
         <a href="http://instagram.com/gikme?ref=badge" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a>
         <script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='//d2zh9g63fcvyrq.cloudfront.net/adn.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'adn-button-js'));</script>
-        <div id="yo-button"></div>
-        <script type="text/javascript">
-            var _yoData = {
-                "username": "GIKME",
-                "trigger": "Новые события в подкасте"
-            };
-            var s = document.createElement("script");
-            s.type = "text/javascript";
-            s.src = "//yoapp.s3.amazonaws.com/js/yo-button.js";
-            (document.head || document.getElementsByTagName("head")[0]).appendChild(s);
-        </script>
         <a class="pushbullet-subscribe-widget" data-channel="gikme" data-widget="button" data-size="small"></a>
         <script type="text/javascript">(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src='https://widget.pushbullet.com/embed.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b);})();</script>
         </center>'''
