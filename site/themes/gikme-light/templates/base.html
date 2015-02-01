@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="window">
+<html class="window" lang="{{ DEFAULT_LANG }}" prefix="og: http://ogp.me/ns#" prefix="ya: https://webmaster.yandex.ru/vocabularies/">
     <head>
         {% block head %}
             <meta charset="utf-8">
@@ -45,40 +45,40 @@
         {% endblock head %}
     </head>
     <body class="page">
-        
+
         <header class="header">
-            <h1 class="header__logo">Gik me</h1>
+            <a href="/"><h1 class="header__logo">Gik me</h1></a>
             <nav class="header__menu">
                 {% if MENUITEMS %}
                     {% for item in MENUITEMS %}
-                        <a 
-                            href="{{SITEURL}}{{item.1}}" 
+                        <a
+                            href="{{SITEURL}}{{item.1}}"
                             class="header__menu-item {% if item.0 == category %} header__menu-item_active {% endif %}">{{item.2}}</a>
                     {% endfor %}
                 {% endif %}
                 {% if DISPLAY_CATEGORIES_ON_MENU %}
                     {% for cat, null in categories %}
-                        <a 
-                            href="{{SITEURL}}/{{cat.url}}" 
+                        <a
+                            href="{{SITEURL}}/{{cat.url}}"
                             class="header__menu-item {% if cat == category %} header__menu-item_active {% endif %}">{{ cat|cat_name|title }}</a>
                     {% endfor %}
                 {% endif %}
-                <a 
-                    href="{{SITEURL}}/archives.html" 
+                <a
+                    href="{{SITEURL}}/archives.html"
                     class="header__menu-item {% if output_file == "archives.html" %} header__menu-item_active {% endif %}">Архив</a>
                 {% if DISPLAY_PAGES_ON_MENU %}
                     {% for page in PAGES %}
-                        <a 
-                            href="{{ SITEURL }}/{{ page.url }}" 
+                        <a
+                            href="{{ SITEURL }}/{{ page.url }}"
                             class="header__menu-item {% if output_file == page.url %} header__menu-item_active {% endif %}">{{ page.title }}</a>
                     {% endfor %}
                 {% endif %}
             </nav>
         </header>
-        
+
         <div class="container cf">
             <main class="content">
-            
+
                 {%- block content -%}{%- endblock %}
 
             </main>
@@ -141,26 +141,26 @@
                         </li>
                         <li class="sidebar__donate-item">
                             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                                <input 
-                                    name="cmd" 
-                                    type="hidden" 
+                                <input
+                                    name="cmd"
+                                    type="hidden"
                                     value="_s-xclick">
-                                <input 
-                                    name="hosted_button_id" 
-                                    type="hidden" 
+                                <input
+                                    name="hosted_button_id"
+                                    type="hidden"
                                     value="BMF83KQSRA29Q">
-                                <input 
+                                <input
                                     class="sidebar__paypal"
-                                    alt="PayPal — более безопасный и легкий способ оплаты через Интернет!" 
-                                    border="0" 
-                                    name="submit" 
-                                    src="https://www.paypalobjects.com/ru_RU/RU/i/btn/btn_donateCC_LG.gif" 
+                                    alt="PayPal — более безопасный и легкий способ оплаты через Интернет!"
+                                    border="0"
+                                    name="submit"
+                                    src="https://www.paypalobjects.com/ru_RU/RU/i/btn/btn_donateCC_LG.gif"
                                     type="image">
-                                <img 
-                                    alt="" 
-                                    border="0" 
-                                    height="1" 
-                                    src="https://www.paypalobjects.com/ru_RU/i/scr/pixel.gif" 
+                                <img
+                                    alt=""
+                                    border="0"
+                                    height="1"
+                                    src="https://www.paypalobjects.com/ru_RU/i/scr/pixel.gif"
                                     width="1">
                             </form>
                         </li>
