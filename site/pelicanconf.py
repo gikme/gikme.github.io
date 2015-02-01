@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import os
+import sys
+sys.path.append(os.curdir)
 # import feeds_with_media
 from filters import cat_name
 
