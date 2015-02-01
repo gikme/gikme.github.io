@@ -32,7 +32,7 @@
     {% endif %} #}
     {% if CATEGORY_FEED_RSS and category %}
         {% if category == 'podcast' %}
-            <link href="http://feeds.feedburner.com/gikme" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} полный RSS Feed" />
+            <link href="http://feeds.feedburner.com/gikme" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed раздела &quot;{{category|cat_name}}&quot;" />
         {% else %}
             <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed раздела &quot;{{category|cat_name}}&quot;" />d
         {% endif %}
@@ -87,14 +87,11 @@
 
             <div class="clear"></div>
             <footer>
-                <p>
-                 {% if FEED_ALL_ATOM %}
-                <a href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" rel="alternate">Atom Feed</a>
-                 {% endif %}
-                 {% if FEED_ALL_RSS %}
+                <a href="http://feeds.feedburner.com/gikme" rel="alternate">Rss Feed подкаста</a>
+                {% if FEED_ALL_RSS %}
                 &middot;
-                <a href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" rel="alternate">Rss Feed</a>
-                 {% endif %}
+                <a href="http://feeds.feedburner.com/gikmeblog" rel="alternate">Полный Rss Feed</a>
+                {% endif %}
             </footer>
         </div>
         <div class="clear"></div>
