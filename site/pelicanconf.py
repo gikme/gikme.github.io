@@ -7,6 +7,7 @@ from filters import cat_name
 
 AUTHOR = u'gikme'
 SITENAME = u'gik.me'
+SITESUBTITLE = u'Гиковский IT подкаст'
 SITEURL = 'http://gik.me'
 DISQUS_SITENAME = 'gikme'
 
@@ -64,6 +65,7 @@ PAGE_ORDER_BY = 'order'
 
 PLUGINS = ['feeds_with_media', ]
 
+FEED_IMAGE = '/image/logotry1400x1400.png'
 CATEGORY_MAP = {
     'hangout': u'хэнгаут',
     'link': u'ссылки',
