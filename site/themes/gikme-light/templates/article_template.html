@@ -8,16 +8,16 @@
         {% endif %}
 		<time class="article__date">{{ article.date.strftime("%d %b") }}</time>
 	</header>
-	{% if article.image -%}
-	    <div class="article__image-wrapper">
-	        <img class="article__image" src="{% if not article.image.startswith('http') %}{{SITEURL}}{% endif %}{{article.image}}" alt="{% if article.title %}{{article.title}}{% else %}gik.me episode image{% endif %}"/>
-	    </div>
-    {% endif %}
 	<section class="article__content">
+		{% if article.image -%}
+		    <div class="article__image-wrapper">
+		        <img class="article__image" src="{% if not article.image.startswith('http') %}{{SITEURL}}{% endif %}{{article.image}}" alt="{% if article.title %}{{article.title}}{% else %}gik.me episode image{% endif %}"/>
+		    </div>
+	    {% endif %}
 		{%- block article_content %}{% endblock -%}
 	</section>
 	<footer class="article__footer">
-		<p class="article__meta">опубликовано {{ article.date.strftime("%H:%M") }} {%- if article.category.name != "misc" -%} &nbsp;&middot;&nbsp;{{ article.category|cat_name }}</p>
+		<p class="article__meta">опубликовано {{ article.date.strftime("%H:%M") }} {%- if article.category.name != "misc" -%} &nbsp;&middot;&nbsp;{{ article.category|cat_name }} {%- endif -%}</p>
 		{%- if article.tags -%}
 			<ul class="article__tags">
 		        {%- for t in article.tags -%}

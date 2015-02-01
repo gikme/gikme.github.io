@@ -252,6 +252,7 @@ table {
   clear: both;
 }
 .link,
+.article__content a,
 .header__menu-item {
   text-decoration: none;
   color: #3871b8;
@@ -259,12 +260,14 @@ table {
           transition: color 350ms;
 }
 .link:hover,
+.article__content a:hover,
 .header__menu-item:hover {
   color: #f66245;
   -webkit-transition: color 0;
           transition: color 0;
 }
 .link:active,
+.article__content a:active,
 .header__menu-item:active {
   color: #0a2c57;
   -webkit-transition: color 0;
@@ -282,6 +285,13 @@ table {
   margin: 0;
   font-size: 24px;
 }
+.article__link {
+  text-decoration: none;
+  color: #3a3e41;
+}
+.article__image {
+  width: 100%;
+}
 .article__date {
   font-size: 12px;
   color: #a4a6a8;
@@ -289,6 +299,9 @@ table {
 }
 .article__content {
   margin-top: 20px;
+}
+.article__content img {
+  max-width: 100%;
 }
 .article__footer {
   margin-top: 30px;
