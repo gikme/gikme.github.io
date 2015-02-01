@@ -1,0 +1,31 @@
+<article class="article">
+	<header class="article__header">
+		{% if article.title -%}
+	        <h1 class="article__title">
+	            <a  class="article__link" href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permanent Link to &quot;{{ article.title }}&quot;">{{ article.title }}</a>
+	        </h1>
+			
+        {% endif %}
+		<time class="article__date">{{ article.date.strftime("%d %b") }}</time>
+	</header>
+	{% if article.image -%}
+	    <div class="article__image-wrapper">
+	        <img class="article__image" src="{% if not article.image.startswith('http') %}{{SITEURL}}{% endif %}{{article.image}}" alt="{% if article.title %}{{article.title}}{% else %}gik.me episode image{% endif %}"/>
+	    </div>
+    {% endif %}
+	<section class="article__content">
+		{%- block article_content %}{% endblock -%}
+	</section>
+	<footer class="article__footer">
+		<p class="article__meta">опубликовано {{ article.date.strftime("%H:%M") }} {%- if article.category.name != "misc" -%} &nbsp;&middot;&nbsp;{{ article.category|cat_name }}</p>
+		{%- if article.tags -%}
+			<ul class="article__tags">
+		        {%- for t in article.tags -%}
+			        <li class="article__tags-item">
+						<a href="{{ SITEURL }}/{{ t.url }}" class="article__tags-link link">{{ t }}</a>
+					</li>
+		        {%- endfor %}
+	        </ul>
+        {%- endif %}
+	</footer>
+</article>

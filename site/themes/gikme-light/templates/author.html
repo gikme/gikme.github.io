@@ -1,0 +1,7 @@
+{% extends "index.html" %}
+
+{% block title %}{{ SITENAME }} &middot; Публикации {{ author }}{% endblock %}
+{% block ephemeral_nav %}
+
+                {{ ephemeral_nav_link(author, output_file, True) }}
+{%- endblock %}
