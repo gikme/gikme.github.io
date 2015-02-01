@@ -325,7 +325,7 @@ header h2 {
 
 #content,
 #sidebar {
-    margin-top: 3em;
+    padding-top: 3em;
 }
 
 .pages {
