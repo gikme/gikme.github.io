@@ -6,8 +6,6 @@ SIDEBAR_ITEMS = (
     <center>
     <a href="http://feeds.feedburner.com/gikme"> <img src="http://img252.imageshack.us/img252/9795/podcastfeed.png" /> </a>
     <a href="https://itunes.apple.com/ru/podcast?id=597105136"> <img src="http://img822.imageshack.us/img822/7156/itunesfeed.png" /></a>
-    <a class="pushbullet-subscribe-widget" data-channel="gikme" data-widget="button" data-size="small"></a>
-    <script type="text/javascript">(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src='https://widget.pushbullet.com/embed.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b);})();</script>
     <style>.ig-b- { display: inline-block; }
     .ig-b- img { visibility: hidden; }
     .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
