@@ -1,14 +1,14 @@
 {% extends "base.html" %}
 
-{%- block head_prefixes %}
+{%- block og_prefixes %}
     {%- if article.mime %}
         {%- if article.mime.startswith('audio') %}
-            prefix="og:audio: http://ogp.me/ns/music#"
+            audio: http://ogp.me/ns/music#
         {%- elif article.mime.startswith('video') -%}
-            prefix="og:video: http://ogp.me/ns/video#"
+            video: http://ogp.me/ns/video#
         {% endif -%}
     {%- else -%}
-        prefix="og:article: http://ogp.me/ns/article#" prefix="og:profile: http://ogp.me/ns/profile#"
+        article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#
     {% endif -%}
 {% endblock -%}
 
@@ -25,7 +25,6 @@
         {% endif %}
     {% else %}
         <meta property="og:type" content="article" />
-        <meta property="og:profile:author:username" content="gikme" />
         {% for tag in article.tags %}
             <meta property="og:article:tag" content="{{tag}}" />
         {% endfor %}
