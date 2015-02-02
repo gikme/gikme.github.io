@@ -464,6 +464,11 @@ table {
   height: 50px;
   vertical-align: middle;
 }
+@media screen and (max-width: 759px) {
+  .header__logo {
+    margin-left: 30px;
+  }
+}
 .header__logo-link {
   background: url("../img/sprite.png");
   display: inline-block;
@@ -490,6 +495,7 @@ table {
 @media screen and (max-width: 759px) {
   .header__menu {
     margin-top: 20px;
+    padding-left: 20px;
   }
 }
 .header__menu-item {
