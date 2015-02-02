@@ -299,6 +299,7 @@ table {
 }
 .article__content {
   margin-top: 20px;
+  line-height: 1.5;
 }
 .article__content img {
   max-width: 100%;
