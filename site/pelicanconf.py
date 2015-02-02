@@ -22,7 +22,7 @@ ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
 
 TIMEZONE = 'Asia/Omsk'
 
-DEFAULT_LANG = u'ru'
+DEFAULT_LANG = u'ru_RU'
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
