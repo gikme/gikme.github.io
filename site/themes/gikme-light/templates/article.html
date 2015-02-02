@@ -8,7 +8,7 @@
             video: http://ogp.me/ns/video#
         {% endif -%}
     {%- else -%}
-        article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#
+        article: http://ogp.me/ns/article#
     {% endif -%}
 {% endblock -%}
 
@@ -26,9 +26,9 @@
         {% endif %}
     {% else %}
         <meta property="og:type" content="article" />
+        <meta property="article:author" content="https://www.facebook.com/pages/gikme/137607762942824" />
         {% for tag in article.tags %}
             <meta property="article:tag" content="{{tag}}" />
-            <meta property="article:author" content="https://www.facebook.com/pages/gikme/137607762942824" />
         {% endfor %}
     {% endif %}
 {% endblock %}
