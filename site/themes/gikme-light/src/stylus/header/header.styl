@@ -4,6 +4,10 @@
 	padding 20px 0 0 0
 	font-size 0
 	
+	@media screen and (max-width: 999px)
+		width 100%
+		max-width content-width
+	
 	&__logo
 		display inline-block
 		margin 0 20px 0 0 
@@ -31,6 +35,9 @@
 		
 	&__menu
 		display inline-block
+		
+		@media screen and (max-width: 759px)
+			margin-top 20px
 		
 		&-item
 			@extend .link
