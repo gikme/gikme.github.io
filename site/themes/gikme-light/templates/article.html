@@ -16,17 +16,17 @@
     {% if article.mime %}
         {% if article.mime.startswith('audio') %}
             <meta property="og:type" content="music.radio_station" />
-            <meta property="og:audio" content="{{article.enclosure}}" />
-            <meta property="og:audio:type" content="{{article.mime}}" />
+            <meta property="audio" content="{{article.enclosure}}" />
+            <meta property="audio:type" content="{{article.mime}}" />
         {% elif article.mime.startswith('video') %}
             <meta property="og:type" content="video.other" />
-            <meta property="og:video" content="{{article.enclosure}}" />
-            <meta property="og:video:type" content="{{article.mime}}" />
+            <meta property="video" content="{{article.enclosure}}" />
+            <meta property="video:type" content="{{article.mime}}" />
         {% endif %}
     {% else %}
         <meta property="og:type" content="article" />
         {% for tag in article.tags %}
-            <meta property="og:article:tag" content="{{tag}}" />
+            <meta property="article:tag" content="{{tag}}" />
         {% endfor %}
     {% endif %}
 {% endblock %}
