@@ -369,6 +369,9 @@ table {
   -webkit-transition: opacity 0;
           transition: opacity 0;
 }
+.comments{
+    margin: 20px 30px;
+}
 .container {
   width: 1000px;
   margin: auto;
@@ -413,7 +416,7 @@ table {
   border: 1px solid #cccbc9;
   border-radius: 5px;
   color: #3a3e41;
-  pointer-events: none;
+  /*pointer-events: none;*/
 }
 .page {
   min-height: 100%;
