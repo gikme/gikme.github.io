@@ -1,5 +1,17 @@
 {% extends "base.html" %}
 
+{%- block head_prefixes %}
+    {%- if article.mime %}
+        {%- if article.mime.startswith('audio') %}
+            prefix="http://ogp.me/ns/music#"
+        {%- elif article.mime.startswith('video') -%}
+            prefix="http://ogp.me/ns/video#"
+        {% endif -%}
+    {%- else -%}
+        prefix="http://ogp.me/ns/article#"
+    {% endif -%}
+{% endblock -%}
+
 {% block og_type %}
     {% if article.mime %}
         {% if article.mime.startswith('audio') %}
