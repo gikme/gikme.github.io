@@ -8,7 +8,7 @@
             prefix="og:video: http://ogp.me/ns/video#"
         {% endif -%}
     {%- else -%}
-        prefix="og:article: http://ogp.me/ns/article#"
+        prefix="og:article: http://ogp.me/ns/article#" prefix="og:profile: http://ogp.me/ns/profile#"
     {% endif -%}
 {% endblock -%}
 
@@ -25,7 +25,7 @@
         {% endif %}
     {% else %}
         <meta property="og:type" content="article" />
-        <meta property="og:article:author:username" content="gikme" />
+        <meta property="og:profile:author:username" content="gikme" />
         {% for tag in article.tags %}
             <meta property="og:article:tag" content="{{tag}}" />
         {% endfor %}
