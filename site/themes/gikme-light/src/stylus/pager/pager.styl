@@ -4,8 +4,28 @@
 	height 36px
 	line-height 36px
 	
+	@media screen and (max-width: 999px)
+		width 100%
+		max-width content-width
+
+	&__amount
+		@media screen and (max-width: 759px)
+			padding 0 0 0 30px
+			
+		@media screen and (max-width: 459px)
+			display block
+
 	&__link
 		padding 6px 20px
 		margin-left 30px
 		border 1px solid border-color
 		border-radius 5px
+		transition color 350ms, background-color 350ms, box-shadow 350ms
+			
+		&:hover
+			background-color border-color
+			transition color 0, background-color 0, box-shadow 0
+			
+		&:active
+			box-shadow 0 0 10px rgba(0,0,0,.2) inset
+			transition color 0, background-color 0, box-shadow 0
