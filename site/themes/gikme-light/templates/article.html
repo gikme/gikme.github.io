@@ -29,7 +29,7 @@
   {% if article.enclosure and article.mime.startswith('video') %}
       <meta property="og:video" content="{{article.enclosure}}" />
   {% endif %}
-  <meta property="og:url" content="{{SITEURL}}{{article.url}}" />
+  <meta property="og:url" content="{{SITEURL}}/{{article.url}}" />
 {% endblock %}
 
 {% block title %}{{ SITENAME }} &middot; {{ article.title }}{% endblock %}
