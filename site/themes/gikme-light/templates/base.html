@@ -38,6 +38,7 @@
                 <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed тега &quot;{{tag}}&quot;" />
             {% endif %} #}
             <meta property="og:site_name" content="{{ SITENAME }}" />
+            <meta property="og:locale" content="{{ DEFAULT_LANG }}" />
             {% block og_type %}
                 <meta property="og:type" content="website" />
             {% endblock %}
