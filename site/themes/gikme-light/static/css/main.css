@@ -304,6 +304,9 @@ table {
 .article__content img {
   max-width: 100%;
 }
+.article__content a {
+  word-break: break-word;
+}
 .article__footer {
   margin-top: 30px;
 }
