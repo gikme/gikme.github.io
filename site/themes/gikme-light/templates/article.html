@@ -28,7 +28,7 @@
         <meta property="og:type" content="article" />
         <meta property="article:author" content="https://www.facebook.com/pages/gikme/137607762942824" />
         {% for tag in article.tags %}
-            <meta property="article:tag" content="{{tag}}" />
+            <meta property="article:tag" content="{{tag|striptags|escape}}" />
         {% endfor %}
     {% endif %}
 {% endblock %}
@@ -37,23 +37,23 @@
   {{ super() }}
   <link href='{{SITEURL}}/{{article.url}}' rel='canonical'/>
   {% for keyword in article.keywords %}
-    <meta name="keywords" contents="{{keyword}}" />
+    <meta name="keywords" contents="{{keyword|striptags|escape}}" />
   {% endfor %}
 
-    <meta name="description" contents="{{article.summary|striptags}}" />
-    <meta property="og:description" content="{{article.summary|striptags}}" />
+    <meta name="description" contents="{{article.summary|striptags|escape}}" />
+    <meta property="og:description" content="{{article.summary|striptags|escape}}" />
 
   {% for tag in article.tags %}
-    <meta name="tags" contents="{{tag}}" />
+    <meta name="tags" contents="{{tag|striptags|escape}}" />
   {% endfor %}
-    <meta property="og:title" content="{{ SITENAME }} &middot; {{article.title}}" />
+    <meta property="og:title" content="{{article.title|striptags|escape}}" />
   {% if article.image %}
       <meta property="og:image" content="{% if not article.image.startswith('http') %}{{SITEURL}}{% endif %}{{article.image}}" />
   {% endif %}
   <meta property="og:url" content="{{SITEURL}}/{{article.url}}" />
 {% endblock %}
 
-{% block title %}{{ SITENAME }} &middot; {{ article.title }}{% endblock %}
+{% block title %}{{ SITENAME }} &middot; {{ article.title|striptags|escape }}{% endblock %}
 {% block content %}
 {% include "article_stub.html" %}
 
