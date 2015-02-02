@@ -404,6 +404,9 @@ table {
   -webkit-transition: opacity 0;
           transition: opacity 0;
 }
+.comments {
+  padding: 0 30px;
+}
 .container {
   width: 1000px;
   margin: auto;
