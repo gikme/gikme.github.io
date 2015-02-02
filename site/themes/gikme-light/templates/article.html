@@ -3,7 +3,7 @@
 {%- block og_prefixes %}
     {%- if article.mime %}
         {%- if article.mime.startswith('audio') %}
-            audio: http://ogp.me/ns/music#
+            music: http://ogp.me/ns/music#
         {%- elif article.mime.startswith('video') -%}
             video: http://ogp.me/ns/video#
         {% endif -%}
@@ -16,17 +16,19 @@
     {% if article.mime %}
         {% if article.mime.startswith('audio') %}
             <meta property="og:type" content="music.radio_station" />
-            <meta property="audio" content="{{article.enclosure}}" />
-            <meta property="audio:type" content="{{article.mime}}" />
+            <meta property="og:audio" content="{{article.enclosure}}" />
+            <meta property="og:audio:type" content="{{article.mime}}" />
+            <meta property="music.creator" content="https://www.facebook.com/pages/gikme/137607762942824"/>
         {% elif article.mime.startswith('video') %}
             <meta property="og:type" content="video.other" />
-            <meta property="video" content="{{article.enclosure}}" />
-            <meta property="video:type" content="{{article.mime}}" />
+            <meta property="og:video" content="{{article.enclosure}}" />
+            <meta property="og:video:type" content="{{article.mime}}" />
         {% endif %}
     {% else %}
         <meta property="og:type" content="article" />
         {% for tag in article.tags %}
             <meta property="article:tag" content="{{tag}}" />
+            <meta property="article:author" content="https://www.facebook.com/pages/gikme/137607762942824" />
         {% endfor %}
     {% endif %}
 {% endblock %}
