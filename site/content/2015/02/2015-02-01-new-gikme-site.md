@@ -3,14 +3,14 @@ Category: news
 Tags: gikme, site
 Author: gikme  
 Slug: 2015-02-01-new-gikme-site
-Image: /images/logotry1400x1400.png  
+Image: /images/gik-2-0.jpg  
 
 Сегодня мы сменили 2 сайта с разным контентом на один... с разным конетном. :) Бесплатные площадки хороши до тех пор, пока тебе от них нужна одна функция, кода ты начинаешь пытаться сообразить что-то комплексное - нужно делать что-то своё.
 
 Здесь теперь есть RSS на каждую категорию публикаций. Старые ссылки на RSS сохранились, но внутри категорий также теперь есть и новые. Например в этой категории отдельный RSS: <http://gik.me/feeds/news.rss.xml>. Старые RSS:
 
-- [Всё что вообще здесь публикуется](http://feeds.feedburner.com/gikmeblog) <http://feeds.feedburner.com/gikmeblog>
-- [Только выпуски подкаста](http://feeds.feedburner.com/gikme) <http://feeds.feedburner.com/gikme>
+- [Всё что вообще здесь публикуется](http://feeds.feedburner.com/gikmeblog)
+- [Только выпуски подкаста](http://feeds.feedburner.com/gikme)
 
 В планах (теперь) публиковать здесь новости аналогично с нашим пабликом <https://vk.com/gikme>.
 
