@@ -4,7 +4,8 @@
         {% block head %}
             <meta charset="utf-8">
             <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
-            <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css">
+            <link rel="stylesheet" href="{{ SITEURL }}/theme/css/fluidbox.css"/>
+            <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css"/>
             <meta property="og:site_name" content="{{ SITENAME }}" />
             <meta property="og:type" content="radio_station" />
             <meta property="og:music:creator" content="gikme" />
@@ -193,8 +194,10 @@
                 }());
             </script>
         {% endif %}
+        <script type="text/javascript" src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
         <script type="text/javascript" src="//vk.com/js/api/openapi.js?116"></script>
         <script type="text/javascript" src="{{ SITEURL }}/theme/js/main.js"></script>
+        <script type="text/javascript" src="{{ SITEURL }}/theme/js/jquery.fluidbox.min.js"></script>
         {% include 'analytics.html' %}
     </body>
 </html>
