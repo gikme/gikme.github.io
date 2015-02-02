@@ -46,9 +46,7 @@
   {% for tag in article.tags %}
     <meta name="tags" contents="{{tag}}" />
   {% endfor %}
-  {% if article.title %}
-      <meta property="og:title" content="{{article.title}}" />
-  {% endif %}
+    <meta property="og:title" content="{{ SITENAME }} &middot; {{article.title}}" />
   {% if article.image %}
       <meta property="og:image" content="{% if not article.image.startswith('http') %}{{SITEURL}}{% endif %}{{article.image}}" />
   {% endif %}
