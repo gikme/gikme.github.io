@@ -2,6 +2,7 @@
 
 {% block head %}
   {{ super() }}
+  <link href='{{SITEURL}}/{{article.url}}' rel='canonical'/>
   {% for keyword in article.keywords %}
     <meta name="keywords" contents="{{keyword}}" />
   {% endfor %}
