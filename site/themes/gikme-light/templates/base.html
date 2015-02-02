@@ -7,7 +7,9 @@
             <link rel="stylesheet" href="{{ SITEURL }}/theme/css/fluidbox.css"/>
             <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css"/>
             <meta property="og:site_name" content="{{ SITENAME }}" />
-            <meta property="og:type" content="radio_station" />
+            {% block og_type %}
+                <meta property="og:type" content="radio_station" />
+            {% endblock %}
             <link rel="shortcut icon" href="/favicon.ico" />
             <link rel='icon' type='image/x-icon' href='/favicon.ico'/>
 

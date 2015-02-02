@@ -1,5 +1,22 @@
 {% extends "base.html" %}
 
+{% block og_type %}
+  {% if article.mime %}
+    {% if article.mime.startswith('audio') %}
+        <meta property="og:type" content="music.radio_station" />
+        <meta property="og:audio" content="{{article.enclosure}}" />
+        <meta property="og:music:creator" content="gik.me podcast" />
+        <meta property="og:audio:type" content="{{article.mime}}" />
+    {% elif article.mime.startswith('video') %}
+        <meta property="og:type" content="video.other" />
+        <meta property="og:video" content="{{article.enclosure}}" />
+        <meta property="og:video:type" content="{{article.mime}}" />
+    {% else %}
+        {{super()}}
+    {% endif %}
+  {% endif %}
+{% endblock %}
+
 {% block head %}
   {{ super() }}
   <link href='{{SITEURL}}/{{article.url}}' rel='canonical'/>
@@ -18,17 +35,8 @@
   {% if article.title %}
       <meta property="og:title" content="{{article.title}}" />
   {% endif %}
-  {% if article.mime %}
-      <meta property="og:type" content="{{article.mime.replace('/', '.')}}" />
-  {% endif %}
   {% if article.image %}
       <meta property="og:image" content="{% if not article.image.startswith('http') %}{{SITEURL}}{% endif %}{{article.image}}" />
-  {% endif %}
-  {% if article.enclosure and article.mime.startswith('audio') %}
-      <meta property="og:audio" content="{{article.enclosure}}" />
-  {% endif %}
-  {% if article.enclosure and article.mime.startswith('video') %}
-      <meta property="og:video" content="{{article.enclosure}}" />
   {% endif %}
   <meta property="og:url" content="{{SITEURL}}/{{article.url}}" />
 {% endblock %}
