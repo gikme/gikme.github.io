@@ -41,7 +41,7 @@
   {% endfor %}
 
     <meta name="description" contents="{{article.summary|striptags}}" />
-    <meta name="og:description" content="{{article.summary|striptags}}" />
+    <meta property="og:description" content="{{article.summary|striptags}}" />
 
   {% for tag in article.tags %}
     <meta name="tags" contents="{{tag}}" />
