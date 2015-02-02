@@ -6,10 +6,6 @@
             <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
             <link rel="stylesheet" href="{{ SITEURL }}/theme/css/fluidbox.css"/>
             <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css"/>
-            <meta property="og:site_name" content="{{ SITENAME }}" />
-            {% block og_type %}
-                <meta property="og:type" content="website" />
-            {% endblock %}
             <link rel="shortcut icon" href="/favicon.ico" />
             <link rel='icon' type='image/x-icon' href='/favicon.ico'/>
 
@@ -41,6 +37,10 @@
             {% if TAG_FEED_RSS and tag %}
                 <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed тега &quot;{{tag}}&quot;" />
             {% endif %} #}
+            <meta property="og:site_name" content="{{ SITENAME }}" />
+            {% block og_type %}
+                <meta property="og:type" content="website" />
+            {% endblock %}
 
         {% endblock head %}
     </head>

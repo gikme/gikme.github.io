@@ -1,15 +1,16 @@
 {% extends "base.html" %}
 
 {% block og_type %}
-  {% if article.mime %}
-    {% if article.mime.startswith('audio') %}
-        <meta property="og:type" content="music.radio_station" />
-        <meta property="og:audio" content="{{article.enclosure}}" />
-        <meta property="og:audio:type" content="{{article.mime}}" />
-    {% elif article.mime.startswith('video') %}
-        <meta property="og:type" content="video.other" />
-        <meta property="og:video" content="{{article.enclosure}}" />
-        <meta property="og:video:type" content="{{article.mime}}" />
+    {% if article.mime %}
+        {% if article.mime.startswith('audio') %}
+            <meta property="og:type" content="music.radio_station" />
+            <meta property="og:audio" content="{{article.enclosure}}" />
+            <meta property="og:audio:type" content="{{article.mime}}" />
+        {% elif article.mime.startswith('video') %}
+            <meta property="og:type" content="video.other" />
+            <meta property="og:video" content="{{article.enclosure}}" />
+            <meta property="og:video:type" content="{{article.mime}}" />
+        {% endif %}
     {% else %}
         <meta property="og:type" content="article" />
         <meta property="og:article:author:username" content="gikme" />
@@ -17,7 +18,6 @@
             <meta property="og:article:tag" content="{{tag}}" />
         {% endfor %}
     {% endif %}
-  {% endif %}
 {% endblock %}
 
 {% block head %}
@@ -27,10 +27,8 @@
     <meta name="keywords" contents="{{keyword}}" />
   {% endfor %}
 
-  {% for description in article.description %}
-    <meta name="description" contents="{{description}}" />
-    <meta name="og:description" content="{{description}}" />
-  {% endfor %}
+    <meta name="description" contents="{{article.summary|striptags}}" />
+    <meta name="og:description" content="{{article.summary|striptags}}" />
 
   {% for tag in article.tags %}
     <meta name="tags" contents="{{tag}}" />
