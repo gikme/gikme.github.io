@@ -1,5 +1,5 @@
 Title: #73, Омские супермаркеты открыли бесплатную службу доставки алкоголя генномодифицированными москитами на метро  
-Date: 2015-02-03 12:24:46  
+Date: 2015-02-03 12:30:00 
 Author: gikme  
 Category: podcast  
 Tags: omsk, birdman, мизулина, opera, vivaldi, cyanogenmod, google, android, battery, mechwarrior, badman, mosquitos, pet, sperm  
