@@ -79,8 +79,3 @@ Mime: audio/mpeg
 01:06:35 Blizzard Overwatch.  
 <http://eu.battle.net/overwatch/ru/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00066-tim-cook-thinking-about-migrate-to-iIngushetia.mp3)
-

@@ -59,10 +59,3 @@ Carl Zeiss выпустил OLED очки виртуальной реально�
 
 Илья Бирман о RSS. <http://j.mp/XFh8uZ>  
 Гигабайты в облаках. [http://dropbox.com](http://dropbox.com/)
-
-**Музыка:** [AJEC - Beautiful  
-euphoria](http://promodj.com/amurstar/tracks/3834716/AJEC_Beautiful_euphoria)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00008-google-the-only.mp3)
-

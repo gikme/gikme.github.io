@@ -2,7 +2,7 @@ Title: #73, Омские супермаркеты открыли бесплат�
 Date: 2015-02-03 12:24:46  
 Author: gikme  
 Category: podcast  
-Tags: omsk, birdman, мизулина, opera, vivaldi, cyanogenmod, google, android, battery, mechwarrior, badman, mosquitos, pet, sperm
+Tags: omsk, birdman, мизулина, opera, vivaldi, cyanogenmod, google, android, battery, mechwarrior, badman, mosquitos, pet, sperm  
 Slug: 2015-02-03-omsk-supermarkets-open-a-free-delivery-service-genetically-modified-mosquitoes-alcohol-on-the-subway  
 Image: /images/episodes/gikme-pic-s03e73.jpg  
 Enclosure: http://static.qnub.ru/gik.me/mp3/s03/00072-geek-bijouterie-from-kim-dotcom.mp3  
@@ -12,7 +12,6 @@ Mime: audio/mpeg
 
 Сэмюэль Эль Павлов,  
 Вулканолог и вулканизатор 
-
 #### ОМСК
 
 06:06 Омич нашел гипермаркет с бесплатным алкоголем.  

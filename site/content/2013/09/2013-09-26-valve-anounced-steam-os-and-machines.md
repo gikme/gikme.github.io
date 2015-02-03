@@ -17,8 +17,3 @@ Mime: audio/mpeg
 SteamOS <http://j.mp/1eICnox>  
 Steam Machines <http://j.mp/1eICosw>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/single/s00000-valve-anounced-steam-os-and-machines.mp3)
-

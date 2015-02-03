@@ -57,8 +57,3 @@ Numix Dark Flat: 
 55:49 Китайские нонеймы стали продаваться лучше.  
 <http://www.3dnews.ru/818774/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00049-zuckerberg-buy-tjournal-and-gikme.mp3)
-

@@ -31,8 +31,3 @@ Apache Thrift. <http://thrift.apache.org/> 
 Cobbler. <http://cobbler.github.com/>  
 PostgreSQL как NoSQL + JavaScript (PDF). <http://j.mp/12a4sjd>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00011-microsoft-rulezz.mp3)
-

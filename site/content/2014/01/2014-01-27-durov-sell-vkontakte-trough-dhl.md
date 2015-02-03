@@ -43,8 +43,3 @@ https://twitter.com/ShredGuard
 Таможня отрицает: <http://j.mp/1i3t1Ds>  
 Важно: <http://j.mp/1i3t5Tw>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00037-durov-sell-vkontakte-trough-dhl.mp3)
-

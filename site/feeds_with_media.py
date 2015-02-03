@@ -81,9 +81,12 @@ class MediaWriter(Writer):
             if not enclosure.startswith('http'):
                 enclosure = self.settings['SITEURL'] + enclosure
 
+            footer = self.settings.get('FEED_FOOTER', u'') + \
+                u'<p><a href="{0}">Скачать вложение</a></p>'.format(enclosure)
             enclosure = Enclosure(enclosure, '', mime)
         else:
             enclosure = None
+            footer = ''
 
         if image:
             if not image.startswith('http'):
@@ -104,7 +107,7 @@ class MediaWriter(Writer):
             unique_id='tag:%s,%s:%s' % (urlparse(link).netloc,
                                         item.date.date(),
                                         urlparse(link).path.lstrip('/')),
-            description=image + item.get_content(self.site_url),
+            description=image + item.get_content(self.site_url) + footer,
             categories=item.tags if hasattr(item, 'tags') else None,
             author_name=getattr(item, 'author', ''),
             enclosure=enclosure,

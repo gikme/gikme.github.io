@@ -38,11 +38,3 @@ a2design. **<https://twitter.com/alexdets>**
 
 Катание на коньках a2design и RocketsMedia.  
 Стратоплан Гранд Конференс. <http://j.mp/VYa65v>
-
-**  
-** **Музыка:** [AJEC - Beautiful  
-euphoria](http://promodj.com/amurstar/tracks/3834716/AJEC_Beautiful_euphoria)  
-*Не забывайте — вся движуха у нас вконтакте!*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00005-debut-at-the-crater.mp3)
-

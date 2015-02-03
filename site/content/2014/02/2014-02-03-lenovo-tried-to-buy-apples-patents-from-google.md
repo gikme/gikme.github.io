@@ -43,8 +43,3 @@ Mime: audio/mpeg
 
 46:56 Опросы в группе. <http://vk.com/gikme>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00038-lenovo-tried-to-buy-apples-patents-from-google.mp3)
-

@@ -50,8 +50,3 @@ Mime: audio/mpeg
 01:04:09 Сервис по генерации правильных аватарок.  
 <http://ave.gik.me/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00047-lannisters-always-listen-gikme.mp3)
-

@@ -44,8 +44,3 @@ Mime: audio/mpeg
 54:50 LTE всё  
 <http://www.3dnews.ru/809208/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00043-free-windows-bing-replace-chrome-os.mp3)
-

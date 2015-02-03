@@ -17,7 +17,7 @@ Order: 0
 Если Вы не знаете как записать свой голос во время разговора по Skype - воспользуйтесь соответвующим руководством ниже.
 
 - [Запись голоса через Audacity (бесплатно, все ОС)](#audacity-records)  
-- [Автоматическая запись Skype в Ubuntu](#ubuntu-records)
+- [Автоматическая запись Skype в Ubuntu](#ubuntu-records)  
 - [Постобработка звука (отдельная статья)]({filename}/2015/02/2015-02-01-podcast-mastering-with-audacity-howto.md)
 
 <a name="audacity-records"></a>

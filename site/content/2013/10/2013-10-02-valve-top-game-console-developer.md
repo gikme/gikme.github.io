@@ -50,8 +50,3 @@ Google music теперь и с медведями. <http://j.mp/18MS4XG>
 Space X показал, почему монополия — плохо. 27:04  
 <http://j.mp/18MS9dS>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00034-valve-top-game-console-developer.mp3)
-

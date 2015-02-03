@@ -46,8 +46,3 @@ Intel, Apple и iPhone. <http://j.mp/12hxWZB> и
 
 </div>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00014-vkontakte-closed.mp3)
-

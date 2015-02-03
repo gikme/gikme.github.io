@@ -56,8 +56,3 @@ Mime: audio/mpeg
 <http://habrahabr.ru/post/226117/>  
 <http://poselok-programmistov.ru/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00055-tesla-motors-in-e3-games.mp3)
-

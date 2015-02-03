@@ -47,8 +47,4 @@ RISC возвращается. [29:08] <http://j.mp/18sSpQL> 
 <http://ru.wikipedia.org/wiki/ZISC>   
 <http://ru.wikipedia.org/wiki/CISC> 
 
- **Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00024-facebook-promotes-homosexuality.mp3)
-
+ 

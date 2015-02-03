@@ -26,12 +26,3 @@ MultiClet. (<http://j.mp/Ucd0AH>) 
 Носок на планшет.   
 Проблема экстрасенсорики в IT.   
 IT-Jam. (<http://j.mp/UcddDL>)
-
-**Музыка:** [AJEC - Beautiful  
-euphoria](http://promodj.com/amurstar/tracks/3834716/AJEC_Beautiful_euphoria)
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00001-about-bikes.mp3)
-
-Комментарии и прочее веселье [в нашей группе в  
-ВК](http://vk.com/gikme).
-

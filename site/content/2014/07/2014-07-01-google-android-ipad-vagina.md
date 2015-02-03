@@ -52,8 +52,3 @@ Mime: audio/mpeg
 рукой.  
 <http://www.3dnews.ru/822841/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/0057-google-android-ipad-vagina.mp3)
-

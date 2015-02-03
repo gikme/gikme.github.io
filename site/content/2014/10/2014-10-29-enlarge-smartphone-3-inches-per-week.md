@@ -74,8 +74,3 @@ Mime: audio/mpeg
 01:16:46 Страховщик.  
 <http://www.kinopoisk.ru/film/596231/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00065-enlarge-smartphone-3-inches-per-week.mp3)
-

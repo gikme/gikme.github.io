@@ -59,8 +59,3 @@ Mime: audio/mpeg
 <http://habrahabr.ru/post/228751/>  
 <http://habrahabr.ru/post/228849/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00058-brazil-had-won-vkontakte-facebook-7-1.mp3)
-

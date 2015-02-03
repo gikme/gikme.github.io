@@ -38,8 +38,3 @@ NY Times: <http://j.mp/KsjiuB>
 36:58 Рассказ Саши про впечатления от iOS и iPod.  
 48:51 Meizu MX3 Ubuntu. <http://j.mp/KsmAxK>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00036-durov-and-sasha-gray-sued-samsung.mp3)
-

@@ -71,8 +71,3 @@ Mime: audio/mpeg
 01:06:13 Метро видишь?  
 <http://poisk55.ru/news/20320.html>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00064-apple-market-not-ready-to-hr-audio-and-raw-photo.mp3)
-

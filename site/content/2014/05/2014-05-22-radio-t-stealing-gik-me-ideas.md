@@ -81,8 +81,3 @@ Mime: audio/mpeg
 53:51 Лучший игровой обзор на Titanfall от Сергея Быкова.  
 <http://youtu.be/xAc-qB0Slqo>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](https://psv4.vk.me/c536212/u4395920/audios/76887706d1a7.mp3)
-

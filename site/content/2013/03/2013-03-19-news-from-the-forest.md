@@ -56,8 +56,3 @@ Google блокнот возвращается. <http://j.mp/Yod0wa> 
 
 Might&Magic X. <http://j.mp/Yod2UA>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00009-news-from-forest.mp3)
-

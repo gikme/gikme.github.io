@@ -45,8 +45,3 @@ YouTube позволит смотреть видео офлайн. 24:05 <http:/
 Блоги, их будущее и всякое такое. 35:44 h<ttps://medium.com/>  
 <http://j.mp/18mCjGF>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00033-duma-will-consider-introduction-of-like-to-the-constitution.mp3)
-

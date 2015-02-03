@@ -31,8 +31,3 @@ Intel может купить AMD. <http://j.mp/10E2ReE>
 Фруктофилы едят Кука. <http://j.mp/10E2TDh>  
 Qiwi стоит почти миллиард американских рублей. <http://j.mp/Ys1D9X>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00016-prisoners-of-bolotnaya.mp3)
-

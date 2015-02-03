@@ -57,8 +57,3 @@ XBOX Live.
 56:02 Итоги года.  
 <http://siliconrus.com/2014/12/telegram-future/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00069-tenge-saves-ruble.mp3)
-

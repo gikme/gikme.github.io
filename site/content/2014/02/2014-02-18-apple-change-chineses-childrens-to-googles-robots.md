@@ -50,8 +50,3 @@ Mime: audio/mpeg
 <http://youtu.be/GBfnMdTcuF4>  
 56:35 Голосование в группе.
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00040-apple-change-chineses-childrens-to-googles-robots.mp3)
-

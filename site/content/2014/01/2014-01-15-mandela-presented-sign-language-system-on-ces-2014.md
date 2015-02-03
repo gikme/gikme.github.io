@@ -41,8 +41,3 @@ Mime: audio/mpeg
 56:20 Сурдоперевод на похоронах Нельсона Манделы.  
 <http://j.mp/1a60nBt>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00035-mandela-presented-sign-language-system-on-ces-2014.mp3)
-

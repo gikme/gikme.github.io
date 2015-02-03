@@ -38,10 +38,3 @@ Acer решает проблемы со своим сервисным обслу
 #### Жизнь замечательных людей 
 
 Самообучение: в коллективе или в одиночку?
-
-**Музыка:** [AJEC - Beautiful  
-euphoria](http://promodj.com/amurstar/tracks/3834716/AJEC_Beautiful_euphoria)  
-*Не забывайте — вся движуха у нас вконтакте!*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00004-freelancers-breakfast.mp3)
-

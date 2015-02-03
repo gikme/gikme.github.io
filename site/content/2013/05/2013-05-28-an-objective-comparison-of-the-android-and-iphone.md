@@ -28,8 +28,4 @@ Xbox One. <http://j.mp/ZqBBqg> <http://j.mp/ZqBKtQ>
 Новый дизайн уи айфона. <http://j.mp/ZqC3EQ> <http://j.mp/ZqC8bz>
 
 **  
-** **Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00019-an-objective-comparison-of-the-android-and-iphone.mp3)
-
+**

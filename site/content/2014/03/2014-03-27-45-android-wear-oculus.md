@@ -71,8 +71,3 @@ Mime: audio/mpeg
 Amazon будет стримить игры с ПК.  
 <http://4pda.ru/2014/03/19/148024/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00045-zuckerberg-install-android-wear-on-oculus-rift.mp3)
-

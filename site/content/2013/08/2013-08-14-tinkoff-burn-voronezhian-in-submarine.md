@@ -53,8 +53,3 @@ Mime: audio/mpeg
 
 Дешевые руки 01:02:44 <http://j.mp/1d76bc8>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00030-tinkoff-burn-voronezhian-in-submarine.mp3)
-

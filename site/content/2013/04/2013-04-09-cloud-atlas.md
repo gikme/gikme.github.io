@@ -40,8 +40,3 @@ Alienware для Ubuntu. <http://j.mp/14Tvlsg>
 Открыт доступ к дистрибутиву SteamBox. <http://j.mp/14TvsEf>  
 Titan покажут уже на ближайшем близзконе? <http://j.mp/14Tvr34>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00012-cloud-atlas.mp3)
-

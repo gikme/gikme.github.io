@@ -53,8 +53,3 @@ Mime: audio/mpeg
 41:39 YO  
 <https://play.google.com/store/apps/details?id=com.justyo>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00061-let-negros-themselves-treat-their-ebola.mp3)
-

@@ -67,8 +67,3 @@ Mime: audio/mpeg
 01:04:49 Эротический трэш-хоррор из Омска.  
 <http://www.moviefrontline.ru/comments/1008/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00060-ultraweakly-binding.mp3)
-

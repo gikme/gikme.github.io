@@ -87,8 +87,3 @@ Telegram начал буйный рост благодаря Whatsapp и Faceboo
 
 Голосование в группе продолжается.
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00042-duma-denied-speak-about-mwc-2014.mp3)
-

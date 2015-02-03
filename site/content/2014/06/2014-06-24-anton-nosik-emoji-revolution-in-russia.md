@@ -60,8 +60,3 @@ Mime: audio/mpeg
 1:15:00 Благодарность Vlad Ko.  
 <https://vk.com/album256165017_196154084>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00056-anton-nosik-emoji-revolution-in-russia.mp3)
-

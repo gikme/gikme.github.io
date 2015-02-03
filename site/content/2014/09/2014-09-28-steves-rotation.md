@@ -76,8 +76,3 @@ Mime: audio/mpeg
 <http://www.3dnews.ru/901566/>  
 <http://tjournal.ru/paper/apple-event-september-9>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00063-steves-rotation.mp3)
-

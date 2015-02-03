@@ -32,8 +32,3 @@ Apple Kinect. 44:30 <http://j.mp/13YlADg>
 
 Светлячёк онлайен и Nathan Fillion. 38:53 <http://j.mp/13YlGL1> 
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00027-navalny-agreed-to-jail-for-a-bribe.mp3)
-

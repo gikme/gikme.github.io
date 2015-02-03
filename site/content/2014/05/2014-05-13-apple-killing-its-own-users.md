@@ -61,8 +61,3 @@ Mime: audio/mpeg
 Атака омичей, или Наука любви не по Овидию:  
 <http://bg.ru/society/ataka_omichej_ili_nauka_ljubvi_ne_po_ovidiju-21572/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00051-apple-killing-its-own-users.mp3)
-

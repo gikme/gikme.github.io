@@ -68,8 +68,3 @@ Game Insight:
 <http://tjournal.ru/paper/elftorgovec/>  
 <https://vk.com/elftorgovec/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00054-apple-launch-space-into-trash-bin.mp3)
-

@@ -60,8 +60,3 @@ Mime: audio/mpeg
 01:01:57 Юлмарт продает ворованный iPhone.  
 <http://tjournal.ru/paper/ulmart-iphone>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00046-vkontakte-and-my-world-mail-ru-will-be-merged.mp3)
-

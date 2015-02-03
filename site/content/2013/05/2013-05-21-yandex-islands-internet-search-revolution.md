@@ -36,8 +36,3 @@ Google I/O, новый гуглоплюс, хэнгауты, плей гейм.
 
 спортивный гуглоглас — RECON JET. <http://j.mp/10S3lPx>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00018-yandex-islands-internet-search-revolution.mp3)
-

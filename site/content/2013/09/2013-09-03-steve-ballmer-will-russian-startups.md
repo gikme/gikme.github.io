@@ -52,8 +52,3 @@ NNM-Club.ru закроют. 47:31 <http://j.mp/15yr3la>
 Коллекционные карточные игры. 55:58 <http://j.mp/11H78Vd>  
 [https://scrolls.com](https://scrolls.com/)
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s01/00032-steve-ballmer-will-russian-startups.mp3)
-

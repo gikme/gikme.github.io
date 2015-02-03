@@ -67,8 +67,3 @@ Mime: audio/mpeg
 01:07:53 Планирование и управление задачами.  
 <https://trello.com/>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00050-chinese-puer-outputs-gmo-from-the-body.mp3)
-

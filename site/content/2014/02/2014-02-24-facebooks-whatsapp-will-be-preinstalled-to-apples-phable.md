@@ -36,8 +36,3 @@ Mime: audio/mpeg
 <http://music.yandex.ru/partners/>   
 Группа сашкиного сотрудника: <http://vk.com/lastwail>
 
-**Музыка:** [Василий Корчагин - Аляска](http://vk.com/bacc3)  
-*Не забывайте — [вся движуха у нас вконтакте!](http://vk.com/gikme)*
-
-[Скачать выпуск](http://static.qnub.ru/gik.me/mp3/s02/00041-facebooks-whatsapp-will-be-preinstalled-to-apples-phablets.mp3)
-
