@@ -517,7 +517,6 @@ table {
   border: 1px solid #cccbc9;
   border-radius: 5px;
   color: #3a3e41;
-  pointer-events: none;
 }
 .page {
   min-height: 100%;
