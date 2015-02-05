@@ -5,8 +5,9 @@ from __future__ import unicode_literals
 import os
 import sys
 sys.path.append(os.curdir)
-# import feeds_with_media
+
 from filters import cat_name
+
 
 AUTHOR = u'gikme'
 SITENAME = u'gik.me'
@@ -69,7 +70,8 @@ PAGE_ORDER_BY = 'order'
 PLUGINS = ['feeds_with_media', ]
 
 FEED_IMAGE = '/image/logotry1400x1400.png'
-FEED_FOOTER = '''<p><strong>Музыка:</strong> <a href="http://vk.com/bacc3" target="_blank">Василий Корчагин - Аляска</a></p>'''
+FEED_FOOTER = '''<p><strong>Музыка:</strong>
+<a href="http://vk.com/bacc3" target="_blank">Василий Корчагин - Аляска</a></p>'''
 CATEGORY_MAP = {
     'hangout': u'хэнгаут',
     'link': u'ссылки',
