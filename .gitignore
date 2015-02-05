@@ -1,4 +1,5 @@
 *.py[co]
 site/output
 site/cache
-site/themes/gikme-light/node_modules
+*/node_modules
+*.git
