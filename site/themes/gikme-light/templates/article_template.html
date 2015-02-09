@@ -4,7 +4,7 @@
 	        <h1 class="article__title">
 	            <a  class="article__link" href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permanent Link to &quot;{{ article.title }}&quot;">{{ article.title }}</a>
 	        </h1>
-			
+
         {% endif %}
 		<time class="article__date">{{ article.date.strftime("%d %b") }}</time>
 	</header>
@@ -14,6 +14,7 @@
 		        <img class="article__image" src="{% if not article.image.startswith('http') %}{{SITEURL}}{% endif %}{{article.image}}" alt="{% if article.title %}{{article.title}}{% else %}gik.me episode image{% endif %}"/>
 		    </div>
 	    {% endif %}
+        {% include "player.html" %}
 		{%- block article_content %}{% endblock -%}
 	</section>
 	<footer class="article__footer">

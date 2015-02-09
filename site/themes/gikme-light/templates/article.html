@@ -71,4 +71,9 @@
   </script>
   <noscript>Please enable JavaScript to view the comments.</noscript>
 {% endif %}
+{% if article.mime and article.mime.startswith('audio') %}
+  <script type="text/javascript">
+    window.isPodcast = true;
+  </script>
+{% endif %}
 {% endblock %}

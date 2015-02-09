@@ -1,16 +1,10 @@
 {% if article.enclosure %}
     {% if article.mime.startswith('audio') %}
-        <p>
-            <strong>Музыка:</strong> <a href="http://vk.com/bacc3" target="_blank">Василий Корчагин - Аляска</a>
-        </p>
         <div class="audio-player">
             <audio controls="" tabindex="0">
             <source src="{{article.enclosure}}" type="{{article.mime}}"></source>
             </audio>
         </div>
-        <p>
-            <a href="{{article.enclosure}}">Скачать выпуск</a>
-        </p>
     {% elif article.mime.startswith('video') %}
         <div class="video-player">
             <video controls="" tabindex="0">
