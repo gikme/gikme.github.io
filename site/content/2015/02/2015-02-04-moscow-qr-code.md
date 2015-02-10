@@ -1,9 +1,9 @@
 Title: Жители Подмосковья могут оплатить проезд в автобусе QR-кодом с 1 февраля. 
-Date: 2015-02-05 18:02:18 
+Date: 2015-02-04 18:02:18 
 Category: news  
 Tags: moscow, qr  
 Author: gikme  
-Slug: 2015-02-01-moscow-qr-code  
+Slug: 2015-02-04-moscow-qr-code  
 Image: /images/news/moscow-qr.jpg  
 
 Жители Подмосковья могут оплатить проезд в автобусе QR-кодом с 1 февраля.
