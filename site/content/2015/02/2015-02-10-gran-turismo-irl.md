@@ -1,10 +1,10 @@
 Title: Гран Туризмо IRL
-Date: 2015-02-09 21:30:00 
+Date: 2015-02-10 21:30:00 
 Category: news  
 Tags: gran turismo, sony, nissan, play station
 Author: gikme  
-Slug: 2015-02-09-gran-turismo-irl.html  
-Image: /images/news/voenkon.jpg  
+Slug: 2015-02-10-gran-turismo-irl.html  
+Image: /images/news/voenkom.jpg  
 
 Ежегодно с 2011 года Sony и Nissan Europe приглашает лучших игроков в Gran Turismo в свою GT Academy.
 
