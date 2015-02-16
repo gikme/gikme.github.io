@@ -55,6 +55,7 @@
 
 {% block title %}{{ SITENAME }} &middot; {{ article.title|striptags|escape }}{% endblock %}
 {% block content %}
+{% set show_shares = True %}
 {% include "article_stub.html" %}
 
 {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
