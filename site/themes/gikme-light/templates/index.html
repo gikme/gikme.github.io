@@ -2,6 +2,7 @@
 
 {% block content %}
 {% set date = None %}
+{% set show_shares = False %}
 {% for article in articles_page.object_list -%}
 {%   if date != article.date.date() %}
 {%     set first_article_of_day = True %}
