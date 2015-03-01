@@ -70,9 +70,11 @@
 
                 {% if DISPLAY_PAGES_ON_MENU %}
                     {% for page in PAGES %}
+                        {% if page.order != "-1" %}
                         <a
                             href="{{ SITEURL }}/{{ page.url }}"
                             class="header__menu-item {% if output_file == page.url %} header__menu-item_active {% endif %}">{{ page.title }}</a>
+                        {% endif %}
                     {% endfor %}
                 {% endif %}
             </nav>
@@ -143,6 +145,9 @@
                         </li>
                         <li class="sidebar__subscribe-item">
                             <a class="sidebar__subscribe-link sidebar__subscribe-link_gikyo link" href="http://yo.gik.me/" target="_blank">Yo!</a>
+                        </li>
+                        <li class="sidebar__subscribe-item">
+                            <a class="sidebar__subscribe-link sidebar__subscribe-link_aoc link" href="/pages/addict-or-creative.html">Норкоман или творец</a>
                         </li>
                     </ul>
                 </div>
