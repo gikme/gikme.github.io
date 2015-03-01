@@ -88,6 +88,7 @@ CATEGORY_MAP = {
 MENUITEMS = (
     ('podcast', '/category/podcast.html', u'Подкаст'),
     ('overflow', '/category/overflow.html', u'Не вошедшее'),
+    ('prelude', '/category/prelude.html', u'Прелюдии'),
     ('news', '/category/news.html', u'Новости'),
 )
 
