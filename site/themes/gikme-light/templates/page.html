@@ -1,5 +1,16 @@
 {% extends "base.html" %}
 
+{% block head %}
+  {{ super() }}
+  <link href='{{SITEURL}}/{{page.url}}' rel='canonical'/>
+
+  <meta property="og:title" content="{{page.title|striptags|escape}}" />
+  {% if page.image %}
+      <meta property="og:image" content="{% if not page.image.startswith('http') %}{{SITEURL}}{% endif %}{{page.image}}" />
+  {% endif %}
+  <meta property="og:url" content="{{SITEURL}}/{{page.url}}" />
+{% endblock %}
+
 {% block title %}{{ SITENAME }} &middot; {{ page.title }}{% endblock %}
 
 {% block content %}
