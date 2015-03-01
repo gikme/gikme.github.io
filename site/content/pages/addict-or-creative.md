@@ -3,6 +3,7 @@ Author: gikme
 Tags: extra, fun  
 Slug: addict-or-creative
 Order: -1
+Image: /images/addict-or-creative/logo.png
 
 Игрушка создана по мотивам истории из [статьи на медузе](https://meduza.io/news/2015/02/25/roskomnadzor-zapretil-izdaniyu-furfur-razlichat-narkomanov-i-tvorcheskih-lyudey).
 
