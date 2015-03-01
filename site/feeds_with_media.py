@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from collections import Iterable
 
 # from pelican.generators import ArticlesGenerator
 from six.moves.urllib.parse import urlparse
@@ -47,6 +48,13 @@ class Rss201rev2Feed(Rss):
             handler.endElement(u"image")
 
 
+def make_iterable(item):
+    if not isinstance(item, Iterable):
+        return [item]
+
+    return item
+
+
 class MediaWriter(Writer):
     """
     Media file support in feed writer
@@ -73,32 +81,36 @@ class MediaWriter(Writer):
 
     def _add_item_to_the_feed(self, feed, item):
         title = Markup(item.title).striptags()
-        enclosure = getattr(item, 'enclosure', '')
+        enclosure = getattr(item, 'enclosure', None)
         mime = getattr(item, 'mime', '')
         image = getattr(item, 'image', '')
+        postfix = u''
 
         if enclosure:
             if not enclosure.startswith('http'):
                 enclosure = self.settings['SITEURL'] + enclosure
 
-            footer = self.settings.get('FEED_FOOTER', u'') + \
-                u'<p><a href="{0}">Скачать вложение</a></p>'.format(enclosure)
+            footer = make_iterable(self.settings.get('FEED_FOOTER', []))
+            categorys = make_iterable(getattr(item, 'category', []))
+
+            for category in categorys:
+                if category.name in footer:
+                    postfix += footer[category.name]
+
+            postfix += u'<p><a href="{0}">Скачать вложение</a></p>'.format(enclosure)
             enclosure = Enclosure(enclosure, '', mime)
-        else:
-            enclosure = None
-            footer = ''
 
         if image:
             if not image.startswith('http'):
                 image = self.settings['SITEURL'] + image
 
             image = u'<img alt="{0}" src="{1}"/><br/>'.format(
-                                                                title.replace('&', '&amp;'
-                                                                ).replace('<', '&lt;'
-                                                                ).replace('>', '&gt;'
-                                                                ).replace('"', '&quot;'
-                                                                ).replace("'", '&#39;'
-                                                                ), image)
+                                                              title.replace('&', '&amp;'
+                                                              ).replace('<', '&lt;'
+                                                              ).replace('>', '&gt;'
+                                                              ).replace('"', '&quot;'
+                                                              ).replace("'", '&#39;'
+                                                              ), image)
 
         link = '%s/%s' % (self.site_url, item.url)
         feed.add_item(
@@ -107,7 +119,7 @@ class MediaWriter(Writer):
             unique_id='tag:%s,%s:%s' % (urlparse(link).netloc,
                                         item.date.date(),
                                         urlparse(link).path.lstrip('/')),
-            description=image + item.get_content(self.site_url) + footer,
+            description=image + item.get_content(self.site_url) + postfix,
             categories=item.tags if hasattr(item, 'tags') else None,
             author_name=getattr(item, 'author', ''),
             enclosure=enclosure,
