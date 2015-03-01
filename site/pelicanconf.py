@@ -82,6 +82,7 @@ CATEGORY_MAP = {
     'text': u'текст',
     'blog': u'блог',
     'news': u'новости',
+    'prelude': u'прелюдии',
 }
 
 MENUITEMS = (

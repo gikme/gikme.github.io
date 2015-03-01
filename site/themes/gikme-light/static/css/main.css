@@ -609,6 +609,7 @@ table {
   background: url("../img/sprite.png");
   -webkit-transition: opacity 300ms;
           transition: opacity 300ms;
+  background-position: -145px -60px;
 }
 .sidebar__subscribe-link:hover:before {
   opacity: 0.8;
@@ -638,6 +639,9 @@ table {
 .sidebar__subscribe-link_pushbullet:before {
   background-position: -235px 0;
 }
+.sidebar__subscribe-link_gikyo:before {
+  background-position: -175px -60px;
+}
 .sidebar__socials {
   padding: 0;
   margin: 10px 0 0 0;
@@ -659,6 +663,7 @@ table {
   text-indent: -1000px;
   -webkit-transition: opacity 300ms;
           transition: opacity 300ms;
+  background-position: -145px -60px;
 }
 .sidebar__socials-link:hover {
   opacity: 0.8;

@@ -68,7 +68,6 @@
                     href="{{SITEURL}}/archives.html"
                     class="header__menu-item {% if output_file == "archives.html" %} header__menu-item_active {% endif %}">Архив</a>
 
-                <a class="header__menu-item" href="http://ave.gik.me/" target="_blank">Аватарки</a>
                 {% if DISPLAY_PAGES_ON_MENU %}
                     {% for page in PAGES %}
                         <a
@@ -133,6 +132,17 @@
                         </li>
                         <li class="sidebar__socials-item">
                             <a href="http://instagram.com/gikme" class="sidebar__socials-link sidebar__socials-link_ig">Инстаграм</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="sidebar__item">
+                    <h4 class="sidebar__title">Сервисы</h4>
+                    <ul class="sidebar__subscribe">
+                        <li class="sidebar__subscribe-item">
+                            <a class="sidebar__subscribe-link link" href="http://ave.gik.me/" target="_blank">Аватарки</a>
+                        </li>
+                        <li class="sidebar__subscribe-item">
+                            <a class="sidebar__subscribe-link sidebar__subscribe-link_gikyo link" href="http://yo.gik.me/" target="_blank">Yo!</a>
                         </li>
                     </ul>
                 </div>
