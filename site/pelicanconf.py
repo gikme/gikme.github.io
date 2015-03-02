@@ -71,8 +71,10 @@ PAGE_ORDER_BY = 'order'
 PLUGINS = ['feeds_with_media', ]
 
 FEED_IMAGE = '/image/logotry1400x1400.png'
-FEED_FOOTER = '''<p><strong>Музыка:</strong>
+FEED_FOOTER = {
+    'podcast': '''<p><strong>Музыка:</strong>
 <a href="http://vk.com/bacc3" target="_blank">Василий Корчагин - Аляска</a></p>'''
+}
 CATEGORY_MAP = {
     'hangout': u'хэнгаут',
     'link': u'ссылки',
