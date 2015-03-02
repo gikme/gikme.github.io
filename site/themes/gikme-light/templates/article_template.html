@@ -2,7 +2,7 @@
 	<header class="article__header">
 		{% if article.title -%}
 	        <h1 class="article__title">
-	            <a  class="article__link" href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permanent Link to &quot;{{ article.title }}&quot;">{{ article.title }}</a>
+	            <a  class="article__link" href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permanent Link to &quot;{{ article.title|striptags|escape }}&quot;">{{ article.title }}</a>
 	        </h1>
 
         {% endif %}
@@ -11,7 +11,7 @@
 	<section class="article__content">
 		{% if article.image -%}
 		    <div class="article__image-wrapper">
-		        <img class="article__image" src="{% if not article.image.startswith('http') %}{{SITEURL}}{% endif %}{{article.image}}" alt="{% if article.title %}{{article.title}}{% else %}gik.me episode image{% endif %}"/>
+		        <img class="article__image" src="{% if not article.image.startswith('http') %}{{SITEURL}}{% endif %}{{article.image}}" alt="{% if article.title %}{{article.title|striptags|escape}}{% else %}gik.me episode image{% endif %}"/>
 		    </div>
 	    {% endif %}
         {% include "player.html" %}

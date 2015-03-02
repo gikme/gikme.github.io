@@ -1,7 +1,7 @@
 {% extends "article_template.html" %}
 {% block article_content %}{{ article.summary }}
 <p class="article__learn-more">
-	<a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Постоянная ссылка на &quot;{{ article.title }}&quot;" class="article__learn-more-link link">Читать дальше</a>
+	<a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Постоянная ссылка на &quot;{{ article.title|striptags|escape }}&quot;" class="article__learn-more-link link">Читать дальше</a>
 	<a href="{{ SITEURL }}/{{ article.url }}#disqus_thread" class="article__comments">&nbsp;</a>
 </p>
 {% endblock %}
