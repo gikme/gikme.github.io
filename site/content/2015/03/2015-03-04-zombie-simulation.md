@@ -1,9 +1,9 @@
 Title: Симуляция зомби-апокалипсиса
-Date: 2015-03-03 21:00:00 
+Date: 2015-03-04 21:00:00 
 Category: news
 Tags: zombie, science
 Author: gikme  
-Slug: 2015-03-03-zombie-simulation
+Slug: 2015-03-04-zombie-simulation
 Image: /images/news/new-zealand-plus.jpg
 
 Наконец-то ученые занялись делом.
