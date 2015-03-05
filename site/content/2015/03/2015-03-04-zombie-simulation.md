@@ -14,4 +14,9 @@ Image: /images/news/new-zealand-plus.jpg
 
 Думаю, неплохим вариантом также может быть, например, и новая зеландия.
 
-<https://vk.com/page-29534144_49014637>	
+<https://vk.com/page-29534144_49014637>
+
+<div id="vk_poll"></div>
+<script type="text/javascript">
+VK.Widgets.Poll("vk_poll", {width: 300}, "173285153_a5da9d4588ddaa3337");
+</script>
