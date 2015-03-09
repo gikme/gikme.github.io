@@ -1,4 +1,4 @@
-Title: #76, Pebble выпустит протезы для сна  
+Title: #76, Valve устроили гейм-теракт на MWC  
 Date: 2015-03-09 23:30:00 
 Author: gikme  
 Category: podcast  
