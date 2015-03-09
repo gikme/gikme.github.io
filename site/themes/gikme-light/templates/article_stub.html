@@ -1,0 +1,14 @@
+{% extends "article_template.html" %}
+{% block article_content %}
+{{ article.content }}
+{% if article.enclosure and article.mime.startswith('audio') %}
+{% if article.category == 'podcast' %}
+<p>
+    <strong>Музыка:</strong> <a href="http://vk.com/bacc3" target="_blank">Василий Корчагин - Аляска</a>
+</p>
+{% endif %}
+<p>
+    <a href="{{article.enclosure}}">Скачать звук</a>
+</p>
+{% endif %}
+{% endblock %}

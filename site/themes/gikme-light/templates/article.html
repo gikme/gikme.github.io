@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+
+{%- block og_prefixes -%}
+    {%- if article.mime -%}
+        {%- if article.mime.startswith('audio') -%}
+            music: http://ogp.me/ns/music#
+        {%- elif article.mime.startswith('video') -%}
+            video: http://ogp.me/ns/video#
+        {%- endif -%}
+    {%- else -%}
+        article: http://ogp.me/ns/article#
+    {%- endif -%}
+{%- endblock -%}
+
+{% block og_type %}
+    {% if article.mime %}
+        {% if article.mime.startswith('audio') %}
+            <meta property="og:type" content="music.radio_station" />
+            <meta property="og:audio" content="{{article.enclosure}}" />
+            <meta property="og:audio:type" content="{{article.mime}}" />
+            <meta property="music:creator" content="https://www.facebook.com/pages/gikme/137607762942824"/>
+        {% elif article.mime.startswith('video') %}
+            <meta property="og:type" content="video.other" />
+            <meta property="og:video" content="{{article.enclosure}}" />
+            <meta property="og:video:type" content="{{article.mime}}" />
+        {% endif %}
+    {% else %}
+        <meta property="og:type" content="article" />
+        <meta property="article:author" content="https://www.facebook.com/pages/gikme/137607762942824" />
+        {% for tag in article.tags %}
+            <meta property="article:tag" content="{{tag|striptags|escape}}" />
+        {% endfor %}
+    {% endif %}
+{% endblock %}
+
+{% block head %}
+  {{ super() }}
+  <link href='{{SITEURL}}/{{article.url}}' rel='canonical'/>
+  {% for keyword in article.keywords %}
+    <meta name="keywords" contents="{{keyword|striptags|escape}}" />
+  {% endfor %}
+
+    <meta name="description" contents="{{article.summary|striptags|escape}}" />
+    <meta property="og:description" content="{{article.summary|striptags|escape}}" />
+
+  {% for tag in article.tags %}
+    <meta name="tags" contents="{{tag|striptags|escape}}" />
+  {% endfor %}
+    <meta property="og:title" content="{{article.title|striptags|escape}}" />
+  {% if article.image %}
+      <meta property="og:image" content="{% if not article.image.startswith('http') %}{{SITEURL}}{% endif %}{{article.image}}" />
+  {% endif %}
+  <meta property="og:url" content="{{SITEURL}}/{{article.url}}" />
+{% endblock %}
+
+{% block title %}{{ SITENAME }} &middot; {{ article.title|striptags|escape }}{% endblock %}
+{% block content %}
+{% set show_shares = True %}
+{% include "article_stub.html" %}
+
+{% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
+  <div class="comments" id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_shortname = '{{ DISQUS_SITENAME }}';
+    var disqus_identifier = '{{ article.url }}';
+    var disqus_url = '{{ SITEURL }}/{{ article.url }}';
+    (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//{{ DISQUS_SITENAME }}.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the comments.</noscript>
+{% endif %}
+{% if article.mime and article.mime.startswith('audio') %}
+  <script type="text/javascript">
+    window.isPodcast = true;
+  </script>
+{% endif %}
+{% endblock %}

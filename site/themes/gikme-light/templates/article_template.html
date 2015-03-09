@@ -1,0 +1,35 @@
+<article class="article">
+	<header class="article__header">
+		{% if article.title -%}
+	        <h1 class="article__title">
+	            <a  class="article__link" href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permanent Link to &quot;{{ article.title|striptags|escape }}&quot;">{{ article.title }}</a>
+	        </h1>
+
+        {% endif %}
+		<time class="article__date">{{ article.date.strftime("%d %b") }}</time>
+	</header>
+	<section class="article__content">
+		{% if article.image -%}
+		    <div class="article__image-wrapper">
+		        <img class="article__image" src="{% if not article.image.startswith('http') %}{{SITEURL}}{% endif %}{{article.image}}" alt="{% if article.title %}{{article.title|striptags|escape}}{% else %}gik.me episode image{% endif %}"/>
+		    </div>
+	    {% endif %}
+        {% include "player.html" %}
+		{%- block article_content %}{% endblock -%}
+	</section>
+	<footer class="article__footer">
+		<div class="article__meta">опубликовано {{ article.date.strftime("%H:%M") }} {%- if article.category.name != "misc" -%} &nbsp;&middot;&nbsp;{{ article.category|cat_name }} {%- endif -%}
+        {%- if show_shares %}
+            <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script><span class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="small" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,pinterest,odnoklassniki,moimir,surfingbird,evernote" data-yashareTheme="counter"{% if article.image %} data-yashareImage="{{SITEURL}}{{article.image}}"{% endif %}></span>
+        {% endif -%}</div>
+		{%- if article.tags -%}
+			<ul class="article__tags">
+		        {%- for t in article.tags -%}
+			        <li class="article__tags-item">
+						<a href="{{ SITEURL }}/{{ t.url }}" class="article__tags-link link">{{ t }}</a>
+					</li>
+		        {%- endfor %}
+	        </ul>
+        {%- endif %}
+	</footer>
+</article>

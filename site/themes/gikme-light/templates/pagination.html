@@ -1,0 +1,17 @@
+<div class="pager">
+    <span class="pager__amount">Страница {{ articles_page.number }} из {{ articles_paginator.num_pages }}</span>
+    	
+	{%- if articles_page.has_previous() %}
+	    {% if articles_page.previous_page_number() == 1 %}
+
+	        <a href="{{ SITEURL }}/{{ page_name }}.html" class="pager__link link">&larr;&nbsp;Назад</a>
+	    {%- else %}
+
+	        <a href="{{ SITEURL }}/{{ page_name }}{{ articles_page.previous_page_number() }}.html" class="pager__link link">&larr;&nbsp;Назад</a>
+	    {%- endif %}
+    {%- endif %}
+    {%- if articles_page.has_next() %}
+
+        <a href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html" class="pager__link link">Дальше&nbsp;&rarr;</a>
+    {%- endif %}
+</div>

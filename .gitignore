@@ -1,0 +1,4 @@
+*.py[co]
+site/output
+site/cache
+node_modules
