@@ -24,7 +24,7 @@
         {% endif -%}</div>
 		{%- if article.tags -%}
 			<ul class="article__tags">
-		        {%- for t in article.tags -%}
+		        {%- for t in article.tags|sort -%}
 			        <li class="article__tags-item">
 						<a href="{{ SITEURL }}/{{ t.url }}" class="article__tags-link link">{{ t }}</a>
 					</li>
