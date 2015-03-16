@@ -1,7 +1,7 @@
 Title: Эппл разочаровывает
 Date: 2015-03-16 21:00:00 
 Category: news
-Tags: zombie, science
+Tags: pebble, apple
 Author: gikme  
 Slug: 2015-03-16-apple-disappointing
 Image: /images/news/meanwhile-in-pebble-office.jpg
