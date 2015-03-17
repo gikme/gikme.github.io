@@ -1,7 +1,7 @@
 Title: Как сводится подкаст на примере "gik.me"  
 Date: 2015-02-01 23:09:18 
 Category: news  
-Tags: gikme, site  
+Tags: gikme, site, podcast, sound, audacity, mastering, how to, denoise, compress  
 Author: gikme  
 Slug: 2015-02-01-podcast-mastering-with-audacity-howto  
 Image: /images/audacity-howto/1000px-Audacity_Logo_nofilter.svg.png
