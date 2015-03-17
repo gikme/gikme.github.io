@@ -1,4 +1,5 @@
 Title: Гостям  
+Date: 2013-02-01 23:00:00 
 Author: gikme  
 Tags: how to, podcast, support  
 Slug: how-to-record  
