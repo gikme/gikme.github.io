@@ -53,7 +53,7 @@
                 </footer>
             </article>
 
-            {% if DISQUS_SITENAME and SITEURL and page.status != "draft" %}
+            {% if not page.nocomment and DISQUS_SITENAME and SITEURL and page.status != "draft" %}
               <div class="comments" id="disqus_thread"></div>
               <script type="text/javascript">
                 var disqus_shortname = '{{ DISQUS_SITENAME }}';
