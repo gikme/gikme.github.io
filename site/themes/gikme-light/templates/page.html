@@ -17,10 +17,54 @@
 
             <article class="article">
             	<header classs="article__header">
-            		<h1 class="article__title">{{ page.title }}</h1>	
+            		<h1 class="article__title">{{ page.title }}</h1>
             	</header>
                 <section class="article__content">
                 	{{ page.content }}
                 </section>
+                <footer class="article__footer">
+                    <div class="article__meta">{% if page.date %}опубликовано {{ page.date.strftime("%d.%m.%Y в %H:%M") }}{% endif %}
+                    {%- if show_shares %}
+                        {# <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script><span class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="small" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,pinterest,odnoklassniki,moimir,surfingbird,evernote" data-yashareTheme="counter"{% if article.image %} data-yashareImage="{{SITEURL}}{{article.image}}"{% endif %}></span> #}
+
+
+                        <script type="text/javascript">(function(w,doc) {
+                        if (!w.__utlWdgt ) {
+                            w.__utlWdgt = true;
+                            var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+                            s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+                            s.src = ('https:' == w.location.protocol ? 'https' : 'http')  + '://w.uptolike.com/widgets/v1/uptolike.js';
+                            var h=d[g]('body')[0];
+                            h.appendChild(s);
+                        }})(window,document);
+                        </script>
+                        <div data-share-size="20" data-like-text-enable="false" data-background-alpha="0.0" data-pid="1353474" data-mode="share" data-background-color="#ffffff" data-share-shape="rectangle" data-share-counter-size="12" data-icon-color="#ffffff" data-text-color="#000000" data-buttons-color="#ffffff" data-counter-background-color="#ffffff" data-share-counter-type="disable" data-orientation="horizontal" data-following-enable="true" data-follow-gp=" GikMe" data-sn-ids="vk.tw.fb.gp.tb.ok.sb." data-follow-in="gikme" data-selection-enable="true" data-exclude-show-more="false" data-share-style="1" data-follow-vk="gikme" data-follow-tw="gikme" data-counter-background-alpha="1.0" data-top-button="true" data-follow-fb="137607762942824" class="uptolike-buttons share{% if not page.date %} share__shifted{% endif%}" ></div>
+                    {% endif -%}
+                    {%- if page.tags -%}
+                        <ul class="article__tags">
+                            {%- for t in page.tags|sort -%}
+                                <li class="article__tags-item">
+                                    <a href="{{ SITEURL }}/{{ t.url }}" class="article__tags-link link">{{ t }}</a>
+                                </li>
+                            {%- endfor %}
+                        </ul>
+                    {%- endif %}
+                    </div>
+                </footer>
             </article>
+
+            {% if not page.nocomment and DISQUS_SITENAME and SITEURL and page.status != "draft" %}
+              <div class="comments" id="disqus_thread"></div>
+              <script type="text/javascript">
+                var disqus_shortname = '{{ DISQUS_SITENAME }}';
+                var disqus_identifier = '{{ page.url }}';
+                var disqus_url = '{{ SITEURL }}/{{ page.url }}';
+                (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//{{ DISQUS_SITENAME }}.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+              </script>
+              <noscript>Please enable JavaScript to view the comments.</noscript>
+            {% endif %}
 {% endblock %}

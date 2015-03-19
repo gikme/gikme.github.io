@@ -849,6 +849,9 @@ audio {
   display: inline-block;
   vertical-align: middle;
 }
+.share__shifted {
+  margin: 0 -3px;
+}
 @-webkit-keyframes fluidboxLoading {
   0% {
     -webkit-transform: translate(-50%, -50%) rotateX(0) rotateY(0);
