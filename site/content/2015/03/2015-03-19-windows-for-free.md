@@ -1,7 +1,7 @@
 Title: Аттракцион невиданной щедрости от маленьких и мягких!
 Date: 2015-03-19 21:30:00 
 Category: news
-Tags: china, doomsday
+Tags: microsoft, windows, free
 Author: gikme  
 Slug: 2015-03-19-windows-for-free
 Image: /images/news/jobs-gates-sadness.jpg
