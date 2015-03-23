@@ -86,6 +86,7 @@ CATEGORY_MAP = {
     'blog': u'блог',
     'news': u'новости',
     'prelude': u'прелюдии',
+    'perl': u'перлы',
 }
 
 MENUITEMS = (
@@ -93,6 +94,7 @@ MENUITEMS = (
     ('overflow', '/category/overflow.html', u'Не вошедшее'),
     ('prelude', '/category/prelude.html', u'Прелюдии [18+]'),
     ('news', '/category/news.html', u'Новости'),
+    ('perl', '/category/perl.html', u'Перлы'),
 )
 
 from sidebar_items import *
