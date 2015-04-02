@@ -1,4 +1,4 @@
-Title: #78, Nintendo, firefly и gik.me за хорошую выдержку  
+Title: #78, Apple вернет пиратскую Windows в App Store  
 Date: 2015-04-03 00:10:00 
 Author: gikme  
 Category: podcast  
