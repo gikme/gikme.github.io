@@ -5,7 +5,7 @@ Category: podcast
 Tags: pebble, htc, valve, vive, steam, machines, mediatek, lenovo, huawei, xiaomi, yi, half-life, google
 Slug: 2015-03-09-valve-made-act-of-game-terrorism-on-mwc  
 Image: /images/episodes/gikme-pic-s03e76.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s03/00076-valve-made-act-of-game-terrorism-on-mwc.mp3  
+Enclosure: http://static.gik.me/mp3/s03/00076-valve-made-act-of-game-terrorism-on-mwc.mp3  
 Mime: audio/mpeg
 
 Информационный партнёр:  

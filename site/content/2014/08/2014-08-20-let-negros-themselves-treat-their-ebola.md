@@ -5,7 +5,7 @@ Category: podcast
 Tags: microsoft, twitter, als, arm, intel, usb, lightning, lowrisc, apple, google, china, robot, yo  
 Slug: 2014-08-20-let-negros-themselves-treat-their-ebola  
 Image: http://1.bp.blogspot.com/-Dmb8rkAxNT8/U_TL5nm4kRI/AAAAAAAATwY/xkBEuk4sPj4/s1600/gikme-pic-s02e61.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00061-let-negros-themselves-treat-their-ebola.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00061-let-negros-themselves-treat-their-ebola.mp3  
 Mime: audio/mpeg
 
 #### IT

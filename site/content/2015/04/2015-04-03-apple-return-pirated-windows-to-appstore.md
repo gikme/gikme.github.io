@@ -5,7 +5,7 @@ Category: podcast
 Tags: apple, handiii, facebook, ai, tomsk, microsoft, windows, hots
 Slug: 2015-04-03-apple-return-pirated-windows-to-appstore  
 Image: /images/episodes/gikme-pic-s03e78.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s03/00078-apple-return-pirated-windows-to-appstore.mp3  
+Enclosure: http://static.gik.me/mp3/s03/00078-apple-return-pirated-windows-to-appstore.mp3  
 Mime: audio/mpeg
 
 Информационный партнёр:  

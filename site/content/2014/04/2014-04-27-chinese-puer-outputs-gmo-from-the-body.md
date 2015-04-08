@@ -5,7 +5,7 @@ Category: podcast
 Tags: trello, yandex.money, paypal, donate, vkontakte, google+, kino-govno, event, tesla, gmo, omsk  
 Slug: 2014-04-27-chinese-puer-outputs-gmo-from-the-body  
 Image: http://3.bp.blogspot.com/-U8Y6zLC2O4A/U10P-3utqRI/AAAAAAAANFs/yx3RSUgSGNc/s1600/gikme-pic-s02e50.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00050-chinese-puer-outputs-gmo-from-the-body.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00050-chinese-puer-outputs-gmo-from-the-body.mp3  
 Mime: audio/mpeg
 
 В гостях Иван Коржавин.  

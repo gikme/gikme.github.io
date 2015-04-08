@@ -5,7 +5,7 @@ Category: podcast
 Tags: android, bitcoin, durov, greenlight, half-llfe 3, ios, lg, meizu, oculus rift, sasha gray, samsung, sochi2014, steam, telegram, ubuntu, valve, олипиада  
 Slug: 2014-01-21-durov-and-sasha-gray-sued-samsung  
 Image: http://2.bp.blogspot.com/-_du5qkDNqZM/Ut1Y6CuoGjI/AAAAAAAAMxA/7iFOJtKT7PU/s1600/gikme-pic-s02e36-2.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00036-durov-and-sasha-gray-sued-samsung.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00036-durov-and-sasha-gray-sued-samsung.mp3  
 Mime: audio/mpeg
 
 #### STEAM DAYS

@@ -5,7 +5,7 @@ Category: podcast
 Tags: north korea, facebook, ubuntu, microsoft, altergaze, android, ios, ulmart, huawei, iphone, yandex, google, nokia, yandex.kit, oculus rift, my world, mail.ru, gta  
 Slug: 2014-04-05-vkontakte-and-my-world-mail-ru-will-be-merged  
 Image: http://3.bp.blogspot.com/-hlF89K8YnP0/Uz_zkwaZ_fI/AAAAAAAANBA/W3g_tA0flwI/s1600/gikme-pic-s02e46.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00046-vkontakte-and-my-world-mail-ru-will-be-merged.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00046-vkontakte-and-my-world-mail-ru-will-be-merged.mp3  
 Mime: audio/mpeg
 
 #### ПОДКАСТ

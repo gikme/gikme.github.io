@@ -5,7 +5,7 @@ Category: podcast
 Tags: 3d print, ac/dc, apple, army, astrid, food, hitler, ikea, ipad, iphone, mit, mozilla, roamer, roaming, rocketbank, skype, tracksflow, yandex, starbucks, ysl  
 Slug: 2013-07-10-all-russians-called-up-for-army  
 Image: http://3.bp.blogspot.com/-cyUAKv_IgOA/Ud1tAhPGEaI/AAAAAAAALu4/xHkE1wI1kK0/s1600/gikme-pic-s01e25.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00025-all-russians-called-up-for-army.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00025-all-russians-called-up-for-army.mp3  
 Mime: audio/mpeg
 
 #### ПОДКАСТ

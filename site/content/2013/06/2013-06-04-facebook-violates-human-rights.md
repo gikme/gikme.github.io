@@ -5,7 +5,7 @@ Category: podcast
 Tags: azure, berserk, blizzard, facebook, htc, lebedev, microsoft, motorola, nfc, russianpost, tcs, tesla, titan  
 Slug: 2013-06-04-facebook-violates-human-rights  
 Image: http://1.bp.blogspot.com/-QSxW_FkN0qs/Ua3cF-cylNI/AAAAAAAALO0/VxukxQ4S_BY/s1600/gikme-pic-s01e20.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00020-facebook-violates-human-rights.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00020-facebook-violates-human-rights.mp3  
 Mime: audio/mpeg
 
 #### ПОДКАСТ

@@ -5,7 +5,7 @@ Category: podcast
 Tags: 3dnews, tjournal, ageofgeeks, bitcoin, telegram, instagram, bolt, top gear, сбербанк, russianpost, firefly, steam, omsk, gikme  
 Slug: 2014-08-04-ultraweakly-binding  
 Image: http://4.bp.blogspot.com/-9nVODknh2W8/U989R4eFF7I/AAAAAAAAStI/RqV5-uCCD2Q/s1600/gikme-pic-s02e60.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00060-ultraweakly-binding.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00060-ultraweakly-binding.mp3  
 Mime: audio/mpeg
 
 #### ГАДЖЕТЫ

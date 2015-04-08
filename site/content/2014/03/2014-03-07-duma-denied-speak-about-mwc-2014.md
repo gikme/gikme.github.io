@@ -5,7 +5,7 @@ Category: podcast
 Tags: apple, ara, blue yeti, blue, google, lenovo, lg, motorola, mwc, podster, samsung, telegram, touchwiz, whatsapp, yandex, yota  
 Slug: 2014-03-07-duma-denied-speak-about-mwc-2014  
 Image: http://2.bp.blogspot.com/-U8UznUy_lTE/Uxn3AsX1hHI/AAAAAAAAM9U/M-4Y22Ew8iU/s1600/gikme-pic-s02e42.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00042-duma-denied-speak-about-mwc-2014.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00042-duma-denied-speak-about-mwc-2014.mp3  
 Mime: audio/mpeg
 
 #### ГАДЖЕТЫ

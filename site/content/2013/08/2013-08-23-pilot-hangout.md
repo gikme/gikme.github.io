@@ -4,7 +4,7 @@ Author: gikme
 Category: podcast  
 Tags: hangout, gikme  
 Slug: 2013-08-23-pilot-hangout  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/hangouts/h00000-2013-08-17.mp3  
+Enclosure: http://static.gik.me/mp3/s01/hangouts/h00000-2013-08-17.mp3  
 Mime: audio/mpeg
 
 По просьбам трудящихся хэнгауты публикуются теперь и в RSS. Тут также  

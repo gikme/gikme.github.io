@@ -5,7 +5,7 @@ Category: podcast
 Tags: carl zeiss, cebit, codefest, facebook, gdg, google, kalpa, lenta, microsoft, picasa, qt, rss, samsung, sharp, sony, steam, ubuntu, valve, бирман  
 Slug: 2013-03-12-google-the-only  
 Image: http://1.bp.blogspot.com/-96X6sQ6HcQw/UT8K-xPK4xI/AAAAAAAAJXc/h8vxqB1UeMs/s1600/gikme-pic-s01e08.png  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00008-google-the-only.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00008-google-the-only.mp3  
 Mime: audio/mpeg
 
 #### Подкаст

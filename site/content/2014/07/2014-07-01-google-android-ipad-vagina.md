@@ -5,7 +5,7 @@ Category: podcast
 Tags: google, oneplus, android, unreal engine, nexus, samsung, knox, ipad, flashlight, yandex.market, russia, education, battelle  
 Slug: 2014-07-01-google-android-ipad-vagina  
 Image: http://1.bp.blogspot.com/-1sWBhRDliTY/U7G06BNUTMI/AAAAAAAAQe4/5JDQkOAVTlw/s1600/gikme-pic-s02e57.jpeg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00057-google-android-ipad-vagina.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00057-google-android-ipad-vagina.mp3  
 Mime: audio/mpeg
 
 #### ГАДЖЕТЫ

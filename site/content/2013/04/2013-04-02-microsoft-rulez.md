@@ -5,7 +5,7 @@ Category: podcast
 Tags: apache, cobbler, google, javascript, nextgen, nosql, postgresql, thrift, аэробия, днк, почта россии  
 Slug: 2013-04-02-microsoft-rulez  
 Image: http://2.bp.blogspot.com/-BDRKG5E6nK0/UVraA_LKejI/AAAAAAAAKM4/YLHKQpWXDAc/s1600/gikme-pic-s01e11.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00011-microsoft-rulezz.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00011-microsoft-rulezz.mp3  
 Mime: audio/mpeg
 
 #### Шоуноты:

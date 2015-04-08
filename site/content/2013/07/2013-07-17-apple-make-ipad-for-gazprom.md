@@ -5,7 +5,7 @@ Category: podcast
 Tags: gazprom, google, instagram, microsoft, minecraft, moon, pgp, rzd, steam, survivalcraft, thepiratebay, twitter, xmpp  
 Slug: 2013-07-17-apple-make-ipad-for-gazprom  
 Image: http://2.bp.blogspot.com/-Iwc7oxgBUgs/Ueant7YnjSI/AAAAAAAALyU/OWA9ydRSxLA/s1600/gikme-pic-s01e26.jp  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00026-apple-make-ipad-for-gazprom.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00026-apple-make-ipad-for-gazprom.mp3  
 Mime: audio/mpeg
 
 #### ИНТЕРНЕТ

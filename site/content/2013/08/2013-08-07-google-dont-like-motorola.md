@@ -5,7 +5,7 @@ Category: podcast
 Tags: edge, google, iblazr, mail.ru, motorola, nokia, russia, russianpost, samsung, selectel, sony, treasure, ubuntu, upskirt, vkontakte, xperia, yota  
 Slug: 2013-08-07-google-dont-like-motorola  
 Image: http://2.bp.blogspot.com/-5Rcf7taMg7w/UgH3Sl467CI/AAAAAAAAL8Y/jMPrd26vFIU/s1600/gikme-pic-s01e29.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00029-google-dont-like-motorola.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00029-google-dont-like-motorola.mp3  
 Mime: audio/mpeg
 
 #### ИНТЕРНЕТ

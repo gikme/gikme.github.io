@@ -5,7 +5,7 @@ Category: podcast
 Tags: neurobiology, android, ubuntu touch, solid energy, pebble, olympus, loop pay, samsung, apple pay, telegram, whats app, playstation, xbox, skype 
 Slug: 2015-02-14-some-overly-adequate-release  
 Image: /images/episodes/gikme-pic-s03e74.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s03/00074-some-overly-adequate-release.mp3  
+Enclosure: http://static.gik.me/mp3/s03/00074-some-overly-adequate-release.mp3  
 Mime: audio/mpeg
 
 #### ГОСТЬ

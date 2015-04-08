@@ -5,7 +5,7 @@ Category: podcast
 Tags: 3d print, abramovich, dhl, durov, fedex, geek picnic, glass, google, oculus rift, pony express, telegram, ups, жукова  
 Slug: 2014-01-27-durov-sell-vkontakte-trough-dhl  
 Image: http://4.bp.blogspot.com/-3sO9jkaIK-M/UuZbOcFu30I/AAAAAAAAMzk/9zf6QPRA66A/s1600/gikme-pic-s02e37.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00037-durov-sell-vkontakte-trough-dhl.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00037-durov-sell-vkontakte-trough-dhl.mp3  
 Mime: audio/mpeg
 
 В гостях **Михаил Швецов**!  

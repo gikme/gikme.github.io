@@ -5,7 +5,7 @@ Category: podcast
 Tags: alyiun, amazon, android, apple, ebay, facebook, game centre, glass, google, ibm, intel, iphone, lenovo, livesteam, ucp, vkontakte, дуров, милнер, навальный, путин  
 Slug: 2013-04-24-vkontakte-closed  
 Image: http://3.bp.blogspot.com/-Z4OPoTuZtrk/UXgJGMihc9I/AAAAAAAAKak/u4Du5ED2igY/s1600/gikme-pic-s01e14.jpg  
-Enclosure: http://static.qnub.ru/gik.me/s01/mp3/00014-vkontakte-closed.mp3  
+Enclosure: http://static.gik.me/s01/mp3/00014-vkontakte-closed.mp3  
 Mime: audio/mpeg
 
 #### Около IT

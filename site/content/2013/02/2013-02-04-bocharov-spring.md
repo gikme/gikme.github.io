@@ -5,7 +5,7 @@ Category: podcast
 Tags: apple, facebook, google+, ibm, itunes, omskit, philips, podfm, podster, qualcomm, rpod, samsung, vkontakte, wacom  
 Slug: 2013-02-04-bocharov-spring  
 Image: http://3.bp.blogspot.com/-UcpAeZXafe0/UQ6pqgoj0AI/AAAAAAAAIVo/ikbVUKSn3PQ/s1600/gikme-pic-s01e03.png  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00003-bocharov-spring.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00003-bocharov-spring.mp3  
 Mime: audio/mpeg
 
 #### Подкаст 

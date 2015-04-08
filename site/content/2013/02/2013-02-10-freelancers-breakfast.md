@@ -5,7 +5,7 @@ Category: podcast
 Tags: acer, android, apple, chrome os, freelance, fujifilm, google, htc, panasonic, ubuntu, электронные чернила  
 Slug: 2013-02-10-freelancers-breakfast  
 Image: http://2.bp.blogspot.com/-4zMfImPi3DE/UReZ5b0gk3I/AAAAAAAAIdU/hA0WAmQWYbM/s1600/gikme-pic-s01e04.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00004-freelancers-breakfast.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00004-freelancers-breakfast.mp3  
 Mime: audio/mpeg
 
 #### Подкаст 

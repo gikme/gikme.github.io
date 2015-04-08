@@ -5,7 +5,7 @@ Category: podcast
 Tags: google, inbox, rpod, meduza, i'm siberian, apple, dsl, nexus, android, civilization, elizium, automata  
 Slug: 2014-10-29-enlarge-smartphone-3-inches-per-week  
 Image: http://1.bp.blogspot.com/-269rk9kX0ig/VFC_lpUwdWI/AAAAAAAAXRc/BBAEO_dqd48/s1600/gikme-pic-s02e65-insta.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00065-enlarge-smartphone-3-inches-per-week.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00065-enlarge-smartphone-3-inches-per-week.mp3  
 Mime: audio/mpeg
 
 #### РОССИЯ

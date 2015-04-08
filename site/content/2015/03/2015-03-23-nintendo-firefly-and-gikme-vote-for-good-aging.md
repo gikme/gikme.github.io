@@ -5,7 +5,7 @@ Category: podcast
 Tags: mir, x.org, wayland, systemd, debian, unity, apple, macbook, watch, chromebook, windows, russian post, gps, nintendo, firefly, con man, google, github, gitlab, bitbucket, gotham
 Slug: 2015-03-23-nintendo-firefly-and-gikme-vote-for-good-aging  
 Image: /images/episodes/gikme-pic-s03e77.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s03/00077-nintendo-firefly-and-gikme-vote-for-good-aging.mp3  
+Enclosure: http://static.gik.me/mp3/s03/00077-nintendo-firefly-and-gikme-vote-for-good-aging.mp3  
 Mime: audio/mpeg
 
 Информационный партнёр:  

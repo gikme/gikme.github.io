@@ -5,7 +5,7 @@ Category: podcast
 Tags: omsk, microsoft, little big, сми, vodka, usa, halo, yahoo, series, илья прусикин  
 Slug: 2014-04-13-microsoft-spokesman-tried-to-leave-omsk-on-an-ice-floe  
 Image: http://4.bp.blogspot.com/-efDInWyAXgg/U0p-40qmk9I/AAAAAAAANCY/rdG453EuxX4/s1600/gikme-pic-s02e48.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00048-microsoft-spokesman-tried-to-leave-omsk-on-an-ice-floe.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00048-microsoft-spokesman-tried-to-leave-omsk-on-an-ice-floe.mp3  
 Mime: audio/mpeg
 
 #### МИР

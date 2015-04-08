@@ -5,7 +5,7 @@ Category: podcast
 Tags: pebble, sysadmin, cyborg, autopilot, boston dynamics, fifth element, total recall, dead alive, braindead, vhs, shadow, sliders, dna, ai, intel
 Slug: 2015-03-02-pebble-make-dentures-for-sleep  
 Image: /images/episodes/gikme-pic-s03e75.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s03/00075-pebble-make-dentures-for-sleep.mp3  
+Enclosure: http://static.gik.me/mp3/s03/00075-pebble-make-dentures-for-sleep.mp3  
 Mime: audio/mpeg
 
 #### ГОСТЬ

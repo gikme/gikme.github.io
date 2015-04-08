@@ -5,7 +5,7 @@ Category: podcast
 Tags: amd, android, api, raspberry pi, ubuntu, unity, windows 8, youtube, квн  
 Slug: 2013-01-21-pro-velosipedy  
 Image: http://2.bp.blogspot.com/-qH-A54-BZKk/UPw2iQrf7AI/AAAAAAAAIDY/cQ0xERCLOPE/s1600/01-plan.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00001-about-bikes.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00001-about-bikes.mp3  
 Mime: audio/mpeg
 
 Проблема с файлом подкаста. (<http://j.mp/Ucc92P>)  

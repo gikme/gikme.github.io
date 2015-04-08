@@ -5,7 +5,7 @@ Category: podcast
 Tags: rpod, google, cyborg, ubuntu touch, bq, steam, streaming, hearthstone, blizzard, scrolls, mojang, apple, lego, mega blocks, pirate bay, bittorrent  
 Slug: 2014-12-24-full-new-year-appeal-2014  
 Image: http://3.bp.blogspot.com/-EAbJGlEwSxc/VJpy7KEEfgI/AAAAAAAAY1A/jnbTzRXvAZg/s1600/gikme-pic-s02e68.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00068-full-new-year-appeal-2014.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00068-full-new-year-appeal-2014.mp3  
 Mime: audio/mpeg
 
 #### ГОСТЬ

@@ -5,7 +5,7 @@ Category: podcast
 Tags: api, bitcasa, crash plan, disk, drive, dropbox, ems, firefox, google, itv, mozilla, opera, russianpost, yandex, вк.рация  
 Slug: 2013-04-16-russian-post  
 Image: http://1.bp.blogspot.com/-l0ntV1fOlTc/UW189AuaV0I/AAAAAAAAKVk/ACNaxi_FRVs/s1600/gikme-pic-s01e13.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00013-russianpost.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00013-russianpost.mp3  
 Mime: audio/mpeg
 
 #### Вне IT

@@ -5,7 +5,7 @@ Category: podcast
 Tags: android, facebook, google, iphone, ishovel, lastwail, spotify, ubuntu phone, whatsapp, yandex.kit  
 Slug: 2014-02-24-facebooks-whatsapp-will-be-preinstalled-to-apples-phable  
 Image: http://2.bp.blogspot.com/-62lRfLpC9pU/UwtSD6mXURI/AAAAAAAAM7M/jhYF_J2VpGU/s1600/gikme-pic-s02e41.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00041-facebooks-whatsapp-will-be-preinstalled-to-apples-phablets.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00041-facebooks-whatsapp-will-be-preinstalled-to-apples-phablets.mp3  
 Mime: audio/mpeg
 
 #### IT

@@ -5,7 +5,7 @@ Tags: gikme, macbook, apple
 Author: gikme  
 Slug: 2015-03-23-macbook-snow
 Image: /images/perls/77/macbook-snow.jpg
-Enclosure: http://static.qnub.ru/gik.me/mp3/s03/pearls/77/macbook-snow.mp3  
+Enclosure: http://static.gik.me/mp3/s03/pearls/77/macbook-snow.mp3  
 Mime: audio/mpeg
 
 

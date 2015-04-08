@@ -5,7 +5,7 @@ Category: podcast
 Tags: ebay, flickr, google, islands, pnacl, recon jet, tumblr, windows 8, yahoo, yandex  
 Slug: 2013-05-21-yandex-islands-internet-search-revolution  
 Image: http://3.bp.blogspot.com/-AitMtEmqlFw/UZugfuZMlNI/AAAAAAAALJw/1Xs3GNXcoYk/s1600/gikme-pic-s01e18.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00018-yandex-islands-internet-search-revolution.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00018-yandex-islands-internet-search-revolution.mp3  
 Mime: audio/mpeg
 
 #### ГОСТЬ

@@ -5,7 +5,7 @@ Category: podcast
 Tags: interview, kim dotkom, lizard squad, marco polo, omsk, psn, quake, russia, sevastopol, tv, vkontakte, xbl, youtube  
 Slug: 2014-12-31-tenge-saves-ruble  
 Image: http://1.bp.blogspot.com/-DWHOJCj_sMc/VKPg6HvFWxI/AAAAAAAAY7Q/8tKDm-JCGfE/s1600/gikme-pic-s02e69.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00069-tenge-saves-ruble.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00069-tenge-saves-ruble.mp3  
 Mime: audio/mpeg
 
 #### ГОСТЬ

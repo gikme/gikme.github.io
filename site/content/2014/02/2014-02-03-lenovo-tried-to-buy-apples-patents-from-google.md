@@ -5,7 +5,7 @@ Category: podcast
 Tags: amazon, apple, ara, google, iphone, lenovo, lokheed martin, motorola, multiship, playstation, robot, usa, wifi, yandex, труция  
 Slug: 2014-02-03-lenovo-tried-to-buy-apples-patents-from-google  
 Image: http://1.bp.blogspot.com/-3FdVe7j2zIQ/Uu9ALxcsERI/AAAAAAAAMz0/hvP-uDHyOAs/s1600/gikme-pic-s02e38-3.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00038-lenovo-tried-to-buy-apples-patents-from-google.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00038-lenovo-tried-to-buy-apples-patents-from-google.mp3  
 Mime: audio/mpeg
 
 #### ИНТЕРНЕТ

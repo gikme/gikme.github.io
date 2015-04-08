@@ -5,7 +5,7 @@ Category: podcast
 Tags: activision, blizzard, brainsorage, copyright, games, gmail, google, machinarium, mail, microsoft, mizulina, petzval, unchained, yandex, zenit, илья сегалович, масяня  
 Slug: 2013-07-30-rightholders-mizulina-internet  
 Image: http://2.bp.blogspot.com/-63dA5Gri9Ro/UffsYtkIJUI/AAAAAAAAL7Y/Awfa6VvWBv4/s1600/28.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00028-rightholders-mizulina-intenet.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00028-rightholders-mizulina-intenet.mp3  
 Mime: audio/mpeg
 
 #### РОССИЯ

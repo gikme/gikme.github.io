@@ -5,7 +5,7 @@ Category: podcast
 Tags: app.net, facebook, golography, google, mdk, motorola, risc, russianpost, svyaznoy, tracksflow, vk, yandex, zaycev.net  
 Slug: 2013-07-02-facebook-promotes-homosexuality  
 Image: http://4.bp.blogspot.com/-PD2yqMcRN7w/UdLHzxdN-ZI/AAAAAAAALp0/GJ0VzwYlsi4/s402/gikme-pic-s01e24.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00024-facebook-promotes-homosexuality.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00024-facebook-promotes-homosexuality.mp3  
 Mime: audio/mpeg
 
 #### ИНТЕРНЕТ 

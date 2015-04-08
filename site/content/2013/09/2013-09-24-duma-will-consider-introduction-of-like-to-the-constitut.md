@@ -5,7 +5,7 @@ Category: podcast
 Tags: 112, blog, facebook, google, like, linux, maxim, penthouse, rambler, steam, uds, valve, youtube, уренгой  
 Slug: 2013-09-24-duma-will-consider-introduction-of-like-to-the-constitut  
 Image: http://2.bp.blogspot.com/-DIVEcXlq494/UkF5iAMEwhI/AAAAAAAAMBQ/oMDYLLmlZ3s/s1600/gikme-pic-s01e33.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s01/00033-duma-will-consider-introduction-of-like-to-the-constitution.mp3  
+Enclosure: http://static.gik.me/mp3/s01/00033-duma-will-consider-introduction-of-like-to-the-constitution.mp3  
 Mime: audio/mpeg
 
 #### IT

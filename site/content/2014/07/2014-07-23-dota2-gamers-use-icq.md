@@ -5,7 +5,7 @@ Category: podcast
 Tags: dota, the international, hopes&fears, yandex.market, icq, google, drugs, apple, appstore  
 Slug: 2014-07-23-dota2-gamers-use-icq  
 Image: http://3.bp.blogspot.com/-OILoKRQ6TAk/U89NCif4obI/AAAAAAAASRY/nqe73wsPvXE/s1600/gikme-pic-s02e59.jpg  
-Enclosure: http://static.qnub.ru/gik.me/mp3/s02/00059-dota2-gamers-use-icq.mp3  
+Enclosure: http://static.gik.me/mp3/s02/00059-dota2-gamers-use-icq.mp3  
 Mime: audio/mpeg
 
 В гостях — Гейб Ньюэлл.  
