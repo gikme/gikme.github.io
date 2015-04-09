@@ -719,6 +719,13 @@ table {
   -webkit-transition: opacity 0;
           transition: opacity 0;
 }
+.sidebar__tags {
+  text-align: center;
+}
+.sidebar__tags-item {
+  display: inline;
+  margin: 0 10px;
+}
 .window {
   background: #f9f7f2;
   min-height: 100%;
