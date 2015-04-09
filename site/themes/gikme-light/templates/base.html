@@ -177,7 +177,16 @@
                     <h4 class="sidebar__title">Комментарии</h4>
                     <script type="text/javascript" src="http://{{DISQUS_SITENAME}}.disqus.com/recent_comments_widget.js"></script>
                 </div>
-                {% endif %} #}
+                {% endif %}
+                <div class="sidebar__item">
+                    <ul class="sidebar__tags">
+                        {% for tag, articles in tags|sort %}
+                        <li class="sidebar__tags-item">
+                            <a href="{{SITEURL}}/{{tag.url}}" class="sidebar__tags-link link">{{tag}}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>#}
                 <div class="sidebar__item">
                     <a href="http://orphus.ru" id="orphus" target="_blank"><img alt="Система Orphus" src="{{ SITEURL }}/theme/img/orphus.gif" border="0" width="220" height="80" /></a>
                 </div>
@@ -185,8 +194,8 @@
                     Хостинг сайта:
                     <a href="https://github.com/" class="link" target="_blank">GitHub</a>
                     {# <a href="https://bill2fast.com/aff.php?aff=3332" class="link" target="_blank">FastVPS</a><br>
-                    и <a href="https://www.digitalocean.com/?refcode=00e18fbdd21a" class="link" target="_blank">Digital Ocean</a>, #}
-                    звука: <a href="http://order.hostlife.net/pl.php?19255" class="link" target="_blank">HostLife</a>.
+                    и <a href="https://www.digitalocean.com/?refcode=00e18fbdd21a" class="link" target="_blank">Digital Ocean</a>,
+                    звука: <a href="http://order.hostlife.net/pl.php?19255" class="link" target="_blank">HostLife</a>.#}
                 </div>
                 <div class="sidebar__item">
                     <strong>18+</strong> &mdash; для людей старше 18 лет
