@@ -4,7 +4,7 @@ Category: news
 Tags: russian post
 Author: gikme  
 Slug: 2015-04-14-russian-post
-Image: /images/news/rupost.jpg
+Image: /images/news/rupost.jpeg
 
 Никто в этом мире не любит Почту России так, как любим её мы. Больше Почты России мы, пожалуй, любим только Омское Метро, но сегодня не об этом.
 
