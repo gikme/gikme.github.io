@@ -1,4 +1,4 @@
-Title: #80, AliExpress продаст обезьян Тинькову  
+Title: #80, Менеджеры Twitter и Facebook пройдут стажировку в России  
 Date: 2015-04-23 22:45:00 
 Author: gikme  
 Category: podcast  
