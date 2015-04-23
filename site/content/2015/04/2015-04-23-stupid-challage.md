@@ -14,4 +14,4 @@ Image: /images/news/stupid-challage.jpg
 
 А как вы увеличиваете разные свои части тела? Ждем фоток в комментариях.
 
-[https://vk.com/feed?q=%23KylieJennerChallenge&section=search](#KylieJennerChallenge)
+[#KylieJennerChallenge](https://vk.com/feed?q=%23KylieJennerChallenge&section=search)
