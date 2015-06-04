@@ -58,26 +58,14 @@
                             class="header__menu-item {% if item.0 == category %} header__menu-item_active {% endif %}">{{item.2}}</a>
                     {% endfor %}
                 {% endif %}
-                {% if DISPLAY_CATEGORIES_ON_MENU %}
-                    {% for cat, null in categories %}
-                        <a
-                            href="{{SITEURL}}/{{cat.url}}"
-                            class="header__menu-item {% if cat == category %} header__menu-item_active {% endif %}">{{ cat|cat_name|title }}</a>
-                    {% endfor %}
-                {% endif %}
+            </nav>
+            <nav class="header__menu header__menu_right">
                 <a
-                    href="{{SITEURL}}/archives.html"
-                    class="header__menu-item {% if output_file == "archives.html" %} header__menu-item_active {% endif %}">Архив</a>
-
-                {% if DISPLAY_PAGES_ON_MENU %}
-                    {% for page in PAGES %}
-                        {% if page.order != "-1" %}
-                        <a
-                            href="{{ SITEURL }}/{{ page.url }}"
-                            class="header__menu-item {% if output_file == page.url %} header__menu-item_active {% endif %}">{{ page.title }}</a>
-                        {% endif %}
-                    {% endfor %}
-                {% endif %}
+                    href="http://talk.gik.me"
+                    class="header__menu-item header__menu-item_talk">Обсудить новости</a>
+                <a
+                    href="{{SITEURL}}/pages/donate.html"
+                    class="header__menu-item header__menu-item_donate {% if output_file == 'pages/donate.html' %} header__menu-item_active {% endif %}">Поддержать</a>    
             </nav>
         </header>
 
@@ -96,7 +84,7 @@
                             <a href="http://feeds.feedburner.com/gikme" class="sidebar__subscribe-link sidebar__subscribe-link_rss link">RSS подкаста</a>
                         </li>
                         <li class="sidebar__subscribe-item">
-                            <a href="http://feeds.feedburner.com/gikmeblog" class="sidebar__subscribe-link sidebar__subscribe-link_rss-extra link">RSS (всё подряд) <strong>[18+]</strong></a>
+                            <a href="http://feeds.feedburner.com/gikmeblog" class="sidebar__subscribe-link sidebar__subscribe-link_rss-extra link">RSS (всё подряд)<sup>18+</sup></a>
                         </li>
                         <li class="sidebar__subscribe-item">
                             <a href="http://podster.fm/user/gikme" class="sidebar__subscribe-link sidebar__subscribe-link_podster link">gik.me на podster.ru</a>
@@ -135,6 +123,30 @@
                         </li>
                         <li class="sidebar__socials-item">
                             <a href="http://instagram.com/gikme" class="sidebar__socials-link sidebar__socials-link_ig">Инстаграм</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="sidebar__item">
+                    <h4 class="sidebar__title">Дополнительно</h4>
+                    <ul class="sidebar__more">
+                        {% if SIDEMENUITEMS %}
+                            {% for item in SIDEMENUITEMS %}
+                                <li class="sidebar__more-item">
+                                    <a
+                                        href="{{SITEURL}}{{item.1}}"
+                                        class="sidebar__more-link {% if item.0 == category %} sidebar__more-link_active {% endif %}">{{item.2}}</a>
+                                </li>
+                            {% endfor %}
+                        {% endif %}
+                        <li class="sidebar__more-item">
+                            <a
+                                href="{{SITEURL}}/archives.html"
+                                class="sidebar__more-link {% if output_file == 'archives.html' %} sidebar__more-link_active {% endif %}">Архив</a>
+                        </li>
+                        <li class="sidebar__more-item">
+                            <a
+                                href="{{SITEURL}}/pages/how-to-record.html"
+                                class="sidebar__more-link {% if output_file == 'pages/how-to-record.html' %} sidebar__more-link_active {% endif %}">Гостям</a>
                         </li>
                     </ul>
                 </div>

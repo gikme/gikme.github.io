@@ -91,10 +91,13 @@ CATEGORY_MAP = {
 
 MENUITEMS = (
     ('podcast', '/category/podcast.html', u'Подкаст'),
-    ('overflow', '/category/overflow.html', u'Не вошедшее'),
-    ('prelude', '/category/prelude.html', u'Прелюдии [18+]'),
-    ('news', '/category/news.html', u'Новости'),
+    ('prelude', '/category/prelude.html', u'Прелюдии<sup>18+</sup>'),
     ('perl', '/category/perl.html', u'Перлы'),
+)
+
+SIDEMENUITEMS = (
+    ('overflow', '/category/overflow.html', u'Не вошедшее'),
+    ('news', '/category/news.html', u'Новости'),
 )
 
 from sidebar_items import *

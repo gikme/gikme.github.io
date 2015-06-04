@@ -149,3 +149,21 @@
 		&-item
 			display inline
 			margin 0 10px
+
+
+	&__more
+		list-style none
+		padding 0
+		margin 20px 0 0 0
+		
+		&-item
+			margin-top 20px
+			&:first-child 
+				margin-top 0
+				
+		&-link
+			@extend .link
+			
+			&_active
+				color #000
+				font-weight bold
