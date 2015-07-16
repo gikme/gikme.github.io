@@ -18,7 +18,7 @@ Mime: audio/mpeg
 <https://telegram.me/joinchat/04872ec601417e1583d24a365b3448f9>
 
 Вакансия программистов.
-https://docs.google.com/document/d/1zTPfbTIB7EznQmKKPAzGoDD1TxrUBZ-txh2QGqJRf84/edit#
+<https://docs.google.com/document/d/1zTPfbTIB7EznQmKKPAzGoDD1TxrUBZ-txh2QGqJRf84/edit#>
 
 Студия Naughty America начала выпуск фильмов категории "ХХХ" для видеоочков, а мы - протестировали одно видео
 <http://talk.gik.me/posts/puoQSjqNaaBbuukFB/studiya-naughty-america-nachala-vypusk-filmov-kategorii-hhh>
