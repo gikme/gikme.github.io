@@ -1,4 +1,4 @@
-Title: #87, Олег Тиньков донатом убивает рынок разработки сайтов
+Title: #88, Как пропатчить KDE Mobile под OnePlus 2
 Date: 2015-07-30 23:45:00
 Author: gikme  
 Category: podcast  
