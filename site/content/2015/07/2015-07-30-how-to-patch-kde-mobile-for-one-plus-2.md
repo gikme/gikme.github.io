@@ -2,7 +2,7 @@ Title: #88, Как пропатчить KDE Mobile под OnePlus 2
 Date: 2015-07-30 23:45:00
 Author: gikme  
 Category: podcast  
-Tags: sports.ru, google, sony, vkontakte, oneplus, kde, nasa, voice,
+Tags: sports.ru, google, sony, vkontakte, oneplus, kde, nasa, voice
 Slug: 2015-07-30-how-to-patch-kde-mobile-for-one-plus-2
 Image: /images/episodes/gikme-pic-s03e88.jpg  
 Enclosure: http://static.gik.me/mp3/s03/00088-how-to-patch-kde-mobile-for-one-plus-2.mp3  
