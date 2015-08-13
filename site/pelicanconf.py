@@ -10,8 +10,8 @@ from filters import cat_name
 
 
 AUTHOR = u'gikme'
-SITENAME = u'gik.me'
-SITESUBTITLE = u'Гиковский IT подкаст'
+SITENAME = u'gik.me [closed]'
+SITESUBTITLE = u'Закрытый гиковский подкаст'
 SITEURL = 'http://gik.me'
 DISQUS_SITENAME = 'gikme'
 
