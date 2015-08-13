@@ -86,18 +86,20 @@ CATEGORY_MAP = {
     'blog': u'блог',
     'news': u'новости',
     'prelude': u'прелюдии',
+    'nedocast': u'недокаст',
     'perl': u'перлы',
 }
 
 MENUITEMS = (
-    ('podcast', '/category/podcast.html', u'Подкаст'),
-    ('prelude', '/category/prelude.html', u'Прелюдии<sup>18+</sup>'),
-    ('perl', '/category/perl.html', u'Перлы'),
+    ('podcast', '/category/podcast.html', u'Подкаст<sup>18+</sup>'),
+    ('nedocast', '/category/nedocast.html', u'Недокаст<sup>18+</sup>'),
 )
 
 SIDEMENUITEMS = (
     ('overflow', '/category/overflow.html', u'Не вошедшее'),
     ('news', '/category/news.html', u'Новости'),
+    ('perl', '/category/perl.html', u'Перлы'),
+    ('prelude', '/category/prelude.html', u'Прелюдии<sup>18+</sup>'),
 )
 
 from sidebar_items import *
