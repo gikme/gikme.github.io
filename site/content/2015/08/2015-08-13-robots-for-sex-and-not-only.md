@@ -3,7 +3,7 @@ Date: 2015-08-14 00:55:00
 Author: gikme  
 Category: podcast  
 Tags: facebook, dota, hbo, samsung, google, alphabet, robots
-Slug: 00090-robots-for-sex-and-not-only
+Slug: 2015-08-14-robots-for-sex-and-not-only
 Image: /images/episodes/gikme-pic-s03e90.jpg  
 Enclosure: http://static.gik.me/mp3/s03/00090-robots-for-sex-and-not-only.mp3  
 Mime: audio/mpeg
