@@ -10,28 +10,28 @@ Mime: audio/mpeg
 
 
 Информационный партнёр: «Типичный Сисадмин»
-https://vk.com/sysodmins
+<https://vk.com/sysodmins>
 
 Нравится гик.ми? Докажи! :-)
-http://gik.me/pages/donate.html
+<http://gik.me/pages/donate.html>
 
 Временная ссылка на присоединение к чяту
-https://telegram.me/joinchat/BIcuxgFBfhXYbunbY-3EDA
+<https://telegram.me/joinchat/BIcuxgFBfhXYbunbY-3EDA>
 
 Канал гик.ми в телеграме. В нём новости и подробности про шоу
-https://telegram.me/gikme
+<https://telegram.me/gikme>
 
 Презентация новых устройств Google
-http://talk.gik.me/posts/CDEW7equCWpayRSEm/prezentaciya-gugla
+<http://talk.gik.me/posts/CDEW7equCWpayRSEm/prezentaciya-gugla>
 
 Национальный поисковик "Спутник" выпустил десктопный браузер с возможностью блокировки "недетского" контента
-http://talk.gik.me/posts/X9iRvfWcKGukQeYT9/nacionalnyj-poiskovik-sputnik-vypustil-desktopnyj-brauzer-s
+<http://talk.gik.me/posts/X9iRvfWcKGukQeYT9/nacionalnyj-poiskovik-sputnik-vypustil-desktopnyj-brauzer-s>
 
 Tesla представила автомобиль Model X - Meduza
-http://talk.gik.me/posts/aEuN7Xk3eHxNPr9kj/tesla-predstavila-avtomobil-model-x-meduza
+<http://talk.gik.me/posts/aEuN7Xk3eHxNPr9kj/tesla-predstavila-avtomobil-model-x-meduza>
 
 В Китае начали торговлю микросвиньями
-http://talk.gik.me/posts/tyPi34eDbbRqXnZRg/v-kitae-nachali-torgovlyu-mikrosvinyami
+<http://talk.gik.me/posts/tyPi34eDbbRqXnZRg/v-kitae-nachali-torgovlyu-mikrosvinyami>
 
 The Skarp Laser Razor: 21st Century Shaving
-http://talk.gik.me/posts/JQ7NSAT7gKw252yvM/the-skarp-laser-razor-21st-century-shaving
+<http://talk.gik.me/posts/JQ7NSAT7gKw252yvM/the-skarp-laser-razor-21st-century-shaving>
