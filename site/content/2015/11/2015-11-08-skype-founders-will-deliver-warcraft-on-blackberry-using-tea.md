@@ -25,7 +25,7 @@ Mime: audio/mpeg
 <https://telegram.me/yahujikchannel> <br>
 
 Временная ссылка на присоединение к чяту: <br>
-<https://telegram.me/joinchat/BIcuxgFBfhWA3VD81hHYBg>
+<https://telegram.me/joinchat/BIcuxgFBfhWA3VD81hHYBg> <br>
 Правила чата: <br>
 <https://www.evernote.com/l/ABunRkHFVbNIg7kGL-gtmNulgj3Cnpeg0ns>
 
