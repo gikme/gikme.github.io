@@ -11,11 +11,11 @@ Mime: audio/mpeg
 
 Информационный партнёр: [«Типичный Сисадмин»](https://vk.com/sysodmins)
 
-Видеотрансляция выпуска (подписывайтесь на канал):
-https://www.youtube.com/watch?v=dnymx_3fLx8
+Видеотрансляция выпуска (подписывайтесь на канал): <br>
+<https://www.youtube.com/watch?v=dnymx_3fLx8>
 
-Принудительные пожертвования:
-http://gik.me/pages/donate.html
+Принудительные пожертвования: <br>
+<http://gik.me/pages/donate.html>
 
 Каналы гик.ми и его ведущих в телеграме. В них новости и подробности про шоу. <br>
 <https://telegram.me/gikme> <br>
