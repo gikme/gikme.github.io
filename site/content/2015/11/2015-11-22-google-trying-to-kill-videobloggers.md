@@ -3,7 +3,7 @@ Date: 2015-11-22 11:00:10
 Author: gikme  
 Category: podcast  
 Tags: google plus, oxford, twitter, windows, military
-Slug: 2015-11-12-google-trying-to-kill-videobloggers
+Slug: 2015-11-29-google-trying-to-kill-videobloggers
 Image: /images/episodes/gikme-pic-s03e102.jpg  
 Enclosure: http://static.gik.me/mp3/s03/00102-google-trying-to-kill-videobloggers.mp3
 Mime: audio/mpeg
@@ -25,7 +25,7 @@ Mime: audio/mpeg
 
 Временная ссылка на присоединение к чяту: <br>
 https://telegram.me/joinchat/BIcuxgFBfhV4574Sp0gCIw <br>
-Правила чата: <br> 
+Правила чата: <br>
 https://www.evernote.com/l/ABunRkHFVbNIg7kGL-gtmNulgj3Cnpeg0ns
 
 Американские военные используют мозги солдат в качестве нейросети для анализа изображений <br>
