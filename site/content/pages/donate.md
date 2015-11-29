@@ -11,4 +11,4 @@ Nocomment: 1
 
 #### [Яндекс.Деньги](http://yasobe.ru/na/gikme)
 
-#### [PayPal.me](https://paypal.me/gikme/300)
+#### [PayPal](https://paypal.me/gikme/300)
