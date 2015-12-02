@@ -766,6 +766,9 @@ table {
 .sidebar__socials-link_ig {
   background-position: -235px -30px;
 }
+.sidebar__socials-link_tg {
+  background-position: -235px -60px;
+}
 .sidebar__donate {
   margin: 10px 0 0 0;
   padding: 0;

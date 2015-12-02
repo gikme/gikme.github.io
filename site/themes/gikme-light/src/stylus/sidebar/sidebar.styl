@@ -1,169 +1,172 @@
 .sidebar
-	width sidebar-width
-	float left
-	margin-left marginx2
+    width sidebar-width
+    float left
+    margin-left marginx2
 
-	@media screen and (max-width: 999px)
-		display none
+    @media screen and (max-width: 999px)
+        display none
 
-	&__item
-		margin-top 40px
+    &__item
+        margin-top 40px
 
-		&:first-child
-			margin-top 20px
+        &:first-child
+            margin-top 20px
 
-	&__title
-		margin 0
-		font-size subheader-fs
+    &__title
+        margin 0
+        font-size subheader-fs
 
-	&__subscribe
-		list-style none
-		margin 0
-		padding 0
+    &__subscribe
+        list-style none
+        margin 0
+        padding 0
 
-		&-item
-			margin-top 10px
+        &-item
+            margin-top 10px
 
-		&-link
-			padding-left 40px
-			height 30px
-			line-height 30px
-			display inline-block
-			position relative
+        &-link
+            padding-left 40px
+            height 30px
+            line-height 30px
+            display inline-block
+            position relative
 
-			&:before
-				content ''
-				width 30px
-				height 30px
-				display inline-block
-				position absolute
-				top 0
-				left 0
-				background url('../img/sprite.png')
-				transition opacity 350ms
-				background-position -145px -60px
+            &:before
+                content ''
+                width 30px
+                height 30px
+                display inline-block
+                position absolute
+                top 0
+                left 0
+                background url('../img/sprite.png')
+                transition opacity 350ms
+                background-position -145px -60px
 
-			&:hover:before
-				opacity .8
-				transition opacity 0ms
+            &:hover:before
+                opacity .8
+                transition opacity 0ms
 
-			&:active:before
-				opacity .5
-				transition opacity 0ms
+            &:active:before
+                opacity .5
+                transition opacity 0ms
 
-			&_rss:before
-				background-position -205px 0
+            &_rss:before
+                background-position -205px 0
 
-			&_rss-extra:before
-				background-position -205px 0
+            &_rss-extra:before
+                background-position -205px 0
 
-			&_podster:before
-				background-position -295px 0
+            &_podster:before
+                background-position -295px 0
 
-			&_podfm:before
-				background-position -205px -30px
+            &_podfm:before
+                background-position -205px -30px
 
-			&_itunes:before
-				background-position -295px -30px
+            &_itunes:before
+                background-position -295px -30px
 
-			&_pushbullet:before
-				background-position -235px 0
+            &_pushbullet:before
+                background-position -235px 0
 
-			&_gikyo:before
-				background-position -175px -60px
+            &_gikyo:before
+                background-position -175px -60px
 
-			&_aoc:before
-				background-position -205px -60px
+            &_aoc:before
+                background-position -205px -60px
 
-	&__socials
-		padding 0
-		margin 10px 0 0 0
-		list-style 0
-		font-size 0
+    &__socials
+        padding 0
+        margin 10px 0 0 0
+        list-style 0
+        font-size 0
 
-		&-item
-			width 30px
-			height 30px
-			margin 0 10px 12px 0
-			display inline-block
+        &-item
+            width 30px
+            height 30px
+            margin 0 10px 12px 0
+            display inline-block
 
-		&-link
-			display inline-block
-			background url('../img/sprite.png')
-			width 30px
-			height 30px
-			overflow hidden
-			text-indent -1000px
-			transition opacity 350ms
-			background-position -145px -60px
+        &-link
+            display inline-block
+            background url('../img/sprite.png')
+            width 30px
+            height 30px
+            overflow hidden
+            text-indent -1000px
+            transition opacity 350ms
+            background-position -145px -60px
 
-			&:hover
-				opacity .8
-				transition opacity 0ms
+            &:hover
+                opacity .8
+                transition opacity 0ms
 
-			&:active
-				opacity .5
-				transition opacity 0ms
+            &:active
+                opacity .5
+                transition opacity 0ms
 
-			&_vk
-				background-position -145px -30px
+            &_vk
+                background-position -145px -30px
 
-			&_tw
-				background-position -175px 0
+            &_tw
+                background-position -175px 0
 
-			&_fb
-				background-position -265px -30px
+            &_fb
+                background-position -265px -30px
 
-			&_gp
-				background-position -265px 0
+            &_gp
+                background-position -265px 0
 
-			&_tm
-				background-position -175px -30px
+            &_tm
+                background-position -175px -30px
 
-			&_yt
-				background-position -145px 0
+            &_yt
+                background-position -145px 0
 
-			&_ig
-				background-position -235px -30px
+            &_ig
+                background-position -235px -30px
 
-	&__donate
-		margin 10px 0 0 0
-		padding 0
-		list-style none
+            &_tg
+                background-position -235px -60px
 
-	&__paypal
-		outline none
-		transition opacity 350ms
+    &__donate
+        margin 10px 0 0 0
+        padding 0
+        list-style none
 
-		&:hover
-			opacity .8
-			transition opacity 0ms
+    &__paypal
+        outline none
+        transition opacity 350ms
 
-		&:active
-			opacity .5
-			transition opacity 0ms
+        &:hover
+            opacity .8
+            transition opacity 0ms
 
-	&__tags
-		text-align center
+        &:active
+            opacity .5
+            transition opacity 0ms
 
-		&-item
-			display inline
-			margin 0 10px
+    &__tags
+        text-align center
+
+        &-item
+            display inline
+            margin 0 10px
 
 
-	&__more
-		list-style none
-		padding 0
-		margin 20px 0 0 0
-		
-		&-item
-			margin-top 20px
-			&:first-child 
-				margin-top 0
-				
-		&-link
-			@extend .link
-			
-			&_active
-				color #000
-				font-weight bold
+    &__more
+        list-style none
+        padding 0
+        margin 20px 0 0 0
+
+        &-item
+            margin-top 20px
+            &:first-child
+                margin-top 0
+
+        &-link
+            @extend .link
+
+            &_active
+                color #000
+                font-weight bold
