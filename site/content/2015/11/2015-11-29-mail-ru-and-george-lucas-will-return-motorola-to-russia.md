@@ -2,7 +2,7 @@ Title: #103, Mail.ru и Джордж Лукас вернут Motorola Росси
 Date: 2015-11-29 20:15:00
 Author: gikme  
 Category: podcast  
-Tags: vulcan, mail.ru, yandex, lenovo, android, star wars, darpa, 
+Tags: vulcan, mail.ru, yandex, lenovo, android, star wars, darpa
 Slug: 2015-11-29-mail-ru-and-george-lucas-will-return-motorola-to-russia
 Image: /images/episodes/gikme-pic-s03e103.jpg  
 Enclosure: http://static.gik.me/mp3/s03/00103-mail-ru-and-george-lucas-will-return-motorola-to-russia.mp3
