@@ -4,7 +4,7 @@ Category: nedocast
 Tags: odno nazvanie
 Author: gikme  
 Slug: 2015-12-26-odno-nazvanie-19
-Image: /images/on/ep19.png
+Image: /images/on/ep19.jpg
 Enclosure: http://static.gik.me/mp3/on/s01/00019-odno-nazvanie.mp3  
 Mime: audio/mpeg
 
