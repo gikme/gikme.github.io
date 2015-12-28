@@ -27,7 +27,7 @@ Mime: audio/mpeg
 <https://telegram.me/yahujikchannel>
 
 Постоянная ссылка на присоединение к чяту:  
-<https://telegram.me/joinchat/BIcuxgFBfhXS7ghv1Ojomw>  
+<https://telegram.me/joinchat/BIcuxjvXKVV0atRm2F5wsw>  
 Правила чата: <https://www.evernote.com/l/ABunRkHFVbNIg7kGL-gtmNulgj3Cnpeg0ns>
 
 [Крупнейший коллайдер будет построен по проекту российских физиков](https://talk.gik.me/posts/f6Wsd5QygmjTzASPb/krupnejshij-kollajder-budet-postroen-po-proektu-rossijskih)
