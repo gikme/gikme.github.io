@@ -26,7 +26,7 @@ Khojanashvili Givi
 Kolganov Evgeny  
 Konstantin Taletskiy  
 Rad (@greynix) х3  
-Robert Null (@bobrebyc)  
+Robert Null (@bobrebyc) х2  
 
 Григорьев Дмитрий х2  
 Пухов Денис  
