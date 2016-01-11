@@ -15,7 +15,8 @@ Mime: audio/mpeg
 [«Типичный Сисадмин»](https://vk.com/sysodmins).  
 
 Эксклюзивное межподкастье + этот выпуск + недокаст «Одно название» на YouTube (подписывайтесь на канал):  
-<https://www.youtube.com/watch?v=fLoYBqOiRhE>
+<http://www.youtube.com/watch?v=wrIDpRigQp0>  
+<http://www.youtube.com/watch?v=b4YnjNLWOt0>
 
 Скидываем деньги, обязательно с пометкой:  
 Саше на черный квадрат, Вадиму на микрофон, Тёме на плейстейшн.  
