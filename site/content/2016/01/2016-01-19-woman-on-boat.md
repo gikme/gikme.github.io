@@ -9,8 +9,11 @@ Enclosure: http://static.gik.me/mp3/s04/00110-woman-on-boat.mp3
 Mime: audio/mpeg
 
 
-Информационный партнёр:
+Информационный партнёр:  
 [«Типичный Сисадмин»](https://vk.com/sysodmins)
+
+Гость выпуска:  
+[Даша Абрамова](https://vk.com/id11622508)
 
 Эксклюзивное межподкастье + этот выпуск + недокаст «Одно название» на YouTube (подписывайтесь на канал):  
 <http://www.youtube.com/watch?v=YNzEfp8EUpE>
