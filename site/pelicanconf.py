@@ -16,6 +16,7 @@ SITEURL = 'http://gik.me'
 DISQUS_SITENAME = 'gikme'
 
 PATH = 'content'
+DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'archives']
 # STATIC_PATHS = ['audio', 'podcast', 'overflow', 'text', 'downloads']
 # ARTICLE_PATHS = ['audio', 'podcast', 'overflow', 'text']
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'

@@ -13,12 +13,24 @@
 {%- endblock %}
 
 {% block content %}
-
-                {% for tag in tag_cloud -%}
+                <section class="article">
+                    <header class="article__header">
+                        <h1 class="article__title">Архив</h1>
+                    </header>
+                    <div class="article__content">
+                        <div class="post archives">
+                            <ul>
+                                {% for tag, articles in tags|sort %}
+                                    <li><a href="{{ SITEURL }}/{{ tag.url }}" class="link">{{ tag }}</a> ({{ articles|count }})</li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+                {# {% for tag in tag_cloud -%}
                 <a class="tag" href="{{ tag_url(tag) }}" style="font-size: {{ tagprio_to_fontsz(tag.1) }};" title="{{ tag.0 }}">{{ tag.0 }}</a>
                 {% else %}
                 <h1>Нет тегов!</h1>
                 Вот отстой...
-                {% endfor %}
+                {% endfor %} #}
 {% endblock %}
-
