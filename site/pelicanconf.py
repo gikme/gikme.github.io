@@ -16,7 +16,7 @@ SITEURL = 'http://gik.me'
 DISQUS_SITENAME = 'gikme'
 
 PATH = 'content'
-DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'archives']
+DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'archives', 'search']
 # STATIC_PATHS = ['audio', 'podcast', 'overflow', 'text', 'downloads']
 # ARTICLE_PATHS = ['audio', 'podcast', 'overflow', 'text']
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
@@ -70,7 +70,8 @@ DELETE_OUTPUT_DIRECTORY = True
 SUMMARY_MAX_LENGTH = 30
 PAGE_ORDER_BY = 'order'
 
-PLUGINS = ['feeds_with_media', ]
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['feeds_with_media', 'tipue_search']
 
 FEED_IMAGE = '/image/logotry1400x1400.png'
 FEED_FOOTER = {

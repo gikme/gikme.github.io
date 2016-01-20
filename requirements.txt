@@ -2,3 +2,4 @@ pelican
 markdown
 typogrify
 ghp-import
+beautifulsoup4

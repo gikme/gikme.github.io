@@ -6,6 +6,7 @@
             <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
             <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
             <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css"/>
+            <link rel="stylesheet" href="{{ SITEURL }}/theme/tipuesearch/tipuesearch.css">
             <link rel="shortcut icon" href="/favicon.ico" />
             <link rel='icon' type='image/x-icon' href='/favicon.ico'/>
 
@@ -149,6 +150,11 @@
                         </li>
                         <li class="sidebar__more-item">
                             <a
+                                href="{{SITEURL}}/search.html"
+                                class="sidebar__more-link {% if output_file == 'search.html' %} sidebar__more-link_active {% endif %}">Поиск</a>
+                        </li>
+                        <li class="sidebar__more-item">
+                            <a
                                 href="{{SITEURL}}/pages/how-to-record.html"
                                 class="sidebar__more-link {% if output_file == 'pages/how-to-record.html' %} sidebar__more-link_active {% endif %}">Гостям</a>
                         </li>
@@ -229,11 +235,13 @@
                 }());
             </script>
         {% endif %}
-        <script type="text/javascript" src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
-        <script type="text/javascript" src="{{ SITEURL }}/theme/js/audiojs/audio.js"></script>
-        <script type="text/javascript" src="{{ SITEURL }}/theme/js/main.js"></script>
-        <script type="text/javascript" src="{{ SITEURL }}/theme/js/jquery.fluidbox.min.js"></script>
-        <script type="text/javascript" src="{{ SITEURL }}/theme/js/orphus.js"></script>
+        {% block scripts %}
+            <script type="text/javascript" src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
+            <script type="text/javascript" src="{{ SITEURL }}/theme/js/audiojs/audio.js"></script>
+            <script type="text/javascript" src="{{ SITEURL }}/theme/js/main.js"></script>
+            <script type="text/javascript" src="{{ SITEURL }}/theme/js/jquery.fluidbox.min.js"></script>
+            <script type="text/javascript" src="{{ SITEURL }}/theme/js/orphus.js"></script>
+        {% endblock scripts %}
         {% include 'analytics.html' %}
     </body>
 </html>

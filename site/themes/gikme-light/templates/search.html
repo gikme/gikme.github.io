@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block head %}
+  {{ super() }}
+  <link href='{{SITEURL}}/search.html' rel='canonical'/>
+
+  <meta property="og:title" content="gik.me search" />
+{% endblock %}
+
+{% block scripts %}
+    {{ super() }}
+    <script type="text/javascript" src="{{ SITEURL }}/theme/tipuesearch/tipuesearch_set.js"></script>
+    <script type="text/javascript" src="{{ SITEURL }}/theme/tipuesearch/tipuesearch.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#tipue_search_input').tipuesearch({
+                'show': 8,
+                'mode': 'json',
+                'contentLocation': '{{ SITEURL }}/tipuesearch_content.json'
+            });
+        });
+    </script>
+{% endblock %}
+
+{% block title %}{{ SITENAME }} &middot; Поиск{% endblock %}
+
+{% block content %}
+            <article class="article">
+                <header classs="article__header">
+                    <h1 class="article__title">Поиск</h1>
+                </header>
+                <section class="article__content">
+                    <div>
+                        <input type="text" size="60" id="tipue_search_input"  placeholder="Поиск…"/>
+                        <input type="button" style="display:none" id="tipue_search_button"/>
+                    </div>
+                    <div id="tipue_search_content"></div>
+                </section>
+            </article>
+{% endblock %}
