@@ -28,7 +28,7 @@ Mime: audio/mpeg
 <https://telegram.me/qnub_me>  
 <https://telegram.me/yahujikchannel>
 
-Музыка в телеграме (от лсушателей gik.me):  
+Музыка в телеграме (от слушателей gik.me):  
 [В стиле Lounge](https://telegram.me/in_lounge)  
 [Morning Coffee](https://telegram.me/morningcoffeeproject)
 
