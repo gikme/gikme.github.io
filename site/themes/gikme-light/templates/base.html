@@ -47,7 +47,6 @@
         {% endblock head %}
     </head>
     <body class="page">
-
         <header class="header">
             <h1 class="header__logo"><a href="{{SITEURL}}" class="header__logo-link">Gik me</a></h1>
             <nav class="header__menu">
@@ -141,22 +140,22 @@
                         <li class="sidebar__more-item">
                             <a
                                 href="{{SITEURL}}/archives.html"
-                                class="sidebar__more-link {% if output_file == 'archives.html' %} sidebar__more-link_active {% endif %}">Архив</a>
+                                class="sidebar__more-link {% if output_file == 'pages/archives.html' %} sidebar__more-link_active {% endif %}">Архив</a>
                         </li>
                         <li class="sidebar__more-item">
                             <a
                                 href="{{SITEURL}}/tags.html"
-                                class="sidebar__more-link {% if output_file == 'tags.html' %} sidebar__more-link_active {% endif %}">Теги</a>
+                                class="sidebar__more-link {% if output_file == 'pages/tags.html' %} sidebar__more-link_active {% endif %}">Теги</a>
                         </li>
                         <li class="sidebar__more-item">
                             <a
                                 href="{{SITEURL}}/search.html"
-                                class="sidebar__more-link {% if output_file == 'search.html' %} sidebar__more-link_active {% endif %}">Поиск</a>
+                                class="sidebar__more-link {% if output_file == 'pages/search.html' %} sidebar__more-link_active {% endif %}">Поиск</a>
                         </li>
                         <li class="sidebar__more-item">
                             <a
                                 href="{{SITEURL}}/pages/tools.html"
-                                class="sidebar__more-link {% if output_file == 'tools.html' %} sidebar__more-link_active {% endif %}">Полезняк</a>
+                                class="sidebar__more-link {% if output_file == 'pages/tools.html' %} sidebar__more-link_active {% endif %}">Полезняк</a>
                         </li>
                         <li class="sidebar__more-item">
                             <a
@@ -246,6 +245,10 @@
             <script type="text/javascript" src="{{ SITEURL }}/theme/js/main.js"></script>
             <script type="text/javascript" src="{{ SITEURL }}/theme/js/jquery.fluidbox.min.js"></script>
             <script type="text/javascript" src="{{ SITEURL }}/theme/js/orphus.js"></script>
+            {% if output_file == 'pages/trello.html' %}
+                <script type="text/javascript" src="https://trello.com/1/client.js?key=fcaf22c05f4f9b9fc063af2da9d8a617"></script>
+                <script type="text/javascript" src="{{ SITEURL }}/theme/js/trello.js"></script>
+            {% endif %}
         {% endblock scripts %}
         {% include 'analytics.html' %}
     </body>

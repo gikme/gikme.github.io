@@ -1,107 +1,108 @@
 .header
-	width site-width
-	margin auto
-	padding 20px 240px 0 0
-	font-size 0
-	
-	@media screen and (max-width: 999px)
-		padding-right 0
-		width 100%
-		max-width content-width
-	
-	&__logo
-		display inline-block
-		margin 0 20px 0 0 
-		width 145px
-		height 50px
-		vertical-align middle
-		
-		@media screen and (max-width: 759px)
-			margin-left 30px
-		
-		&-link
-			background url('../img/sprite.png')
-			display inline-block
-			text-indent -1000px
-			overflow hidden
-			width 145px
-			height 50px
-			transition opacity 350ms
+    width site-width
+    margin auto
+    padding 20px 240px 0 0
+    font-size 0
 
-			
-			&:hover
-				opacity .8
-				transition opacity 0ms
-				
-			&:active
-				opacity .5
-				transition opacity 0ms
-		
-	&__menu
-		display inline-block
-		
-		&_right
-			float right
-			margin-top 8px
-			@media screen and (max-width: 999px) 
-				float none
-				margin-left 169px
-			@media screen and (max-width: 743px)
-				margin-left 0
-			.header__menu
-				&-item
-					margin 0 20px 0 0 
-					&:last-child
-						margin-right 0
-						
-					&_donate
-						@media screen and (max-width: 538px)
-							margin-top 10px
-		
-		@media screen and (max-width: 759px)
-			margin-top 20px
-			padding-left 20px
-		
-		&-item
-			@extend .link
-			display inline-block
-			padding 5px 10px
-			margin 0 5px
-			font-size content-fs
-			
-			&_talk
-				border 1px solid
-				border-radius 5px
-				transition 250ms
-				
-				&:hover
-					color #fff
-					background link-color
-					border-color link-color
-					transition 0ms
-				
-				&:active
-					box-shadow 0 0 10px rgba(0,0,0,0.2) inset
-					transition 0
-			
-			&_donate
-				color support-color
-				border 1px solid support-color
-				border-radius 5px
-				transition 250ms
-				
-				&:hover
-					color #fff
-					background support-color
-					border-color support-color
-					transition 0ms
-					
-				&:active
-					box-shadow 0 0 10px rgba(0,0,0,0.4) inset
-					transition 0
+    @media screen and (max-width: 999px)
+        padding-right 0
+        width 100%
+        max-width content-width
 
-			&_active
-				border 1px solid border-color
-				border-radius 5px
-				color font-color
-				
+    &__logo
+        display inline-block
+        margin 0 20px 0 0
+        width 145px
+        height 50px
+        vertical-align middle
+
+        @media screen and (max-width: 759px)
+            margin-left 30px
+
+        &-link
+            background url('../img/sprite.png')
+            display inline-block
+            text-indent -1000px
+            overflow hidden
+            width 145px
+            height 50px
+            transition opacity 350ms
+
+
+            &:hover
+                opacity .8
+                transition opacity 0ms
+
+            &:active
+                opacity .5
+                transition opacity 0ms
+
+    &__menu
+        display inline-block
+
+        &_right
+            float right
+            margin-top 8px
+            @media screen and (max-width: 999px)
+                float none
+                margin-left 169px
+            @media screen and (max-width: 743px)
+                margin-left 0
+            .header__menu
+                &-item
+                    margin 0 20px 0 0
+                    &:last-child
+                        margin-right 0
+
+                    &_donate
+                        @media screen and (max-width: 538px)
+                            margin-top 10px
+
+        @media screen and (max-width: 759px)
+            margin-top 20px
+            padding-left 20px
+
+        &-item
+            @extend .link
+            display inline-block
+            padding 5px 10px
+            margin 0 5px
+            font-size content-fs
+            background transparent
+
+            &_talk
+                border 1px solid
+                border-radius 5px
+                transition 250ms
+
+                &:hover
+                    color #fff
+                    background link-color
+                    border-color link-color
+                    transition 0ms
+
+                &:active
+                    box-shadow 0 0 10px rgba(0,0,0,0.2) inset
+                    transition 0
+
+            &_donate
+                color support-color
+                border 1px solid support-color
+                border-radius 5px
+                transition 250ms
+
+                &:hover
+                    color #fff
+                    background support-color
+                    border-color support-color
+                    transition 0ms
+
+                &:active
+                    box-shadow 0 0 10px rgba(0,0,0,0.4) inset
+                    transition 0
+
+            &_active
+                border 1px solid border-color
+                border-radius 5px
+                color font-color
+                

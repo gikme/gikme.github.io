@@ -542,6 +542,7 @@ table {
   padding: 5px 10px;
   margin: 0 5px;
   font-size: 14px;
+  background: transparent;
 }
 .header__menu-item_talk {
   border: 1px solid;
@@ -943,6 +944,38 @@ audio {
 }
 .share__shifted {
   margin: 0 -3px;
+}
+.trello-ui {
+  margin: 20px 0;
+}
+.trello-ui__message {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.trello-ui__message_status_error {
+  color: #f66245;
+}
+.trello-ui__user-info {
+  margin: 10px -5px;
+}
+.trello-ui__avatar {
+  width: 54px;
+  margin-left: 5px;
+}
+.trello-ui__logout {
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: top;
+}
+.trello-ui__lists-buttons {
+  margin: 10px -5px;
+}
+.trello-ui__list-content {
+  border: 1px #a4a6a8 solid;
+  border-radius: 3;
+  width: 100%;
+  height: 300px;
+  color: #3a3e41;
 }
 @-webkit-keyframes fluidboxLoading {
   0% {
