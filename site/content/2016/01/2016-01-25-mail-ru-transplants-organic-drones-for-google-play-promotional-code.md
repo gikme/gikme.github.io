@@ -2,7 +2,7 @@ Title: #111, Mail.ru пересаживает органические бесп�
 Date: 2016-01-25 23:20:00
 Author: gikme  
 Category: podcast  
-Tags:
+Tags: mail.ru, google, ebay
 Slug: 2016-01-25-mail-ru-transplants-organic-drones-for-google-play-promotional-code
 Image: /images/episodes/gikme-pic-s04e111.jpg  
 Enclosure: http://static.gik.me/mp3/s04/00111-mail-ru-transplants-organic-drones-for-google-play-promotional-code.mp3
