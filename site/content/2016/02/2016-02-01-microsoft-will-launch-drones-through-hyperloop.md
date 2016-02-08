@@ -1,5 +1,5 @@
 Title: #112, Microsoft пустит беспилотные самокаты через Hyperloop
-Date: 2016-02-25 23:40:00
+Date: 2016-02-01 23:40:00
 Author: gikme  
 Category: podcast  
 Tags: parse, facebook, hyperloop, samocat, python, microsoft, javascript
