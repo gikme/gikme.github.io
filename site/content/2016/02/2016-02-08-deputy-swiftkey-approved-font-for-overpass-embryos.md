@@ -1,5 +1,5 @@
 Title: #113, Замминистра Swiftkey одобрил шрифт для эмбрионов Overpass
-Date: 2016-02-25 23:40:00
+Date: 2016-02-08 23:40:00
 Author: gikme  
 Category: podcast  
 Tags: google play, tomsk, netflix, swiftkey, overpass, british science
@@ -17,7 +17,7 @@ Mime: audio/mpeg
 
 Скидываем деньги, обязательно с пометкой: <br>
 Саше на черный квадрат, <br>
-Вадиму на микрофон, <br> 
+Вадиму на микрофон, <br>
 Тёме на плейстейшн, <br>
 Даше на вебкамеру. <br>
 <http://gik.me/pages/donate.html>
