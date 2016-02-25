@@ -544,6 +544,9 @@ table {
   font-size: 14px;
   background: transparent;
 }
+.header__menu-item_single {
+  margin: 0;
+}
 .header__menu-item_talk {
   border: 1px solid;
   border-radius: 5px;
@@ -976,6 +979,30 @@ audio {
   width: 100%;
   height: 300px;
   color: #3a3e41;
+}
+.payment-form {
+  background-color: #bdedba;
+  padding: 10px;
+}
+.payment-form_display_inline {
+  background-color: #fff;
+  display: inline-block;
+  padding: 0;
+  margin-bottom: 10px;
+}
+.payment-form__input {
+  border: 1px solid #3a3e41;
+  border-radius: 5px;
+  background-color: #fff;
+  margin-bottom: 10px;
+  padding: 2px 3px;
+}
+.payment-form__input_type_select {
+  padding: 1px 2px;
+}
+.payment-form__label,
+.payment-form__input {
+  display: block;
 }
 @-webkit-keyframes fluidboxLoading {
   0% {
