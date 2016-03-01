@@ -1,4 +1,4 @@
-Title: #115,  LG G5 с бэкапом звука на YouTube
+Title: #115, Red Hat не принимают VR-сперму
 Date: 2016-03-01 12:45:00
 Author: gikme  
 Category: podcast  
