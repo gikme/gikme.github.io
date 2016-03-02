@@ -45,6 +45,7 @@ Nocomment: 1
 
 * [Общий](http://yasobe.ru/na/gikme)
 * [Ваде](https://money.yandex.ru/to/410011889725372/300)
+* [Даше](https://money.yandex.ru/to/410014009528813/300)
 * [Саше](https://money.yandex.ru/to/41001503155190/300)
 * [Тёме](https://money.yandex.ru/to/41001272101724/300)
 
