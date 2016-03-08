@@ -2,7 +2,7 @@ Title: #116, Гарольд станет лицом датацентра Google 
 Date: 2016-03-08 17:35:00
 Author: gikme  
 Category: podcast  
-Tags:
+Tags: facebook, ssd, google, tomsk, battery, yandex, instagram, harold, vk
 Slug: 2016-03-08-harold-become-the-face-of-the-googles-datacenter-in-russia
 Image: /images/episodes/gikme-pic-s04e116-2.jpg  
 Enclosure: http://static.gik.me/mp3/s04/00116-harold-become-the-face-of-the-googles-datacenter-in-russia.mp3
