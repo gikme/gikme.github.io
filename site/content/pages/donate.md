@@ -77,5 +77,5 @@ Robert Null (@bobrebyc) х2
 
 ### Автоплатёж:
 
-Пухов Денис
+Денис (@denis_0k)
 Cyber (@cyber)
