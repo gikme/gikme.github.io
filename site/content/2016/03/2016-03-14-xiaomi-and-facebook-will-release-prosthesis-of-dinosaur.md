@@ -1,4 +1,4 @@
-Title: #117, Гарольд станет лицом датацентра Google в РФ
+Title: #117, Xiaomi и Facebook выпустят протез динозавра
 Date: 2016-03-14 21:55:00
 Author: gikme  
 Category: podcast  
