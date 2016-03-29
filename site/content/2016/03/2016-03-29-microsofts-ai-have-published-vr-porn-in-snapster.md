@@ -4,7 +4,7 @@ Author: gikme
 Category: podcast
 Tags: snapster, aliexpress, vkontakte, microsoft, toonz, pornhub
 Slug: 2016-03-29-microsofts-ai-have-published-vr-porn-in-snapster
-Image: /images/episodes/gikme-pic-s04e118-2.jpg  
+Image: /images/episodes/gikme-pic-s04e119-2.jpg  
 Enclosure: http://static.gik.me/mp3/s04/00119-microsofts-ai-have-published-vr-porn-in-snapster.mp3
 Mime: audio/mpeg
 
