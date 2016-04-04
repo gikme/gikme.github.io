@@ -4,7 +4,7 @@ Author: gikme
 Category: podcast
 Tags: vk, design, microdoft, lentach, drone, canonical, yandex, tesla 
 Slug: 2016-04-04-redesign-of-the-vk-cures-cancer-of-windows-users
-Image: /images/episodes/gikme-pic-s04e119-2.jpg  
+Image: /images/episodes/gikme-pic-s04e120-2.jpg  
 Enclosure: http://static.gik.me/mp3/s04/00120-redesign-of-the-vk-cures-cancer-of-windows-users.mp3
 Mime: audio/mpeg
 
