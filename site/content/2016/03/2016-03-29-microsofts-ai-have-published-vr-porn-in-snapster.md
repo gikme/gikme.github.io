@@ -9,6 +9,10 @@ Enclosure: http://static.gik.me/mp3/s04/00119-microsofts-ai-have-published-vr-po
 Mime: audio/mpeg
 
 
+Информационный партнёр:  
+«Типичный Сисадмин».  
+<https://vk.com/sysodmins>
+
 Запись прямой трансляции: интересные разговоры между подкастами + этот выпуск + недокаст «Одно название» на YouTube (подписывайся на канал):  
 <http://www.youtube.com/watch?v=Uanr8_BICBg>
 
