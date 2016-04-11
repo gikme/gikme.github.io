@@ -72,25 +72,51 @@
     return text;
   };
 
+  var clearPrefixes = function(text, prefixes){
+    for (var i in prefixes){
+      var parts = text.split(prefixes[i]);
+
+      if (parts.length==2 && parts[0] === ''){
+        text = parts[1];
+      }
+    }
+
+    return text;
+  };
+
+  var clearDoamins = function(url){
+    var replacements = [
+      ['m.geektimes.ru', 'geektimes.ru']
+    ];
+
+    for (var i in replacements){
+      url = url.replace(replacements[i][0], replacements[i][1])
+    }
+    return url;
+  };
+
   var clearUrl = function(url){
     var suffixes = [
       '?from=rss'
     ];
 
-    url = url.replace('m.geektimes.ru', 'geektimes.ru').trim();
-
-    return clearSuffixes(url, suffixes).trim();
+    return clearSuffixes(clearDoamins(url.trim()), suffixes).trim();
   };
 
   var clearText = function(text){
     var suffixes = [
       ' / Geektimes',
-      ' | n1.by'
+      ' | n1.by',
+      ' - 4PDA'
     ];
 
-    text = text.trim();
+    var prefixes = [
+      'Компания Яндекс — Главные новости — ',
+      'Ferra.ru - ',
+      'TNW: '
+    ];
 
-    return clearSuffixes(text, suffixes).trim();
+    return clearSuffixes(clearPrefixes(text.trim(), prefixes), suffixes).trim();
   };
 
   var clearParts = function(parts){
