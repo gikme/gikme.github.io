@@ -60,23 +60,71 @@
     console.error(error);
   };
 
+  var clearSuffixes = function(text, suffixes){
+    for (var i in suffixes){
+      var parts = text.split(suffixes[i]);
+
+      if (parts.length==2 && parts[1] === ''){
+        text = parts[0];
+      }
+    }
+
+    return text;
+  };
+
+  var clearUrl = function(url){
+    var suffixes = [
+      '?from=rss'
+    ];
+
+    url = url.replace('m.geektimes.ru', 'geektimes.ru').trim();
+
+    return clearSuffixes(url, suffixes).trim();
+  };
+
+  var clearText = function(text){
+    var suffixes = [
+      ' / Geektimes',
+      ' | n1.by'
+    ];
+
+    text = text.trim();
+
+    return clearSuffixes(text, suffixes).trim();
+  };
+
+  var clearParts = function(parts){
+    return [clearText(parts[0]), clearUrl(parts[1])];
+  };
+
   var loadListContent = function(element, target){
     Trello.lists.get(
       $(element).data('id')+'/cards/open',
       function(success){
         var text = '';
+        var markdown = $('.markdown_switch').prop("checked");
 
         for (var i in success){
-          var part = success[i].desc.split(/\s(?=http)/ig).join('  \n').trim() + '\n\n';
+          var part = '';
+          var parts = success[i].desc.split(/\s(?=http)/ig);
 
-          if (part.indexOf('http') === 0){
-            part = success[i].name + '  \n' + part;
+          if (parts[0].indexOf('http') !== -1){
+            parts = [success[i].name, parts[0]];
           }
 
+          parts = clearParts(parts);
+
+          if (markdown){
+            part = '[' + parts[0] + '](' + parts[1] + ')';
+          }else{
+            part = parts.join('  \n');
+          }
+
+          part += '\n\n';
           text += part;
         }
 
-        text = text.replace('m.geektimes.ru', 'geektimes.ru');
+
         target.text(text);
         target.show().focus();
       },
@@ -90,8 +138,10 @@
   var showLists = function(){
     var listsUI = contentUI.find('.trello-ui__lists');
 
+
+
     if (!listsUI.length){
-      listsUI = $('<div class="trello-ui__lists"><div class="trello-ui__lists-buttons"></div><textarea class="trello-ui__list-content" readonly></textarea></div>');
+      listsUI = $('<div class="trello-ui__lists"><div class="trello-ui__lists-buttons"></div><label><input type="checkbox" class="markdown_switch"/> markdown</label><textarea class="trello-ui__list-content" readonly></textarea></div>');
       contentUI.append(listsUI);
     }
 
@@ -100,6 +150,13 @@
     var listContentUI = listsUI.find('.trello-ui__list-content');
     listContentUI.hide().empty().on('focus', function(){
       this.select();
+    });
+    var currentList;
+
+    $('.markdown_switch').on('change', function(){
+      if (currentList){
+        loadListContent(currentList, listContentUI);
+      }
     });
 
     for (var i in lists){
@@ -111,6 +168,7 @@
         +list.name
         +'</button>')
         .on('click', function(){
+          currentList = this;
           loadListContent(this, listContentUI);
         });
       listButtonsUI.append(listButton);
@@ -152,7 +210,7 @@
       success: authenticationSuccess,
       error: authenticationError
     });
-  }
+  };
 
   var trelloLogout = function(){
     Trello.deauthorize();
@@ -186,4 +244,4 @@
 
   init();
   getUserInfo();
-})(jQuery)
+})(jQuery);
