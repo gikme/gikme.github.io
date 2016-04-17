@@ -107,7 +107,12 @@
     var suffixes = [
       ' / Geektimes',
       ' | n1.by',
-      ' - 4PDA'
+      ' - 4PDA',,
+      ': Техника: Наука и техника: Lenta.ru',
+      ': Наука и техника: Lenta.ru',
+      ': Lenta.ru',
+      ' / Мегамозг',
+      ' – Журнал «Нож»'
     ];
 
     var prefixes = [
