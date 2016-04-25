@@ -3,7 +3,7 @@ Date: 2016-04-18 23:55:00
 Author: gikme
 Category: podcast
 Tags: facebook, intel, f8, milner, hawking, robot, bio, space
-Slug: 2016-04-18
+Slug: 2016-04-18-facebook-will-launch-reusable-meat-stage-to-alpha-centauri
 Image: /images/episodes/gikme-pic-s04e122-2.jpg  
 Enclosure: http://static.gik.me/mp3/s04/00122-facebook-will-launch-reusable-meat-stage-to-alpha-centaur.mp3
 Mime: audio/mpeg
