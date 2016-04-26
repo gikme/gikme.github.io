@@ -5,7 +5,7 @@ Category: podcast
 Tags: findface, denmark, cpu
 Slug: 2016-04-26-roscomnadzor-pull-denmark-on-findface
 Image: /images/episodes/gikme-pic-s04e123-2.jpg  
-Enclosure: http://static.gik.me/mp3/s04/00122-facebook-will-launch-reusable-meat-stage-to-alpha-centaur.mp3
+Enclosure: http://static.gik.me/mp3/s04/00123-roscomnadzor-pull-denmark-on-findface.mp3
 Mime: audio/mpeg
 
 
