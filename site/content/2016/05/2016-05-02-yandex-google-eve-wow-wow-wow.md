@@ -1,5 +1,5 @@
 Title: #124, Яндекс Google EVE WOW WOW WOW
-Date: 2016-05-022 19:20:00
+Date: 2016-05-02 19:20:00
 Author: gikme
 Category: podcast
 Tags: yandex, google, eve, wow, tesla, gentoo, doogee, samsung
