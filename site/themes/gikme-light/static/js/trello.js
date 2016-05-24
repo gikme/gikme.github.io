@@ -112,13 +112,15 @@
       ': Наука и техника: Lenta.ru',
       ': Lenta.ru',
       ' / Мегамозг',
-      ' – Журнал «Нож»'
+      ' – Журнал «Нож»',
+      ' — Meduza'
     ];
 
     var prefixes = [
       'Компания Яндекс — Главные новости — ',
       'Ferra.ru - ',
-      'TNW: '
+      'TNW: ',
+      'TJ: '
     ];
 
     return clearSuffixes(clearPrefixes(text.trim(), prefixes), suffixes).trim();
