@@ -4,7 +4,7 @@ Category: nedocast
 Tags: odno nazvanie
 Author: gikme  
 Slug: 2016-06-04-odno-nazvanie-41
-Image: /images/on/ep41.png
+Image: /images/on/ep41.jpg
 Enclosure: http://static.gik.me/mp3/on/s02/00041-odno-nazvanie.mp3  
 Mime: audio/mpeg
 
