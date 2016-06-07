@@ -3,8 +3,8 @@ Date: 2016-06-07 12:35:00
 Author: gikme
 Category: podcast
 Tags: sap, yandex, arm, intel, xeon, cavium, doom, eve, google, oracle, prosthesis, java, 3d, print, cancer
-Slug: 2016-06-01-robot-humanities-from-ibm-will-replace-people-in-mcdonalds
-Image: /images/episodes/gikme-pic-s04e127-2.jpg  
+Slug: 2016-06-01-5-levels-from-doom-will-be-added-to-eve-online
+Image: /images/episodes/gikme-pic-s04e128-2.jpg  
 Enclosure: http://static.gik.me/mp3/s04/00128-5-levels-from-doom-will-be-added-to-eve-online.mp3
 Mime: audio/mpeg
 
