@@ -120,7 +120,8 @@
       'Компания Яндекс — Главные новости — ',
       'Ferra.ru - ',
       'TNW: ',
-      'TJ: '
+      'TJ: ',
+      'OpenNews: '
     ];
 
     return clearSuffixes(clearPrefixes(text.trim(), prefixes), suffixes).trim();
