@@ -153,7 +153,7 @@
           }
 
           if (parts[0].indexOf('http') > -1){
-            parts = ['Будь проклят WebView!!!11 😠😠😠', parts[0]];
+            parts = ['⚠ Будь проклят WebView!!!11 😡😡😡 ⚠', parts[0]];
           }
 
           parts = clearParts(parts);
