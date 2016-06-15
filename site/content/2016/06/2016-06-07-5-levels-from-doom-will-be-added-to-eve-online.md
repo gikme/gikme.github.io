@@ -1,11 +1,11 @@
-Title: #129, Ричард Столлман сыграет киберспортсмена в Лиге Справедливости
-Date: 2016-06-15 13:30:00
+Title: #128, в EVE Online добавят 5 уровней из DOOM
+Date: 2016-06-07 12:35:00
 Author: gikme
 Category: podcast
-Tags: 
-Slug: 2016-06-15-00129-richard-stallman-will-play-cyber-athlete-in-justice-league
-Image: /images/episodes/gikme-pic-s04e129-2.jpg  
-Enclosure: http://static.gik.me/mp3/s04/00129-richard-stallman-will-play-cyber-athlete-in-justice-league.mp3
+Tags: sap, yandex, arm, intel, xeon, cavium, doom, eve, google, oracle, prosthesis, java, 3d, print, cancer
+Slug: 2016-06-01-robot-humanities-from-ibm-will-replace-people-in-mcdonalds
+Image: /images/episodes/gikme-pic-s04e127-2.jpg  
+Enclosure: http://static.gik.me/mp3/s04/00128-5-levels-from-doom-will-be-added-to-eve-online.mp3
 Mime: audio/mpeg
 
 
@@ -14,7 +14,7 @@ Mime: audio/mpeg
 <https://vk.com/sysodmins>
 
 Запись прямой трансляции: интересные разговоры между подкастами + этот выпуск + недокаст «Одно название» на YouTube (подписывайся на канал):  
-<https://www.youtube.com/watch?v=YdqsCLpJsOA>
+<https://www.youtube.com/watch?v=1NqnFPE3jkM>
 
 Скидываем деньги, обязательно с пометкой:  
 Можно каждому отдельно, можно всем вместе (Заберёт Вадя :-) ):  
@@ -35,12 +35,16 @@ Morning Coffee <https://telegram.me/morningcoffeeproject>
 
 ———
 
-Рассказ про всяческий VR
+[Первые тесты универсальной вакцины против рака прошли успешно](https://geektimes.ru/post/276776/)
 
-[Вместо «раскладушки» Lenovo представила модульный смартфон Moto Z с USB-C и без порта наушников](https://tjournal.ru/29528-vmesto-raskladushki-lenovo-predstavila-modulnii-smartfon-moto-z-s-usb-c-i-bez-porta-naushnikov)
+[Немецкая SAP вывела Yandex data factory на потенциально «бесконечный» международный B2B-рынок Big Data](https://roem.ru/03-06-2016/225630/sap-i-yandex-data-factory-pogut-kompaniyam-sekonomit-10-na-klientah/)
 
-[Киберспорт стал официальным видом спорта в России](https://tjournal.ru/29432-kibersport-stal-oficialnim-vidom-sporta-v-rossii)
+[54-ядерные ARM-чипы Cavium ThunderX2 будут быстрее Intel Xeon E5](http://www.3dnews.ru/933815/?feed)
 
-[Проект GNU представил свободную систему электронных платежей GNU Taler](https://rublacklist.net/17578/)
+[Новый 3D-принтер использует российские комплектующие и ПО](http://www.3dnews.ru/933810/?feed)
 
-[Дж. К. Симмонс готовится к роли в фильме «Лига Справедливости»](https://tjournal.ru/29424-foto-dzh-k-simmons-gotovitsya-k-roli-v-filme-liga-spravedlivosti)
+[Мик Гордон записывал саундтрек Doom на советском синтезаторе](http://riotpixels.com/mik-gordon-zapisyval-saundtrek-doom-na-sovetskom-sintezatore/)
+
+[Google одержал победу над Oracle в разбирательстве, связанном с использованием Java API в Android](http://www.opennet.ru/opennews/art.shtml?num=44497)
+
+[Студенты Университета Хопкинса разработали протез, позволяющий женщинам вновь надеть шпильки](https://geektimes.ru/post/276734/)
