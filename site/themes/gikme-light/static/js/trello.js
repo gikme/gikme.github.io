@@ -113,7 +113,8 @@
       ': Lenta.ru',
       ' / Мегамозг',
       ' – Журнал «Нож»',
-      ' — Meduza'
+      ' — Meduza',
+      ' | RUBLACKLIST.NET'
     ];
 
     var prefixes = [
@@ -121,7 +122,8 @@
       'Ferra.ru - ',
       'TNW: ',
       'TJ: ',
-      'OpenNews: '
+      'OpenNews: ',
+      'Фото: '
     ];
 
     return clearSuffixes(clearPrefixes(text.trim(), prefixes), suffixes).trim();
@@ -140,18 +142,28 @@
 
         for (var i in success){
           var part = '';
-          var parts = success[i].desc.split(/\s(?=http)/ig);
+          var parts = success[i].desc.split(/\s(?=https?)/ig);
 
-          if (parts[0].indexOf('http') !== -1){
+          if (parts[0].indexOf('http') > -1){
             parts = [success[i].name, parts[0]];
+          }else if (parts.length < 2){
+            parts = [success[i].name, ''];
+          }
+
+          if (parts[0].indexOf('http') > -1){
+            parts = ['Будь проклят WebView!!!11 😠😠😠', parts[0]];
           }
 
           parts = clearParts(parts);
 
-          if (markdown){
-            part = '[' + parts[0] + '](' + parts[1] + ')';
+          if (parts[1]){
+            if (markdown){
+              part = '[' + parts[0] + '](' + parts[1] + ')';
+            }else{
+              part = parts.join('  \n');
+            }
           }else{
-            part = parts.join('  \n');
+            part = parts[0];
           }
 
           part += '\n\n';
