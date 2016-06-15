@@ -143,7 +143,8 @@
 
         for (var i in success){
           var part = '';
-          var parts = success[i].desc.split(/\s(?=https?)/ig);
+          var slices = success[i].desc.split(/\s(?=http)/ig);
+          var parts = slices.slice();
 
           if (parts[0].indexOf('http') > -1){
             parts = [success[i].name, parts[0]];
@@ -162,6 +163,18 @@
               part = '[' + parts[0] + '](' + parts[1] + ')';
             }else{
               part = parts.join('  \n');
+            }
+
+            if (slices.length > 2){
+              for (var i=2; i < slices.length; i++){
+                if (markdown){
+                  parts[i] = '<' + slices[i] + '>';
+                }else{
+                  parts[i] = '' + slices[i];
+                }
+
+                part += '  \n' + parts[i];
+              }
             }
           }else{
             part = parts[0];
