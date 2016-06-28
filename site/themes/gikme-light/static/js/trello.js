@@ -115,7 +115,9 @@
       ' / Мегамозг',
       ' – Журнал «Нож»',
       ' — Meduza',
-      ' | RUBLACKLIST.NET'
+      ' | RUBLACKLIST.NET',
+      ' → Roem.ru',
+      ' - YouTube'
     ];
 
     var prefixes = [
