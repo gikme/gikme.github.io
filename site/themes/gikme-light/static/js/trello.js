@@ -117,7 +117,8 @@
       ' — Meduza',
       ' | RUBLACKLIST.NET',
       ' → Roem.ru',
-      ' - YouTube'
+      ' - YouTube',
+      ' / Хабрахабр'
     ];
 
     var prefixes = [
