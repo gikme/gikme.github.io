@@ -98,7 +98,9 @@
   var clearUrl = function(url){
     var suffixes = [
       '?from=rss',
-      '?from=club'
+      '?from=club',
+      '?feed',
+      '?utm_source=thematic1'
     ];
 
     return clearSuffixes(clearDoamins(url.trim()), suffixes).trim();
