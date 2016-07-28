@@ -28,7 +28,7 @@ DEFAULT_LANG = u'ru_RU'
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
-FEED_MAX_ITEMS = 15
+# FEED_MAX_ITEMS = 15
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
