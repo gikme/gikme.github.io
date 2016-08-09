@@ -120,7 +120,8 @@
       ' | RUBLACKLIST.NET',
       ' → Roem.ru',
       ' - YouTube',
-      ' / Хабрахабр'
+      ' / Хабрахабр',
+      ' – Афиша Daily'
     ];
 
     var prefixes = [
@@ -129,7 +130,8 @@
       'TNW: ',
       'TJ: ',
       'OpenNews: ',
-      'Фото: '
+      'Фото: ',
+      'Технологии | '
     ];
 
     return clearSuffixes(clearPrefixes(text.trim(), prefixes), suffixes).trim();
