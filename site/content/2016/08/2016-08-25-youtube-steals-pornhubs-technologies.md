@@ -1,5 +1,5 @@
 Title: #135, YouTube ворует наработки у PornHub
-Date: 2016-08-09 22:45:00
+Date: 2016-08-25 13:35:00
 Author: gikme
 Category: podcast
 Tags: youtube, pornhub, tesla, microsoft, google, fuchsia, chrome, flash, html, beer, art, aircraft 
