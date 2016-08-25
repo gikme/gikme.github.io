@@ -121,7 +121,8 @@
       ' → Roem.ru',
       ' - YouTube',
       ' / Хабрахабр',
-      ' – Афиша Daily'
+      ' – Афиша Daily',
+      ' | ZDNet'
     ];
 
     var prefixes = [
