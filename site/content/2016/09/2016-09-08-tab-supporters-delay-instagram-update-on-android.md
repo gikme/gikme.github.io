@@ -4,7 +4,7 @@ Author: gikme
 Category: podcast
 Tags: android, tab, space, lg, windows, microsoft, ibm, ara, google, rescue
 Slug: 2016-09-08-tab-supporters-delay-instagram-update-on-android
-Image: /images/episodes/gikme-pic-s04e137-2.jpg  
+Image: /images/episodes/gikme-pic-s04e137-2.png  
 Enclosure: http://static.gik.me/mp3/s04/00137-tab-supporters-delay-instagram-update-on-android.mp3
 Mime: audio/mpeg
 
