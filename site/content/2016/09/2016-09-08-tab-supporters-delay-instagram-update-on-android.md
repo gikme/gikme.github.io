@@ -1,4 +1,4 @@
-Title: #137, Сторонники табуляции задерживают обновление Instagram на Andriod
+Title: #137, Сторонники табуляции задерживают обновление Instagram на Android
 Date: 2016-09-08 12:25:00
 Author: gikme
 Category: podcast
