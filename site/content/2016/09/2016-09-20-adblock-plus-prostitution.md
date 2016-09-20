@@ -5,7 +5,7 @@ Category: podcast
 Tags: pornhub, apple, china, leeco, copyright, varlamov, adblock
 Slug: 2016-09-20-adblock-plus-prostitution
 Image: /images/episodes/gikme-pic-s04e139-2.png  
-Enclosure: http://static.gik.me/mp3/s04/00139-adblock-plus-prostitutiona.mp3
+Enclosure: http://static.gik.me/mp3/s04/00139-adblock-plus-prostitution.mp3
 Mime: audio/mpeg
 
 
