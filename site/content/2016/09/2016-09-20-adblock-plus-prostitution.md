@@ -1,11 +1,11 @@
-Title: #138, Презентация Apple: iOS 10 вызывает слабоумие
-Date: 2016-09-13 13:00:00
+Title: #139, AdBlock Plus займётся проституцией
+Date: 2016-09-20 12:05:00
 Author: gikme
 Category: podcast
-Tags: apple, sony, playstation, bank of america
-Slug: 2016-09-13-apple-ios-10-causes-dementia
-Image: /images/episodes/gikme-pic-s04e138-2.png  
-Enclosure: http://static.gik.me/mp3/s04/00138-apple-ios-10-causes-dementia.mp3
+Tags: pornhub, apple, china, leeco, copyright, varlamov, adblock
+Slug: 2016-09-20-adblock-plus-prostitution
+Image: /images/episodes/gikme-pic-s04e139-2.png  
+Enclosure: http://static.gik.me/mp3/s04/00139-adblock-plus-prostitutiona.mp3
 Mime: audio/mpeg
 
 
@@ -16,7 +16,7 @@ Mime: audio/mpeg
 Отдельная благодарность Apple за просраный звук, а также Google за то, что хоть что-то осталось!
 
 Запись прямой трансляции: интересные разговоры между подкастами + этот выпуск + недокаст «Одно название» на YouTube (подписывайся на канал):  
-<https://www.youtube.com/watch?v=XxWRlliXI78>
+<https://www.youtube.com/watch?v=xZNxyo47FXg>
 
 Скидываем деньги, обязательно с пометкой:  
 Можно каждому отдельно, можно всем вместе:  
@@ -36,12 +36,16 @@ Mime: audio/mpeg
 
 ———
 
-Апель
+[Анализ акустических сигналов дельфинов-афалин показал возможное наличие у них развитой разговорной речи](https://geektimes.ru/post/280360/)
 
-[Помимо PS4 Pro представлена более лёгкая и компактная PS4](http://www.3dnews.ru/page/939097)
+Порнхаб
 
-[Sony назвала ориентировочные российские цены на PS4 Slim, PS4 Pro и PS VR](http://www.3dnews.ru/page/939126)
+[Adblock Plus now sells ads - The Verge](http://www.theverge.com/2016/9/13/12890050/adblock-plus-now-sells-ads)
 
-[Анонсирована PlayStation 4 Pro с поддержкой 4К](http://www.3dnews.ru/page/939080)
+[Китайская LeEco анонсировала поставки в Россию своего конкурента Tesla](https://vc.ru/n/leeco-cars-russia)
 
-[Bank of America оценил шанс существования виртуальной «матрицы» в 20-50%](https://vc.ru/n/boa-matrix)
+[Суд РФ разрешил публиковать чужие фотографии без разрешения автора](https://geektimes.ru/post/280528/)
+
+[AirPods Strap, Spigen «Never Lose Your AirPods» (PATENT PENDING) iPhone 7 & iPhone 7 Plus Air Pods Strap Wire Cable Connector for Apple Airpods - Exclusive for Apple iPhone 7 & iPhone 7 Plus](https://www.amazon.com/AirPods-Spigen-PENDING-Connector-Airpods/dp/B01LVZ4SXN/)
+
+
