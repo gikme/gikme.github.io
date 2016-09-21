@@ -108,9 +108,9 @@ class PodcastFeed(Rss201rev2Feed):
         if podcast_meta:
             # Adds a language root tag. Ex:
             #  <language>en</language>
-            if 'laguage' in podcast_meta:
+            if 'language' in podcast_meta:
                 handler.addQuickElement(
-                    'language', podcast_meta['laguage']
+                    'language', podcast_meta['language']
                 )
             # Adds a explicit content root tag. Ex:
             #  <itunes:explicit>No</itunes:explicit>
@@ -177,8 +177,8 @@ class PodcastFeed(Rss201rev2Feed):
             #  <itunes:category text="Technology">
             #   <itunes:category text="Gadgets"/>
             #  </itunes:category>
-            if 'categoies' in podcast_meta:
-                for category in podcast_meta['categoies']:
+            if 'categories' in podcast_meta:
+                for category in podcast_meta['categories']:
                   if type(category) in (list, tuple):
                       handler.startElement(
                           'itunes:category', attrs={'text': category[0]}
