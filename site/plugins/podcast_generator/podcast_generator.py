@@ -38,7 +38,7 @@ for key in ITEM_ELEMENTS:
 class ResroeUrlMixin(object):
     def _restore_url(self, url):
         if not url.startswith('http'):
-            url = url.startswith('/') or u'/%s' % url
+            url = url.startswith('/') and url or u'/%s' % url
 
             return u'%s/%s' % (self.site_url, url)
 
