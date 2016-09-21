@@ -312,14 +312,13 @@ class iTunesWriter(Writer):
             items['itunes:image'] = {
                 'href': self._restore_url(item.image)}
 
-            if image:
-                image = u'<img alt="{0}" src="{1}"/><br/>'.format(
-                                                                  items['title'].replace('&', '&amp;'
-                                                                  ).replace('<', '&lt;'
-                                                                  ).replace('>', '&gt;'
-                                                                  ).replace('"', '&quot;'
-                                                                  ).replace("'", '&#39;'
-                                                                  ), self._restore_url(item.image))
+            image = u'<img alt="{0}" src="{1}"/><br/>'.format(
+                                                              items['title'].replace('&', '&amp;'
+                                                              ).replace('<', '&lt;'
+                                                              ).replace('>', '&gt;'
+                                                              ).replace('"', '&quot;'
+                                                              ).replace("'", '&#39;'
+                                                              ), self._restore_url(item.image))
         else:
             image = ''
 
