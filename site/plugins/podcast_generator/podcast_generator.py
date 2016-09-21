@@ -365,7 +365,7 @@ class iTunesWriter(Writer):
             items['guid'] = items['link']
         # Add the new article to the feed.
 
-        content = Markup(image + item.content + postfix)
+        content = image + item.get_content(self.site_url) + postfix
 
         items['description'] = "<![CDATA[{}]]>".format(sanitize(content))
 
