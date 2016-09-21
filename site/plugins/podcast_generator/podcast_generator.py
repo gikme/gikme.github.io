@@ -35,7 +35,17 @@ for key in ITEM_ELEMENTS:
     DEFAULT_ITEM_ELEMENTS[key] = None
 
 
-class PodcastFeed(Rss201rev2Feed):
+class ResroeUrlMixin(object):
+    def _restore_url(self, url):
+        if not url.startswith('http'):
+            url = url.startswith('/') or u'/%s' % url
+
+            return u'%s/%s' % (self.site_url, url)
+
+        return url
+
+
+class PodcastFeed(Rss201rev2Feed, ResroeUrlMixin):
     """Helper class which generates the XML based in the global settings"""
     def __init__(self, *args, **kwargs):
         self.category = kwargs.pop('category', '')
@@ -48,12 +58,6 @@ class PodcastFeed(Rss201rev2Feed):
         :param settings: A dictionary with all the site settings.
         """
         self.settings = settings
-
-    def _restore_url(self, url):
-        if not url.startswith('http'):
-            return u'%s/%s' % (self.site_url, url)
-
-        return url
 
     def rss_attributes(self):
         """Returns the podcast feed's attributes.
@@ -224,7 +228,7 @@ class PodcastFeed(Rss201rev2Feed):
                 handler.addQuickElement(key, attrs=item[key])
 
 
-class iTunesWriter(Writer):
+class iTunesWriter(Writer, ResroeUrlMixin):
     """Writer class for our iTunes feed.  This class is responsible for
     invoking the PodcastFeed and writing the feed itself (using it's superclass
     methods)."""
@@ -232,12 +236,6 @@ class iTunesWriter(Writer):
     def __init__(self, *args, **kwargs):
         """Class initializer"""
         super(iTunesWriter, self).__init__(*args, **kwargs)
-
-    def _restore_url(self, url):
-        if not url.startswith('http'):
-            return u'%s/%s' % (self.site_url, url)
-
-        return url
 
     def write_feed(self, elements, context, path=None, feed_type='atom', *args, **kwargs):
         path_template = self.settings.get('CATEGORY_FEED_RSS', '') or self.settings.get('CATEGORY_FEED_ATOM', '')
