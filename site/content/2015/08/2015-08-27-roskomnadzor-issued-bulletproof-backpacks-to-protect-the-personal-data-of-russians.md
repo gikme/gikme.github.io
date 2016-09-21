@@ -5,7 +5,7 @@ Category: podcast
 Tags: facebook, firefox, chrome, samsung, google, wiki
 Slug: 2015-08-27-roskomnadzor-issued-bulletproof-backpacks-to-protect-the-personal-data-of-russians
 Image: /images/episodes/gikme-pic-s03e92.jpg  
-Enclosure: http://static.gik.me/mp3/s03/00092-roskomnadzor-issued-bulletproof-backpacks-to-protect-the-personal-data-of russians.mp3  
+Enclosure: http://static.gik.me/mp3/s03/00092-roskomnadzor-issued-bulletproof-backpacks-to-protect-the-personal-data-of-russians.mp3  
 Mime: audio/mpeg
 
 Информационный партнёр:  
