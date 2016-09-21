@@ -90,6 +90,7 @@ PODCAST = {
         'author': 'gik.me',
         'image': '/images/gm_cover_2000x2000.png',
         'owner': 'gik.me',
+        'email': 'qnub.ru+gik-me@gmail.com',
         'categories': [
             ['Technology', 'Tech News'],
             ['Technology', 'Gadgets'],
@@ -123,6 +124,7 @@ PODCAST = {
         'author': 'gik.me',
         'image': '/images/on_cover_2000x2000.png',
         'owner': 'gik.me',
+        'email': 'qnub.ru+odno-nazvanie@gmail.com',
         'categories': [
             'Comedy',
             'Kids & Family',

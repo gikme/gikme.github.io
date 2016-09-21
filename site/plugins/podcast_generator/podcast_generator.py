@@ -66,6 +66,7 @@ class PodcastFeed(Rss201rev2Feed, ResroeUrlMixin):
         """
         attrs = super(PodcastFeed, self).root_attributes()
         attrs['xmlns:itunes'] = "http://www.itunes.com/dtds/podcast-1.0.dtd"
+        attrs['xmlns:googleplay'] = "http://www.google.com/schemas/play-podcasts/1.0"
         attrs['xmlns:media'] = "http://search.yahoo.com/mrss/"
         attrs['xmlns:creativeCommons'] = "http://backend.userland.com/creativeCommonsRssModule"
         attrs['version'] = '2.0'
@@ -134,6 +135,9 @@ class PodcastFeed(Rss201rev2Feed, ResroeUrlMixin):
                 handler.addQuickElement(
                     'itunes:author', podcast_meta['author']
                 )
+                handler.addQuickElement(
+                    'googleplay:author', podcast_meta['author']
+                )
             # Adds a podcast summary root tag. Ex:
             #  <itunes:summary>A podcast about... </itunes:summary>
             if 'summary' in podcast_meta:
@@ -153,13 +157,18 @@ class PodcastFeed(Rss201rev2Feed, ResroeUrlMixin):
             #  <itunes:image href="http://example.com/logo.jpg" />
             if 'image' in podcast_meta:
                 handler.addQuickElement(
-                'itunes:image', attrs={
-                    'href': self._restore_url(podcast_meta['image'])
+                    'itunes:image', attrs={
+                        'href': self._restore_url(podcast_meta['image'])
                     }
                 )
                 handler.addQuickElement(
-                'media:thumbnail', attrs={
-                    'url': self._restore_url(podcast_meta['image'])
+                    'media:thumbnail', attrs={
+                        'url': self._restore_url(podcast_meta['image'])
+                    }
+                )
+                handler.addQuickElement(
+                    'googleplay:image', attrs={
+                        'href': self._restore_url(podcast_meta['image'])
                     }
                 )
             # Adds a feed owner root tag an some child tags. Ex:
@@ -177,30 +186,48 @@ class PodcastFeed(Rss201rev2Feed, ResroeUrlMixin):
                     'itunes:email', podcast_meta['email']
                 )
                 handler.endElement('itunes:owner')
+
+            if 'email' in podcast_meta:
+                handler.addQuickElement(
+                    'googleplay:email', podcast_meta['email']
+                )
+
             # Adds a show category root tag and some child tags. Ex:
             #  <itunes:category text="Technology">
             #   <itunes:category text="Gadgets"/>
             #  </itunes:category>
+            used_categories = []
+
             if 'categories' in podcast_meta:
                 for category in podcast_meta['categories']:
-                  if type(category) in (list, tuple):
-                      handler.startElement(
-                          'itunes:category', attrs={'text': category[0]}
-                      )
-                      handler.addQuickElement(
-                          'itunes:category', attrs={'text': category[1]}
-                      )
-                      handler.endElement('itunes:category')
-                      handler.addQuickElement(
-                          'media:category', u'/'.join(category), attrs={'scheme': "http://www.itunes.com/dtds/podcast-1.0.dtd"}
-                      )
-                  else:
-                      handler.addQuickElement(
-                          'itunes:category', attrs={'text': category}
-                      )
-                      handler.addQuickElement(
-                          'media:category', category, attrs={'scheme': "http://www.itunes.com/dtds/podcast-1.0.dtd"}
-                      )
+                    if type(category) in (list, tuple):
+                        handler.startElement(
+                            'itunes:category', attrs={'text': category[0]}
+                        )
+                        handler.addQuickElement(
+                            'itunes:category', attrs={'text': category[1]}
+                        )
+                        handler.endElement('itunes:category')
+                        handler.addQuickElement(
+                            'media:category', u'/'.join(category), attrs={'scheme': "http://www.itunes.com/dtds/podcast-1.0.dtd"}
+                        )
+
+                        if category[0] not in used_categories:
+                            handler.addQuickElement(
+                                'googleplay:category', category[0]
+                            )
+                            used_categories.append(category[0])
+                    elif category not in used_categories:
+                            handler.addQuickElement(
+                                'itunes:category', attrs={'text': category}
+                            )
+                            handler.addQuickElement(
+                                'media:category', category, attrs={'scheme': "http://www.itunes.com/dtds/podcast-1.0.dtd"}
+                            )
+                            handler.addQuickElement(
+                                'googleplay:category', category
+                            )
+                            used_categories.append(category)
 
     def add_item_elements(self, handler, item):
         """Adds a new element to the iTunes feed, using information from
@@ -308,6 +335,9 @@ class iTunesWriter(Writer, ResroeUrlMixin):
         #  <itunes:image href="http://example.com/Episodio1.jpg" />
         if hasattr(item, 'image'):
             items['itunes:image'] = {
+                'href': self._restore_url(item.image)}
+
+            items['googleplay:image'] = {
                 'href': self._restore_url(item.image)}
 
             image = u'<img alt="{0}" src="{1}"/><br/>'.format(
