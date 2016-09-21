@@ -312,6 +312,17 @@ class iTunesWriter(Writer):
             items['itunes:image'] = {
                 'href': self._restore_url(item.image)}
 
+            if image:
+                image = u'<img alt="{0}" src="{1}"/><br/>'.format(
+                                                                  items['title'].replace('&', '&amp;'
+                                                                  ).replace('<', '&lt;'
+                                                                  ).replace('>', '&gt;'
+                                                                  ).replace('"', '&quot;'
+                                                                  ).replace("'", '&#39;'
+                                                                  ), self._restore_url(item.image))
+        else:
+            image = ''
+
         # Information about the episode audio.
         #  ex: <enclosure url="http://example.com/episode.m4a"
         #   length="872731" type="audio/x-m4a" />
@@ -354,25 +365,14 @@ class iTunesWriter(Writer):
             items['guid'] = items['link']
         # Add the new article to the feed.
 
-        image = getattr(item, 'image', '')
+        content = Markup(image + item.content + postfix)
 
-        if image:
-            image = u'<img alt="{0}" src="{1}"/><br/>'.format(
-                                                              items['title'].replace('&', '&amp;'
-                                                              ).replace('<', '&lt;'
-                                                              ).replace('>', '&gt;'
-                                                              ).replace('"', '&quot;'
-                                                              ).replace("'", '&#39;'
-                                                              ), self._restore_url(image))
-
-        content = Markup(item.content)
-
-        items['description'] = "<![CDATA[{}]]>".format(sanitize(image + content + postfix))
+        items['description'] = "<![CDATA[{}]]>".format(sanitize(content))
 
         # Summary for the article. This can be obtained either from
         # a ``:description:`` or a ``:summary:`` directive.
         #  ex: <itunes:summary>In this episode... </itunes:summary>
-        items['itunes:summary'] = content.striptags()
+        items['itunes:summary'] = Markup(item.content).striptags()
 
         feed.add_item(**items)
 
