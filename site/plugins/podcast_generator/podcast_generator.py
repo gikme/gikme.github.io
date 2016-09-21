@@ -40,7 +40,7 @@ class ResroeUrlMixin(object):
         if not url.startswith('http'):
             url = url.startswith('/') and url or u'/%s' % url
 
-            return u'%s/%s' % (self.site_url, url)
+            return u'%s%s' % (self.site_url, url)
 
         return url
 
