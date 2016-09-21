@@ -125,9 +125,9 @@ PODCAST = {
         'owner': 'gik.me',
         'categories': [
             'Comedy',
-            'Kids &amp; Family',
-            ['Games &amp; Hobbies', 'Video Games'],
-            ['Society &amp; Culture', 'Places &amp; Travel']
+            'Kids & Family',
+            ['Games & Hobbies', 'Video Games'],
+            ['Society & Culture', 'Places & Travel']
         ],
         'keywords': u'life,personal,podcast,blog,jokes,stories,log,talks,humor',
         'summary': u'Сплошное ИМХО, трололо и азаза…',

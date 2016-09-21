@@ -354,16 +354,25 @@ class iTunesWriter(Writer):
             items['guid'] = items['link']
         # Add the new article to the feed.
 
-        content = item.content + postfix
+        image = getattr(item, 'image', '')
 
-        items['description'] = "<![CDATA[{}]]>".format(
-            sanitize(Markup(content))
-        )
+        if image:
+            image = u'<img alt="{0}" src="{1}"/><br/>'.format(
+                                                              items['title'].replace('&', '&amp;'
+                                                              ).replace('<', '&lt;'
+                                                              ).replace('>', '&gt;'
+                                                              ).replace('"', '&quot;'
+                                                              ).replace("'", '&#39;'
+                                                              ), self._restore_url(image))
+
+        content = Markup(item.content)
+
+        items['description'] = "<![CDATA[{}]]>".format(sanitize(image + content + postfix))
 
         # Summary for the article. This can be obtained either from
         # a ``:description:`` or a ``:summary:`` directive.
         #  ex: <itunes:summary>In this episode... </itunes:summary>
-        items['itunes:summary'] = Markup(item.content.replace('<br/>', '&amp;#xD;\n')).striptags()
+        items['itunes:summary'] = content.striptags()
 
         feed.add_item(**items)
 
