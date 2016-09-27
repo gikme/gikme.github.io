@@ -65,7 +65,7 @@ anonymous x5
 410011~5160  
 
 Cyber (@cyber)  
-Khojanashvili Givi  
+Khojanashvili Givi (@gigovich)  
 Kolganov Evgeny  
 Konstantin Taletskiy  
 Rad (@greynix) х3  
@@ -78,4 +78,5 @@ Robert Null (@bobrebyc) х2
 ### Автоплатёж:
 
 Денис (@denis_0k)  
-Cyber (@cyber)
+Cyber (@cyber)  
+Khojanashvili Givi (@gigovich)
