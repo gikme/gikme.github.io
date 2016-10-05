@@ -122,7 +122,10 @@
       ' - YouTube',
       ' / Хабрахабр',
       ' – Афиша Daily',
-      ' | ZDNet'
+      ' | ZDNet',
+      ' | AppTractor',
+      ' | Мел',
+      ' :: Общество :: РБК'
     ];
 
     var prefixes = [
