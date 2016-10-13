@@ -2,7 +2,7 @@ Title: #135, YouTube ворует наработки у PornHub
 Date: 2016-08-25 13:35:00
 Author: gikme
 Category: podcast
-Tags: youtube, pornhub, tesla, microsoft, google, fuchsia, chrome, flash, html, beer, art, aircraft 
+Tags: youtube, pornhub, tesla, microsoft, google, fuchsia, chrome, flash, html, beer, art, aircraft
 Slug: 2016-08-25-youtube-steals-pornhubs-technologies
 Image: /images/episodes/gikme-pic-s04e135-2.jpg  
 Enclosure: http://static.gik.me/mp3/s04/00135-youtube-steals-pornhubs-technologies.mp3
@@ -12,8 +12,6 @@ Mime: audio/mpeg
 Информационный партнёр:  
 «Типичный Сисадмин».  
 <https://vk.com/sysodmins>
-
-Отдельная благодарность Apple за просраный звук, а также Google за то, что хоть что-то осталось!
 
 Запись прямой трансляции: интересные разговоры между подкастами + этот выпуск + недокаст «Одно название» на YouTube (подписывайся на канал):  
 <https://www.youtube.com/watch?v=STGB3lfBcuM>
@@ -55,5 +53,3 @@ Mime: audio/mpeg
 [Google окончательно переведёт Chrome на HTML5 до конца года](http://4pda.ru/2016/08/10/316387/)
 
 [Google развивает новую операционную систему Fuchsia](http://www.opennet.ru/opennews/art.shtml?num=44952)
-
-

@@ -13,8 +13,6 @@ Mime: audio/mpeg
 «Типичный Сисадмин».  
 <https://vk.com/sysodmins>
 
-Отдельная благодарность Apple за просраный звук, а также Google за то, что хоть что-то осталось!
-
 Запись прямой трансляции: интересные разговоры между подкастами + этот выпуск + недокаст «Одно название» на YouTube (подписывайся на канал):  
 <https://www.youtube.com/watch?v=xZNxyo47FXg>
 
@@ -47,5 +45,3 @@ Mime: audio/mpeg
 [Суд РФ разрешил публиковать чужие фотографии без разрешения автора](https://geektimes.ru/post/280528/)
 
 [AirPods Strap, Spigen «Never Lose Your AirPods» (PATENT PENDING) iPhone 7 & iPhone 7 Plus Air Pods Strap Wire Cable Connector for Apple Airpods - Exclusive for Apple iPhone 7 & iPhone 7 Plus](https://www.amazon.com/AirPods-Spigen-PENDING-Connector-Airpods/dp/B01LVZ4SXN/)
-
-
