@@ -1,5 +1,5 @@
 Title: #140, Google предложит выбрать другой поисковик на Commodore 64 в NASA
-Date: 2016-10-20 23:30:00
+Date: 2016-10-05 23:30:00
 Author: gikme
 Category: podcast
 Tags: astrology, nasa, mask, mars, apple, google, android, commodore, vk
