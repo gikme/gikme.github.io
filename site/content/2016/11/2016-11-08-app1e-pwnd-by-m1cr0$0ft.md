@@ -4,7 +4,7 @@ Author: gikme
 Category: podcast
 Tags: microsoft, apple
 Slug: 2016-11-08-app1e-pwnd-by-m1cr0$0ft
-Image: /images/episodes/gikme-pic-s04e142-2.png  
+Image: /images/episodes/gikme-pic-s04e143-2.png  
 Enclosure: http://static.gik.me/mp3/s04/00143-app1e-pwnd-by-m1cr0$0ft.mp3
 Mime: audio/mpeg
 
