@@ -69,6 +69,7 @@ class PodcastFeed(Rss201rev2Feed, ResroeUrlMixin):
         attrs['xmlns:googleplay'] = "http://www.google.com/schemas/play-podcasts/1.0"
         attrs['xmlns:media'] = "http://search.yahoo.com/mrss/"
         attrs['xmlns:creativeCommons'] = "http://backend.userland.com/creativeCommonsRssModule"
+        attrs['xmlns:atom'] = "http://www.w3.org/2005/Atom"
         attrs['version'] = '2.0'
         return attrs
 
