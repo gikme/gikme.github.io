@@ -4,7 +4,7 @@ Author: gikme
 Category: podcast
 Tags: linux, microsoft, nokia, linkedin, apple, emoji
 Slug: 2016-11-17-linux-foundation-will-block-nokia-because-of-paper-emoji
-Image: /images/episodes/gikme-pic-s04e145.png
+Image: /images/episodes/gikme-pic-s04e145-2.png
 Enclosure: http://static.gik.me/mp3/s04/00145-linux-foundation-will-block-nokia-because-of-paper-emoji.mp3
 Mime: audio/mpeg
 

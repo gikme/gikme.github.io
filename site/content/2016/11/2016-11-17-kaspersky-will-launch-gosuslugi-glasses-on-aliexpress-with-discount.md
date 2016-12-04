@@ -4,7 +4,7 @@ Author: gikme
 Category: podcast
 Tags: kaspersky, gosuslugi, aliexpress, snapchat
 Slug: 2016-11-17-kaspersky-will-launch-gosuslugi-glasses-on-aliexpress-with-discount
-Image: /images/episodes/gikme-pic-s04e144.png  
+Image: /images/episodes/gikme-pic-s04e144-2.png  
 Enclosure: http://static.gik.me/mp3/s04/00144-kaspersky-will-launch-gosuslugi-glasses-on-aliexpress-with-discount.mp3
 Mime: audio/mpeg
 
