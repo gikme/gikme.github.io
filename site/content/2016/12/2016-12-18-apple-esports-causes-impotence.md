@@ -5,7 +5,7 @@ Category: podcast
 Tags: apple, hbo, blizzard, nokia, amd, ryzen, fitbit, pebble
 Slug: 2016-12-18-apple-esports-causes-impotence
 Image: /images/episodes/gikme-pic-s04e148-2.png
-Enclosure: http://static.gik.me/mp3/s04/00148-apple-esports-causes-impotencemp3
+Enclosure: http://static.gik.me/mp3/s04/00148-apple-esports-causes-impotence.mp3
 Mime: audio/mpeg
 
 
