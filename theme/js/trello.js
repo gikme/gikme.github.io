@@ -100,7 +100,8 @@
       '?from=rss',
       '?from=club',
       '?feed',
-      '?utm_source=thematic1'
+      '?utm_source=thematic1',
+      '?from=relap'
     ];
 
     return clearSuffixes(clearDoamins(url.trim()), suffixes).trim();
