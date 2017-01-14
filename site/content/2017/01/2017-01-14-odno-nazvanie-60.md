@@ -5,7 +5,7 @@ Tags: odno nazvanie
 Author: gikme  
 Slug: 2017-01-14-odno-nazvanie-60
 Image: /images/on/ep60.png
-Enclosure: http://static.gik.me/mp3/on/s03/00060-odno-nazvanie.mp3
+Enclosure: http://static.gik.me/mp3/on/s02/00060-odno-nazvanie.mp3
 Mime: audio/mpeg
 
 
