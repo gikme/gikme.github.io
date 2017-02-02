@@ -10,8 +10,8 @@ from filters import cat_name
 
 
 AUTHOR = u'gik.me'
-SITENAME = u'gik.me [closed]'
-SITESUBTITLE = u'Закрытый гиковский подкаст'
+SITENAME = u'gik.me flange 3/4'
+SITESUBTITLE = u'Безупречный гиковский подкаст'
 SITEURL = 'http://gik.me'
 DISQUS_SITENAME = 'gikme'
 
@@ -73,7 +73,7 @@ PAGE_ORDER_BY = 'order'
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['podcast_generator', 'tipue_search']
 
-FEED_IMAGE = '/image/logotry1400x1400.png'
+FEED_IMAGE = '/images/ava-flange_4000x4000'
 FEED_FOOTER = {
     'podcast': '''<p><strong>Музыка:</strong>
 <a href="http://vk.com/bacc3" target="_blank">Василий Корчагин - Аляска</a></p>'''
@@ -88,7 +88,7 @@ PODCAST = {
         'explicit': 'yes',
         'subtitle': u'Подкаст об IT, айтишниках и всём к ним прилегающем',
         'author': 'gik.me',
-        'image': '/images/gm_cover_2000x2000.png',
+        'image': '/images/ava-flange_4000x4000.png',
         'owner': 'gik.me',
         'email': 'qnub.ru+gik-me@gmail.com',
         'categories': [
