@@ -126,7 +126,9 @@
       ' | ZDNet',
       ' | AppTractor',
       ' | Мел',
-      ' :: Общество :: РБК'
+      ' :: Общество :: РБК',
+      ' | РОСКОМСВОБОДА',
+      ' / Блог компании Pult.ru'
     ];
 
     var prefixes = [
@@ -136,7 +138,8 @@
       'TJ: ',
       'OpenNews: ',
       'Фото: ',
-      'Технологии | '
+      'Технологии | ',
+      'ТАСС: Общество - '
     ];
 
     return clearSuffixes(clearPrefixes(text.trim(), prefixes), suffixes).trim();
