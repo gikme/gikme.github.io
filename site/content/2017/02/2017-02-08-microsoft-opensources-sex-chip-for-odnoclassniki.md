@@ -5,7 +5,7 @@ Category: podcast
 Tags: apple, xiaomi, oneplus, telegram, twitter, youporn, mozilla, firefox os, doom, pornhub, facebook, pinhole, windows, ok
 Slug: 2017-02-08-microsoft-opensources-sex-chip-for-odnoclassniki
 Image: /images/episodes/gikme-pic-s05e152-2.png
-Enclosure: http://static.gik.me/mp3/s05/00152-00152-microsoft-opensources-sex-chip-for-odnoclassniki.mp3
+Enclosure: http://static.gik.me/mp3/s05/00152-microsoft-opensources-sex-chip-for-odnoclassniki.mp3
 Mime: audio/mpeg
 
 
