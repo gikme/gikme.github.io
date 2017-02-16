@@ -1,5 +1,5 @@
 Title: #153, Сооснователь Hyperloop One выпустил мессенджер для диванных войск
-Date: 2017-02-08 10:35:00
+Date: 2017-02-16 10:35:00
 Author: gikme
 Category: podcast
 Tags: telegram, tinder, britain, smartwatch, allo, rostelecom, mail.ru, megafon, hyperloop, sofa
