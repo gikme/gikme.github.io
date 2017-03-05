@@ -9,7 +9,7 @@ Enclosure: http://static.gik.me/mp3/on/s03/00065-odno-nazvanie.mp3
 Mime: audio/mpeg
 
 
-Всё верно, 64 выпуска небыло, точнее был, но остался только на ютубе:  <https://www.youtube.com/watch?v=r24LWozJr0s>
+Всё верно, 64 выпуска не было, точнее был, но остался только на ютубе:  <https://www.youtube.com/watch?v=r24LWozJr0s>
 
 ## Контент для людей старше 18 лет!
 
