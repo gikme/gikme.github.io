@@ -3,7 +3,7 @@ Date: 2017-03-26 12:20:00
 Author: gikme
 Category: podcast
 Tags: mwc, google, hangouts, sex, hack, coffee
-Slug: 2017-03-26
+Slug: 2017-03-26-bastard-fuck-come-here
 Image: /images/episodes/gikme-pic-s05e156-2.png
 Enclosure: http://static.gik.me/mp3/s05/00156-bastard-fuck-come-here.mp3
 Mime: audio/mpeg
