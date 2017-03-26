@@ -1,4 +1,4 @@
-Title: #156, bastard-fuck-come-here
+Title: #156, Ублюдок, мать твою, а ну иди сюда
 Date: 2017-03-26 12:20:00
 Author: gikme
 Category: podcast
