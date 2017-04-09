@@ -1,4 +1,4 @@
-pelican
+pelican<3.7
 markdown
 typogrify
 ghp-import
