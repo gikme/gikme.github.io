@@ -4,4 +4,4 @@ typogrify
 ghp-import
 beautifulsoup4
 beeprint
-bleach
+bleach<2
