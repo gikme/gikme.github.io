@@ -129,7 +129,8 @@
       ' :: Общество :: РБК',
       ' | РОСКОМСВОБОДА',
       ' / Блог компании Pult.ru',
-      ' | Riot Pixels'
+      ' | Riot Pixels',
+      ' - Киберспорт - Eurosport'
     ];
 
     var prefixes = [
